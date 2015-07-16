@@ -3,4 +3,4 @@ layout: index
 title: alexwarren.uk
 ---
 
-Index...
+Intro, links to GitHub, Twitter, CV
