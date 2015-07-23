@@ -5,3 +5,8 @@ body {
 img {
 	max-width: 100%;
 }
+
+div.date {
+	font-size: 90%;
+	margin: 10px 0;
+}
