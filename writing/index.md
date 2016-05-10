@@ -44,7 +44,7 @@ Read [part 1](http://blog.textadventures.co.uk/2012/04/03/a-year-of-full-time-qu
 ## Other posts
 
 {% for post in site.posts %}
-### <a href="{{ post.url }}">{{ post.title }}</a></h2>
+### <a href="{{ post.url }}">{{ post.title }}</a>
 
 <div class="date">
 {{ post.date | date: "%-d %B %Y" }}

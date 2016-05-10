@@ -1,4 +1,4 @@
-### <a href="{{ include.url }}">{{ include.title }}</a></h2>
+### <a href="{{ include.url }}">{{ include.title }}</a>
 
 <div class="date">
 {{ include.date | date: "%-d %B %Y" }}
