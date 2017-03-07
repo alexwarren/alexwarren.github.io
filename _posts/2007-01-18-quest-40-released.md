@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 4.0 released
-permalink: /2007/01/18/quest-40-released/
+permalink: /2007/01/18/quest-40-released
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2007/01/18/quest-40-released/
 ---
 Quest 4.0 has finally been released, after a few months of beta testing.
 

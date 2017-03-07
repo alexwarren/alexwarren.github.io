@@ -2,7 +2,9 @@
 layout: post
 title: >
     Text Adventure Games and Interactive History: Educational Questing
-permalink: /2013/11/11/text-adventure-games-and-interactive-history-educational-questing/
+permalink: /2013/11/11/text-adventure-games-and-interactive-history-educational-questing
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/11/11/text-adventure-games-and-interactive-history-educational-questing/
 ---
 <em><img class="alignright" alt="" src="http://ficklet.files.wordpress.com/2013/07/fickleheadshot.jpg?w=470" width="157" height="163" />This is a guest blog post by <a href="http://www.ficklet.wordpress.com">Tara Fickle</a>.</em>
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Educating the next generation of software developers
-permalink: /2011/09/20/educating-the-next-generation-of-software-developers/
+permalink: /2011/09/20/educating-the-next-generation-of-software-developers
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/09/20/educating-the-next-generation-of-software-developers/
 ---
 [Cross-posted from <a href="http://www.gamasutra.com/blogs/author/AlexWarren/5812/">my Gamasutra blog</a>]
 

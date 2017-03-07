@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Arse
-permalink: /2003/01/24/and-alex-said-arse/
+permalink: /2003/01/24/and-alex-said-arse
 ---
 Column 12: Arse, 24th January 2003
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Eating Starburst as one of your "five a day"
-permalink: /2009/03/16/eating-starburst-as-one-of-your-five-a-day/
+permalink: /2009/03/16/eating-starburst-as-one-of-your-five-a-day
 ---
 Starburst (a.k.a Opal Fruits, if you insist, but come on – they changed the name in 1998) now have “50% more fruit juice”.
 

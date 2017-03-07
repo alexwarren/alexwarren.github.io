@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 2 - Words in the Sky
-permalink: /2009/10/02/hong-kong-day-2-words-in-the-sky/
+permalink: /2009/10/02/hong-kong-day-2-words-in-the-sky
 ---
 Thursday 1st October
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Spanish adaptation of Scott Adams text adventure for iPhone, iPad, Android
-permalink: /2013/02/06/spanish-adaptation-of-scott-adams-text-adventure-for-iphone-ipad-android/
+permalink: /2013/02/06/spanish-adaptation-of-scott-adams-text-adventure-for-iphone-ipad-android
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/02/06/spanish-adaptation-of-scott-adams-text-adventure-for-iphone-ipad-android/
 ---
 The latest Quest-powered app "Aventura Pirata" is now available from the App Store and Google Play, for smartphones and tablets.
 <ul>

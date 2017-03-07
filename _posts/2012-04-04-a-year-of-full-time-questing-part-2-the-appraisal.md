@@ -2,7 +2,9 @@
 layout: post
 title: >
     A year of full-time Questing, Part 2 - the Appraisal
-permalink: /2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal/
+permalink: /2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal/
 ---
 In <a title="A year of full-time Questing – Part 1" href="http://www.textadventures.co.uk/blog/2012/04/03/a-year-of-full-time-questing-part-1/">Part 1 of this blog</a>, I looked back over the last year of working on Quest full-time. That covers the "what", and for this second part, I want to take a look at "how well". What have been the good and bad parts, and what are my aims for Quest in the future?
 

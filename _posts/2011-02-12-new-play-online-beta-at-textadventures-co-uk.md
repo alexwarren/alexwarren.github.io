@@ -2,7 +2,9 @@
 layout: post
 title: >
     New "Play Online" beta at textadventures.co.uk
-permalink: /2011/02/12/new-play-online-beta-at-textadventures-co-uk/
+permalink: /2011/02/12/new-play-online-beta-at-textadventures-co-uk
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/02/12/new-play-online-beta-at-textadventures-co-uk/
 ---
 I have rewritten the "Play Online" feature of <a href="http://www.textadventures.co.uk">textadventures.co.uk</a>.
 

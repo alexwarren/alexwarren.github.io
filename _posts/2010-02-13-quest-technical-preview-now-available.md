@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 Technical Preview now available
-permalink: /2010/02/13/quest-technical-preview-now-available/
+permalink: /2010/02/13/quest-technical-preview-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/02/13/quest-technical-preview-now-available/
 ---
 <p>The first Quest 5.0 Technical Preview version is now available.</p>
 

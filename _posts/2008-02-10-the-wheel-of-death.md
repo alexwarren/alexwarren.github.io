@@ -2,7 +2,7 @@
 layout: post
 title: >
     The Wheel of Death
-permalink: /2008/02/10/the-wheel-of-death/
+permalink: /2008/02/10/the-wheel-of-death
 ---
 <a href="http://alexwarrenblog.files.wordpress.com/2008/02/death1.jpg"><img class="alignnone size-full wp-image-530" alt="" src="http://alexwarrenblog.files.wordpress.com/2008/02/death1.jpg" width="500" height="310" /></a>
 

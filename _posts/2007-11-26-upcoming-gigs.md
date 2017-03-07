@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming Gigs
-permalink: /2007/11/26/upcoming-gigs/
+permalink: /2007/11/26/upcoming-gigs
 ---
 I am going to be performing some stand-up comedy this week, next week and the week after. I am trying not to shit myself too much...
 

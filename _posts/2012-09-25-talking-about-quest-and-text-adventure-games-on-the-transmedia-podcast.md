@@ -2,7 +2,9 @@
 layout: post
 title: >
     Talking about Quest and text adventure games on The Transmedia Podcast
-permalink: /2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast/
+permalink: /2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast/
 ---
 I am the guest on <a href="http://www.tstoryteller.com/transmedia-podcast-episode-six-adventure-games">episode six of Robert Pratten's Transmedia Podcast</a>. We had a good chat about the past, present and future of text adventure games, building interactive stories, expanding the "niche" for text based games, getting kids into game making and more.
 

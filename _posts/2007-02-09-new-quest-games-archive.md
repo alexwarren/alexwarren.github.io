@@ -2,7 +2,9 @@
 layout: post
 title: >
     textadventures.co.uk - the new Quest Games Archive
-permalink: /2007/02/09/new-quest-games-archive/
+permalink: /2007/02/09/new-quest-games-archive
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2007/02/09/new-quest-games-archive/
 ---
 <font size="2">I have created a new website to replace the Quest Games Archive.
 

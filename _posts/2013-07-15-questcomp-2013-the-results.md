@@ -2,7 +2,9 @@
 layout: post
 title: >
     QuestComp 2013 - the results
-permalink: /2013/07/15/questcomp-2013-the-results/
+permalink: /2013/07/15/questcomp-2013-the-results
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/07/15/questcomp-2013-the-results/
 ---
 The winner of QuestComp 2013, and the £100 prize money, is <strong>Heal Butcher</strong> with <a href="http://textadventures.co.uk/games/view/xfdmtdfvdueyvd5q2qrhlw/worship-the-pig">Worship the Pig</a>. Congratulations!
 

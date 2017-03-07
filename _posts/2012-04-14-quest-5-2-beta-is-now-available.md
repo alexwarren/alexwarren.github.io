@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.2 Beta is now available
-permalink: /2012/04/14/quest-5-2-beta-is-now-available/
+permalink: /2012/04/14/quest-5-2-beta-is-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/04/14/quest-5-2-beta-is-now-available/
 ---
 Quest 5.2 Beta is now available. You can <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download the Windows version</a>, or you can <a title="Create a text adventure game" href="http://www.textadventures.co.uk/create/">use it in your web browser</a>.
 

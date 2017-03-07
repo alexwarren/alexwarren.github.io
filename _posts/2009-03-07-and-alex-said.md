@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said...
-permalink: /2009/03/07/and-alex-said/
+permalink: /2009/03/07/and-alex-said
 ---
 <p class="page_item page-item-124">Here is the full set of nineteen columns I wrote for <a href="http://union.ic.ac.uk/felix/" target="_top">Felix</a>, the Imperial College student newspaper, during the second year of my Physics degree (2002-2003). The column was called "And Alex Said...".</p>
 

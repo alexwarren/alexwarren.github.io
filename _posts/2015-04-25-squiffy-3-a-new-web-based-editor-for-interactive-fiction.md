@@ -2,7 +2,9 @@
 layout: post
 title: >
     Squiffy 3 - a new web-based editor for interactive fiction
-permalink: /2015/04/25/squiffy-3-a-new-web-based-editor-for-interactive-fiction/
+permalink: /2015/04/25/squiffy-3-a-new-web-based-editor-for-interactive-fiction
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2015/04/25/squiffy-3-a-new-web-based-editor-for-interactive-fiction/
 ---
 The third release of <a href="http://textadventures.co.uk/squiffy">Squiffy</a> is now available. The big new feature in this version is <strong>you no longer have to download anything!</strong>
 

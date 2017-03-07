@@ -2,7 +2,7 @@
 layout: post
 title: >
     Don't build an app, build a business
-permalink: /2013/07/11/dont-build-an-app-build-a-business/
+permalink: /2013/07/11/dont-build-an-app-build-a-business
 ---
 https://twitter.com/bartoneducation/status/354841635835752449
 

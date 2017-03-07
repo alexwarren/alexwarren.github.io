@@ -2,7 +2,9 @@
 layout: post
 title: >
     New free version of Visual Studio edits Quest source code
-permalink: /2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code/
+permalink: /2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code/
 ---
 Microsoft have released <a href="http://blogs.msdn.com/b/visualstudio/archive/2012/09/12/visual-studio-express-2012-for-windows-desktop-is-here.aspx">Visual Studio Express 2012 for Windows Desktop</a>. This is the first time there has been a free version of Visual Studio which is capable of editing mixed-language .sln files.
 

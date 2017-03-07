@@ -2,7 +2,9 @@
 layout: post
 title: >
     Open-sourcing "Moquette"
-permalink: /2014/10/15/open-sourcing-moquette/
+permalink: /2014/10/15/open-sourcing-moquette
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2014/10/15/open-sourcing-moquette/
 ---
 A year ago, I released my first work of interactive fiction "<a href="http://textadventures.co.uk/games/view/zbzfpcnknu_vdjog-cbihw/moquette">Moquette</a>" into the <a href="http://www.ifcomp.org/comp/2013">IFComp</a>.
 

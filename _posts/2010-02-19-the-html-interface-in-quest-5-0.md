@@ -2,7 +2,9 @@
 layout: post
 title: >
     The HTML interface in Quest 5.0
-permalink: /2010/02/19/the-html-interface-in-quest-5-0/
+permalink: /2010/02/19/the-html-interface-in-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/02/19/the-html-interface-in-quest-5-0/
 ---
 <p>Previous versions of Quest used a "rich text" control to display text. This is quite an old Windows control, which is fine for basic formatting but ultimately lacks flexibility. Quest 5.0 replaces this with an embedded web browser, which opens up a lot of new capabilities.</p>
 

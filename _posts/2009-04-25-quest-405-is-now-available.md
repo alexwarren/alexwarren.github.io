@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 4.0.5 is now available
-permalink: /2009/04/25/quest-405-is-now-available/
+permalink: /2009/04/25/quest-405-is-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2009/04/25/quest-405-is-now-available/
 ---
 Quest 4.0.5 is now available.
 

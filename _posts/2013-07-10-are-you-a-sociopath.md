@@ -2,7 +2,7 @@
 layout: post
 title: >
     "Are you a sociopath?"
-permalink: /2013/07/10/are-you-a-sociopath/
+permalink: /2013/07/10/are-you-a-sociopath
 ---
 Here's a really good question that I was asked as part of the discussion arising from my previous post, <a title="Life is not a conveyor belt" href="http://alexwarren.co.uk/2013/07/08/life-is-not-a-conveyor-belt/">Life is not a conveyor belt</a>:
 

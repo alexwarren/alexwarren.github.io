@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Filth
-permalink: /2009/03/07/and-alex-said-filth/
+permalink: /2009/03/07/and-alex-said-filth
 ---
 Column 1: Filth, 12th October 2002
 

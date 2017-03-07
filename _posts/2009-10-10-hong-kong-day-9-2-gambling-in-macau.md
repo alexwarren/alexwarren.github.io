@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 9.2 - Gambling in Macau
-permalink: /2009/10/10/hong-kong-day-9-2-gambling-in-macau/
+permalink: /2009/10/10/hong-kong-day-9-2-gambling-in-macau
 ---
 Thursday 8th October, part 2
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.4 Text Processor - easier adaptive text and links
-permalink: /2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/
+permalink: /2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/
 ---
 It is very easy to generate and manipulate text with software, which is why text adventures were some of the very first computer games ever to be created. Furthermore, the manipulation of words can make it easier for a text-based game to feel as if it is genuinely responding to the player's actions - it is far simpler for software to tweak a paragraph of text than it is to tweak a graphical environment.
 

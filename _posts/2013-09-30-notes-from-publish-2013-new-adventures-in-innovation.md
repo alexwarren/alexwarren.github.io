@@ -2,7 +2,9 @@
 layout: post
 title: >
     Notes from Publish! 2013 - New adventures in innovation
-permalink: /2013/09/30/notes-from-publish-2013-new-adventures-in-innovation/
+permalink: /2013/09/30/notes-from-publish-2013-new-adventures-in-innovation
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/09/30/notes-from-publish-2013-new-adventures-in-innovation/
 ---
 On Tuesday 24 September I went to <a href="http://mediafutures.org.uk/2013/">Publish! 2013</a>, a conference looking at innovations in publishing organised by <a href="http://www.mediafutures.org.uk/">Media Futures</a> in partnership with <a href="http://www.react-hub.org.uk/">REACT</a>. Here are a few notes and thoughts from the day (I won't attempt to cover absolutely everything, and I've rearranged the order of things a bit).
 

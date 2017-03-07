@@ -2,7 +2,9 @@
 layout: post
 title: >
     IFComp 2013 announced
-permalink: /2013/06/25/ifcomp-2013-announced/
+permalink: /2013/06/25/ifcomp-2013-announced
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/06/25/ifcomp-2013-announced/
 ---
 The <a href="http://ifcomp.org/">IFComp 2013</a> has been officially announced!
 

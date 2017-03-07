@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said... Decisions
-permalink: /2007/10/07/and-alex-said-decisions/
+permalink: /2007/10/07/and-alex-said-decisions
 ---
 Decisions, decisions, decisions. What should I have for dinner? Which pub do I want to go to? What should I write a blog post about? Babies and dogs have it much easier. They don't need to make any decisions at all. They eat what they're given, and they wear nappies. (Yes, <a href="http://www.dog-nappy.co.uk/">you can buy nappies for dogs</a>. Changing a baby's nappy is bad enough, but how can you keep your lunch down while staring at the matted, shitty hair around an incontinent dog's arse?)
 

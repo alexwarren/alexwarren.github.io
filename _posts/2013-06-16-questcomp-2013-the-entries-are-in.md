@@ -2,7 +2,9 @@
 layout: post
 title: >
     QuestComp 2013 - the entries are in!
-permalink: /2013/06/16/questcomp-2013-the-entries-are-in/
+permalink: /2013/06/16/questcomp-2013-the-entries-are-in
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/06/16/questcomp-2013-the-entries-are-in/
 ---
 The entries for QuestComp 2013 are now in! They are:
 <p style="padding-left:30px;"><strong><a href="http://textadventures.co.uk/games/view/xfdmtdfvdueyvd5q2qrhlw/worship-the-pig">Worship the Pig</a></strong> by Heal Butcher</p>

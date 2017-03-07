@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Revise
-permalink: /2003/03/07/and-alex-said-revise/
+permalink: /2003/03/07/and-alex-said-revise
 ---
 Column 18: Revise, 7th March 2003
 

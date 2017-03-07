@@ -2,7 +2,7 @@
 layout: post
 title: >
     Digital as a noun
-permalink: /2013/07/24/digital-as-a-noun/
+permalink: /2013/07/24/digital-as-a-noun
 ---
 https://twitter.com/alexwarren/status/359647596286980096
 

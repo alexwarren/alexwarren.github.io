@@ -2,7 +2,7 @@
 layout: post
 title: >
     Guathon - new .NET stuff and Windows Phone 7
-permalink: /2010/08/15/guathon-new-net-stuff-and-windows-phone-7/
+permalink: /2010/08/15/guathon-new-net-stuff-and-windows-phone-7
 ---
 On Friday I went to <a href="http://developerdeveloperdeveloper.com/gulon/">Guathon</a>, a free Microsoft conference all about the latest .NET stuff and Windows Phone 7, held at the Odeon cinema on Shaftesbury Avenue. I was lucky to get a place, as when registration opened last week, the website immediately buckled under the strain. It reminded me of trying to get tickets for Glastonbury - and you'd think Microsoft would be able to get this kind of thing right. But after a lot of refreshing, opening new tabs, and filling in the same registration form multiple times, I eventually got my confirmation email.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     My greatest weakness
-permalink: /2010/07/01/my-greatest-weakness/
+permalink: /2010/07/01/my-greatest-weakness
 ---
 A classic job interview question is "what is your greatest weakness?". I suppose mine is that once I get bored, that's it. As soon as I've got comfortable in a job and think I've got it all figured out, as soon as I've stopped being stressed because I don't know what's going on, as soon as I'm part of the furniture, there's only one place to go - the exit.
 

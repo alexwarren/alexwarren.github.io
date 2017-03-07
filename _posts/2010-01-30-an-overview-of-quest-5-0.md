@@ -2,7 +2,9 @@
 layout: post
 title: >
     An overview of Quest 5.0
-permalink: /2010/01/30/an-overview-of-quest-5-0/
+permalink: /2010/01/30/an-overview-of-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/01/30/an-overview-of-quest-5-0/
 ---
 <p>Quest 5.0 is under development, and is substantially improved from previous versions. Although it is still a long way from being released, I thought it would be a good idea to write a series of blog posts discussing how the new system works, and the new capabilities this will bring to the system.</p>
 <p><b>Limitations of Quest 4.x</b></p>

@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Food
-permalink: /2002/10/19/and-alex-said-food/
+permalink: /2002/10/19/and-alex-said-food
 ---
 Column 2: Food, 19th October 2002
 

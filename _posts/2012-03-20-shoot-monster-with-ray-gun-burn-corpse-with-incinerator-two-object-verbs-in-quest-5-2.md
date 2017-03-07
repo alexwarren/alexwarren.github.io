@@ -2,7 +2,9 @@
 layout: post
 title: >
     Shoot monster with ray gun, burn corpse with incinerator - two-object verbs in Quest 5.2
-permalink: /2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2/
+permalink: /2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2/
 ---
 Quest lets you add verbs to objects, so you can provide the player with varied and interesting ways of interacting with things in your game. You might add a "read" verb to a book to allow the player to type "read book", or add an "eat" verb to a burger. By adding these verbs to the "display verbs" list for an object, they appear on the hyperlink menu:
 

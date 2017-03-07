@@ -2,7 +2,9 @@
 layout: post
 title: >
     A year of full-time Questing - Part 1
-permalink: /2012/04/03/a-year-of-full-time-questing-part-1/
+permalink: /2012/04/03/a-year-of-full-time-questing-part-1
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/04/03/a-year-of-full-time-questing-part-1/
 ---
 Just over one year ago, at the end of March 2011, I left my job to work on <a href="http://www.textadventures.co.uk/quest/">Quest</a> full-time. One of the nice things about not working for an employer has been a complete absence of such time-wasting exercises as conducting an annual performance review. However, there is something to be said for periodically taking stock, and seeing how far and how quickly things have progressed. So, here's a review of one year of working on Quest.
 

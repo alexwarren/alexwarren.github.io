@@ -2,7 +2,9 @@
 layout: post
 title: >
     Thoughts on interactive storytelling and The Hobbit
-permalink: /2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit/
+permalink: /2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit/
 ---
 I recently did a talk at AdventureX where I attempted to set out some kind of vision for the future of text adventure games as a rich interactive story medium. This was filmed, so hopefully I will be able to put up a link here soon. I'll also rework the talk as a blog post (or several) in the near future.
 

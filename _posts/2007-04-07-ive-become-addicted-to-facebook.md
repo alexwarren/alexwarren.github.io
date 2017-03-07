@@ -2,7 +2,7 @@
 layout: post
 title: >
     I've become addicted to Facebook
-permalink: /2007/04/07/ive-become-addicted-to-facebook/
+permalink: /2007/04/07/ive-become-addicted-to-facebook
 ---
 Oh dear. I did have plans for the Easter weekend. Well, not big plans, but plans nevertheless. Back at home with my parents, I was going to catch up on some reading,  watch a bit of telly, and gorge myself on good home cooking and Easter eggs.
 

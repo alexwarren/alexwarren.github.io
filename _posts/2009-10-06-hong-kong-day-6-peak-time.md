@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 6 - Peak Time
-permalink: /2009/10/06/hong-kong-day-6-peak-time/
+permalink: /2009/10/06/hong-kong-day-6-peak-time
 ---
 Monday 5th October
 

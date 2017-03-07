@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Booze
-permalink: /2002/11/08/and-alex-said-booze/
+permalink: /2002/11/08/and-alex-said-booze
 ---
 Column 5: Booze, 8th November 2002
 

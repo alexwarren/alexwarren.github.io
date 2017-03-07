@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: TV
-permalink: /2002/11/29/and-alex-said-tv/
+permalink: /2002/11/29/and-alex-said-tv
 ---
 Column 8: TV, 29th November 2002
 

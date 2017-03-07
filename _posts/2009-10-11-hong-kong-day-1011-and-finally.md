@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 10/11 - And Finally...
-permalink: /2009/10/11/hong-kong-day-1011-and-finally/
+permalink: /2009/10/11/hong-kong-day-1011-and-finally
 ---
 <strong>Friday 9th October</strong>
 

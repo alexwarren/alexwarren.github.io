@@ -2,7 +2,9 @@
 layout: post
 title: >
     Now accepting all kinds of web-based text adventure games
-permalink: /2013/06/11/now-accepting-all-kinds-of-web-based-text-adventure-games/
+permalink: /2013/06/11/now-accepting-all-kinds-of-web-based-text-adventure-games
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/06/11/now-accepting-all-kinds-of-web-based-text-adventure-games/
 ---
 We're now accepting a bigger range of submissions at <a href="http://textadventures.co.uk">textadventures.co.uk</a>.
 

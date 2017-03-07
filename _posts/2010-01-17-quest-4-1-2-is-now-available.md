@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 4.1.2 is now available
-permalink: /2010/01/17/quest-4-1-2-is-now-available/
+permalink: /2010/01/17/quest-4-1-2-is-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/01/17/quest-4-1-2-is-now-available/
 ---
 Quest 4.1.2 is now available.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh - the last few days
-permalink: /2008/08/16/edinburgh-the-last-few-days/
+permalink: /2008/08/16/edinburgh-the-last-few-days
 ---
 I've just performed the last of my 10 Edinburgh gigs - 8 "Of Mics and Men" and 2 other open mic spots. It's been a very good experience, and having a constant daily slot at the same venue has been massively helpful for honing my technique. As I said in my earlier post, audience sizes have been variable, and for the two gigs I did today they were rather drunk and shouty, but I think I've managed to cope quite well.
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Automatic mapping in Quest 5.3
-permalink: /2012/07/22/automatic-mapping-in-quest-5-3/
+permalink: /2012/07/22/automatic-mapping-in-quest-5-3
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/07/22/automatic-mapping-in-quest-5-3/
 ---
 A text adventure generally involves moving around the game world by following compass directions - north, south, east, and west, with the occasional use of up and down, or in and out. Many players like to map out a game as they play using pencil and paper, but I expect the majority of players try to keep a map in their heads, and probably get lost more often than they would care to admit.
 

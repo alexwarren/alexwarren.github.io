@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming Gigs
-permalink: /2008/01/12/upcoming-gigs-2/
+permalink: /2008/01/12/upcoming-gigs-2
 ---
 I have three gigs coming up at different venues, so please come along if you can: 
 

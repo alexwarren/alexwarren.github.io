@@ -2,7 +2,9 @@
 layout: post
 title: >
     The future of digital stories - thoughts from the Futurebook Innovation Workshop 2013
-permalink: /2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013/
+permalink: /2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013/
 ---
 Last Thursday I attended the Futurebook Innovation Workshop, programmed by <a href="http://www.theliteraryplatform.com/">The Literary Platform</a> - a very interesting afternoon of presentations and workshops on what I will call "digital storytelling" (although one of the recurring themes was that nobody has yet got a clear idea of what to call this, er, stuff).
 

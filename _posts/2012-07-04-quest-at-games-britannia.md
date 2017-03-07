@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest at Games Britannia
-permalink: /2012/07/04/quest-at-games-britannia/
+permalink: /2012/07/04/quest-at-games-britannia
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/07/04/quest-at-games-britannia/
 ---
 <a href="http://textadventuresblog.files.wordpress.com/2012/07/img_13611.jpg"><img class="alignleft size-medium wp-image-1510" alt="Magna" src="http://textadventuresblog.files.wordpress.com/2012/07/img_13611.jpg?w=300" width="300" height="224" /></a>I had the great pleasure on Tuesday of leading two workshops on Quest at <a href="http://gamesbritannia.com/2012/">Games Britannia</a>, the schools videogame festival held at the impressive Magna Science Adventure Centre - a former steelworks in Rotherham.
 

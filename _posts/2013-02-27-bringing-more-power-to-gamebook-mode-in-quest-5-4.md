@@ -2,7 +2,9 @@
 layout: post
 title: >
     Bringing more power to gamebook mode in Quest 5.4
-permalink: /2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/
+permalink: /2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/
 ---
 Quest started out as a text adventure system. Many people call text adventures "interactive fiction", but to me this is a fairly broad term, encompassing kinds of games that are not text adventures in the traditional sense. The "Choose Your Own Adventure" books are also a type of interactive fiction, but they are not text adventures - to me, anyway.
 

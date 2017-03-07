@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 now runs all Quest games
-permalink: /2011/01/15/quest-5-0-now-runs-all-quest-games/
+permalink: /2011/01/15/quest-5-0-now-runs-all-quest-games
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/01/15/quest-5-0-now-runs-all-quest-games/
 ---
 I've just updated the <a href="http://quest5.net">Quest 5.0 technical preview</a>. This new version can play all games written for previous versions of Quest, right back to version 1.0.
 

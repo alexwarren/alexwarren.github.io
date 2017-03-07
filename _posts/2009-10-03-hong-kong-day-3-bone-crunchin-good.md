@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 3 - Bone Crunchin' Good
-permalink: /2009/10/03/hong-kong-day-3-bone-crunchin-good/
+permalink: /2009/10/03/hong-kong-day-3-bone-crunchin-good
 ---
 Friday 2nd October
 

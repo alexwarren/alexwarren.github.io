@@ -2,7 +2,9 @@
 layout: post
 title: >
     Improvements to textadventures.co.uk
-permalink: /2011/09/07/improvements-to-textadventures-co-uk/
+permalink: /2011/09/07/improvements-to-textadventures-co-uk
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/09/07/improvements-to-textadventures-co-uk/
 ---
 As well as making Quest a great system to create text adventure games, I want to make <a href="http://www.textadventures.co.uk/">textadventures.co.uk</a> a great place to host them. It started out as the very basic "Quest Games Archive" many years ago, and has had various improvements since then - "play online" support and the addition of categories, for example.
 

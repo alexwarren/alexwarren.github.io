@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said... Comedy
-permalink: /2007/09/30/and-alex-said-comedy/
+permalink: /2007/09/30/and-alex-said-comedy
 ---
 I'm starting a stand-up comedy course in a few weeks. This may surprise you, coming from somebody who rarely shows his extroverted side except when drunk and there's karaoke in the vicinity. But it's good to scare the shit out of yourself once in a while, and part of the reason why I want to do it is that the mere idea of performing stand-up is absolutely terrifying. Just this last week I've gone through three packs of Imodium, and I haven't even started the course yet.
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     textadventures.co.uk migration - scheduled downtime on 20th April
-permalink: /2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april/
+permalink: /2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april/
 ---
 The new-look <a href="http://www.textadventures.co.uk">textadventures.co.uk</a> website is launching soon! I'm just putting the finishing touches together and doing some more testing, and the site should be ready to launch on <strong>Saturday 20th April</strong>.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 1 - (Octo)Pus and Guts
-permalink: /2009/10/01/octopus-and-guts/
+permalink: /2009/10/01/octopus-and-guts
 ---
 Wednesday 30th September
 

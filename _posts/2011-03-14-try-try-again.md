@@ -2,7 +2,7 @@
 layout: post
 title: >
     Try, try again
-permalink: /2011/03/14/try-try-again/
+permalink: /2011/03/14/try-try-again
 ---
 <a href="http://alexwarrenblog.files.wordpress.com/2011/03/3355834452_0b7215c19a_m.jpg"><img class="size-full wp-image-359 alignright" title="Please Try Again" alt="" src="http://alexwarrenblog.files.wordpress.com/2011/03/3355834452_0b7215c19a_m.jpg" width="240" height="180" /></a>
 

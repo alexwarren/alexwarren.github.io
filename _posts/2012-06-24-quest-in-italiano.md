@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest in italiano
-permalink: /2012/06/24/quest-in-italiano/
+permalink: /2012/06/24/quest-in-italiano
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/06/24/quest-in-italiano/
 ---
 Thanks to Francesco Cordella and Luca Salvicchi, you can now create Quest games in <strong>Italian</strong>.
 

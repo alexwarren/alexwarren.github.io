@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming Gigs - in Edinburgh
-permalink: /2008/07/06/upcoming-gigs-in-edinburgh/
+permalink: /2008/07/06/upcoming-gigs-in-edinburgh
 ---
 I'll be up at this year's Edinburgh festival, mostly just enjoying other acts to be honest, but I'll also be performing every night 9th-16th August, 5.45pm-6.45pm as one of four stand-up acts in a <strong>free</strong> show called <strong>Of Mics and Men</strong>.
 

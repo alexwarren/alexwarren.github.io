@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 4.1 Beta is now available for testing
-permalink: /2009/04/26/quest-41-beta-is-now-available-for-testing/
+permalink: /2009/04/26/quest-41-beta-is-now-available-for-testing
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2009/04/26/quest-41-beta-is-now-available-for-testing/
 ---
 This weekend's second Quest release is the test version of our next upgrade, Quest 4.1 Beta.
 

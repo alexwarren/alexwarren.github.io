@@ -2,7 +2,9 @@
 layout: post
 title: >
     Moquette in the IFComp - Post-Mortem and Review Roundup
-permalink: /2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/
+permalink: /2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/
 ---
 My first work of interactive fiction "<a href="http://textadventures.co.uk/games/view/zbzfpcnknu_vdjog-cbihw/moquette">Moquette</a>" came 15th out of 35 entries in this year's <a href="http://ifcomp.org/">IFComp</a>. Now that the competition is over, the vow of silence has been lifted (authors are not allowed to talk about their games publicly during the judging period), which means I can now write some blog posts talking about the ideas behind the game and how it was built.
 

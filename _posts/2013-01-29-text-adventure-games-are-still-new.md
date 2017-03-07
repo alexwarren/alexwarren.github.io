@@ -2,7 +2,9 @@
 layout: post
 title: >
     Text adventure games are still new
-permalink: /2013/01/29/text-adventure-games-are-still-new/
+permalink: /2013/01/29/text-adventure-games-are-still-new
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/01/29/text-adventure-games-are-still-new/
 ---
 <i>Cross-posted to <a href="http://www.gamasutra.com/blogs/AlexWarren/20130129/185609/Text_Adventures_Are_New_Really.php">Gamasutra</a>. This blog post is based on part of my AdventureX talk from December - hopefully a video of that will be available soon.</i>
 

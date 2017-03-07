@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 Beta 4 released - approaching the final release
-permalink: /2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release/
+permalink: /2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release/
 ---
 <a href="http://quest5.net/downloads/quest500beta4.exe">Quest 5.0 Beta 4 is out now</a>, and we're on the home straight - <strong>this beta is feature complete</strong>. I'm not planning to add any new features to version 5.0 - very minor ones <em>may</em> be still be added, but all the outstanding <a href="http://quest.codeplex.com/workitem/list/advanced?keyword=&amp;status=Open%20(not%20closed)&amp;type=Feature&amp;priority=All&amp;release=All&amp;assignedTo=All&amp;component=All&amp;sortField=Id&amp;sortDirection=Ascending&amp;page=0">feature requests</a> have been moved to a planned future version 5.1 release (they may be rescheduled again of course).
 

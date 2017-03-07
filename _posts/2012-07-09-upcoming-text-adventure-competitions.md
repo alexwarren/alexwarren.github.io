@@ -2,7 +2,9 @@
 layout: post
 title: >
     Upcoming text adventure competitions
-permalink: /2012/07/09/upcoming-text-adventure-competitions/
+permalink: /2012/07/09/upcoming-text-adventure-competitions
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/07/09/upcoming-text-adventure-competitions/
 ---
 If you want to expand the audience for your text adventure game, <em>and</em> have the chance of winning something unusual (or maybe even some money), consider entering it into a competition - of which there are a few coming up.
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     How to fix a bug in Quest 5.0
-permalink: /2010/11/19/how-to-fix-a-bug-in-quest-5-0/
+permalink: /2010/11/19/how-to-fix-a-bug-in-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/11/19/how-to-fix-a-bug-in-quest-5-0/
 ---
 Recently a bug was added to the <a href="http://quest.codeplex.com/workitem/list/basic">Issue Tracker</a> which sounded like a great one for somebody new to the project to dive into. The issue was that commands with upper-case characters didn't work - you could type "take box" but not "TAKE BOX". Unfortunately, nobody took the opportunity to fix it, so I've fixed it myself. But I thought it would be a good idea to take you through the process from the beginning, so you can see exactly what's going on here. Hopefully by documenting this it will make it easier to join in with the project if you're interested, as I realise all that code can be a bit daunting at first.
 

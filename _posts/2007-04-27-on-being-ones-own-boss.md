@@ -2,7 +2,7 @@
 layout: post
 title: >
     On being one's own boss
-permalink: /2007/04/27/on-being-ones-own-boss/
+permalink: /2007/04/27/on-being-ones-own-boss
 ---
 I've been on a sabbatical for the last six months while I've been developing my own software business, <a href="http://www.axeuk.com/" target="_blank">Axe Software</a>. It's been an interesting experience, and I've learned the following things:
 <ul>

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Text adventures in the classroom - Quest day at Perins School
-permalink: /2012/02/24/text-adventures-in-the-classroom-quest-day-at-perins-school/
+permalink: /2012/02/24/text-adventures-in-the-classroom-quest-day-at-perins-school
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/02/24/text-adventures-in-the-classroom-quest-day-at-perins-school/
 ---
 I had the pleasure of spending Wednesday at <a href="http://www.perins.net/">Perins School</a> in Alresford, Hampshire, where the entire Year 7 (11-12 year olds) went off-timetable for the day to start creating their own text adventures with Quest.
 

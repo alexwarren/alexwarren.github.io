@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 2
-permalink: /2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2/
+permalink: /2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2
 ---
 Here's part two of my reviews of the shows I saw at Edinburgh, in chronological order. You can find <a href="http://www.axeuk.com/alex/blog/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/">part 1 here</a>.
 

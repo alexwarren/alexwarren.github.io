@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Sick
-permalink: /2003/01/17/and-alex-said-sick/
+permalink: /2003/01/17/and-alex-said-sick
 ---
 Column 11: Sick, 17th January 2003
 

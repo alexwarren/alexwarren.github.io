@@ -2,7 +2,9 @@
 layout: post
 title: >
     Slicker hyperlinks in Quest 5.4
-permalink: /2013/02/28/slicker-hyperlinks-in-quest-5-4/
+permalink: /2013/02/28/slicker-hyperlinks-in-quest-5-4
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/02/28/slicker-hyperlinks-in-quest-5-4/
 ---
 Hyperlinks were introduced in Quest 5.0, and I think they're a great way of navigating a text adventure game - without using any additional UI elements, you can always see what objects you can interact with, and you only see a relevant list of actions for each object.
 

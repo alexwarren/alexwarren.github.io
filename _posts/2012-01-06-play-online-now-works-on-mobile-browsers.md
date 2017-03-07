@@ -2,7 +2,9 @@
 layout: post
 title: >
     "Play online" now works on mobile browsers
-permalink: /2012/01/06/play-online-now-works-on-mobile-browsers/
+permalink: /2012/01/06/play-online-now-works-on-mobile-browsers
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/01/06/play-online-now-works-on-mobile-browsers/
 ---
 All games on <a href="http://www.textadventures.co.uk/">textadventures.co.uk</a> can now be played online via iPhone, iPad and Android browsers, and on desktop browsers the player has a fresh new look.
 

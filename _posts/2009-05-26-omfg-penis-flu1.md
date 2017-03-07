@@ -2,7 +2,7 @@
 layout: post
 title: >
     OMFG penis flu!!!1
-permalink: /2009/05/26/omfg-penis-flu1/
+permalink: /2009/05/26/omfg-penis-flu1
 ---
 Here's a joke I've seen doing the rounds:
 <blockquote>Don't know if this is just a sick coincidence but.... 2007 - Chinese year of the Chicken - Bird Flu Pandemic devastates parts of Asia 2008 - Chinese year of the Horse - Equine Influenza decimates Australian racing 2009 - Chinese year of the Pig - Swine Flu Pandemic kills pigs/humans around the globe. It gets worse.... Next year... 2010 - Chinese year of the Cock -what could possibly go wrong?</blockquote>

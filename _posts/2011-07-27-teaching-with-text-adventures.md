@@ -2,7 +2,9 @@
 layout: post
 title: >
     Teaching with text adventures
-permalink: /2011/07/27/teaching-with-text-adventures/
+permalink: /2011/07/27/teaching-with-text-adventures
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/07/27/teaching-with-text-adventures/
 ---
 The "retro" aspect of text adventure games is kind of fun, but I think it can also be limiting. I think there is a lot of potential for text adventure games to have a broader appeal, with wider uses, way beyond harking back to old-skool computer games. There is a place for text adventures on the modern web, but not simply "hey, remember those old games from the 1980's? Some people are still making them!"
 

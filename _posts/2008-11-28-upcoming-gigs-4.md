@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming Gigs
-permalink: /2008/11/28/upcoming-gigs-4/
+permalink: /2008/11/28/upcoming-gigs-4
 ---
 I have two gigs coming up and I'm planning to do a brand new Christmas-themed set. So I'd better bloody well get on and write it.
 

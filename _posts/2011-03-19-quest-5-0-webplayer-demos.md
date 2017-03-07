@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 WebPlayer Demos
-permalink: /2011/03/19/quest-5-0-webplayer-demos/
+permalink: /2011/03/19/quest-5-0-webplayer-demos
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/03/19/quest-5-0-webplayer-demos/
 ---
 I put together a couple of demonstrations of Quest 5.0 WebPlayer features for last weekend's IF Demo Fair at PAX East in Boston. One of the themes was "innovative user interfaces for text/story-based games", so the demos briefly show a few things that the Javascript interface makes possible:
 <ul>

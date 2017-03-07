@@ -2,7 +2,9 @@
 layout: post
 title: >
     "Filbert and the Broccoli Escape" - an interactive children's book for iPad
-permalink: /2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad/
+permalink: /2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad/
 ---
 <img class="alignright size-full wp-image-2287" alt="Filbert and the Broccoli Escape" src="http://textadventuresblog.files.wordpress.com/2013/05/mzl-iswhncag-175x175-75.jpg" width="175" height="175" />
 

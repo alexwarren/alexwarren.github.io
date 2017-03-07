@@ -2,7 +2,9 @@
 layout: post
 title: >
     Game Based Learning - Interactive Fiction at LWF Free Festival
-permalink: /2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival/
+permalink: /2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival/
 ---
 <a href="http://www.learningwithoutfrontiers.com/">Learning Without Frontiers</a> (LWF) is at London Olympia on Wednesday 26th and Thursday 27th January, and alongside the (expensive) main conference there is a <a href="http://www.learningwithoutfrontiers.com/lwf12/future-of-learning-festival/">free festival</a>, featuring a variety of sessions on digital learning.
 

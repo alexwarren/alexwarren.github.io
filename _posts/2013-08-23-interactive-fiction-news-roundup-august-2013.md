@@ -2,7 +2,9 @@
 layout: post
 title: >
     Interactive Fiction News Roundup, August 2013
-permalink: /2013/08/23/interactive-fiction-news-roundup-august-2013/
+permalink: /2013/08/23/interactive-fiction-news-roundup-august-2013
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/08/23/interactive-fiction-news-roundup-august-2013/
 ---
 Here's the first of what will probably be an irregular roundup of what's happening in the world of interactive fiction and digital storytelling. Got something to share? Let us know! You can email <a href="mailto:alex@textadventures.co.uk">alex@textadventures.co.uk</a> or tweet <a href="http://twitter.com/textadv">@TextAdv</a>.
 

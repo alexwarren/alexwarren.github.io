@@ -2,7 +2,9 @@
 layout: post
 title: >
     Developers needed for textadventures.co.uk and Quest
-permalink: /2016/12/12/developers-needed/
+permalink: /2016/12/12/developers-needed
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2016/12/12/developers-needed/
 ---
 This is a follow up to <a href="http://blog.textadventures.co.uk/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/">Looking for a new owner for textadventures.co.uk and Quest</a>.
 

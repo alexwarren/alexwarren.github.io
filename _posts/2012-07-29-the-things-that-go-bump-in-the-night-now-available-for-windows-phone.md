@@ -2,7 +2,9 @@
 layout: post
 title: >
     "The Things That Go Bump In The Night" now available for Windows Phone
-permalink: /2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone/
+permalink: /2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone/
 ---
 Just a quick note to say that in addition to iOS and Android, Quest games can now be turned into apps for Windows Phone devices too.
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Experimenting with stories and text
-permalink: /2013/04/07/experimenting-with-stories-and-text/
+permalink: /2013/04/07/experimenting-with-stories-and-text
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/04/07/experimenting-with-stories-and-text/
 ---
 Continuing the theme of <a title="Text adventure games are still new" href="http://blog.textadventures.co.uk/2013/01/29/text-adventure-games-are-still-new/">text adventure games are still new</a>, a couple of excellent thought-provoking blog posts from the last week:
 

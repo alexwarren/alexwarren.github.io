@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Cash
-permalink: /2002/10/26/and-alex-said-cash/
+permalink: /2002/10/26/and-alex-said-cash
 ---
 Column 3: Cash, 26th October 2002
 

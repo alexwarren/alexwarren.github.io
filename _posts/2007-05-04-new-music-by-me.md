@@ -2,7 +2,7 @@
 layout: post
 title: >
     New music by me
-permalink: /2007/05/04/new-music-by-me/
+permalink: /2007/05/04/new-music-by-me
 ---
 <img src="http://www.theembryo.net/embryo-hand.jpg" />
 

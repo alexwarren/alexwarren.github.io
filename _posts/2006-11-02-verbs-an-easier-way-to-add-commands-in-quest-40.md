@@ -2,7 +2,9 @@
 layout: post
 title: >
     Verbs - an easier way to add commands in Quest 4.0
-permalink: /2006/11/02/verbs-an-easier-way-to-add-commands-in-quest-40/
+permalink: /2006/11/02/verbs-an-easier-way-to-add-commands-in-quest-40
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2006/11/02/verbs-an-easier-way-to-add-commands-in-quest-40/
 ---
 A couple of days ago I released the first beta of Quest 4.0. One of the new features of this version is <strong>verbs</strong>, which gives you an easier way of setting up certain commands.
 

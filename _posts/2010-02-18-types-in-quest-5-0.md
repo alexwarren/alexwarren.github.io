@@ -2,7 +2,9 @@
 layout: post
 title: >
     Types in Quest 5.0
-permalink: /2010/02/18/types-in-quest-5-0/
+permalink: /2010/02/18/types-in-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/02/18/types-in-quest-5-0/
 ---
 <p>"Types" let you share sets of properties between objects. They work in the same way as Quest 4.x, except slightly more efficiently in that instead of copying the properties to the object, the object just references the underlying the type if it doesn't have its own override for a property.</p>
 

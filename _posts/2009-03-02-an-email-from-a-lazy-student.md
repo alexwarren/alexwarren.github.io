@@ -2,7 +2,7 @@
 layout: post
 title: >
     An email from a lazy student
-permalink: /2009/03/02/an-email-from-a-lazy-student/
+permalink: /2009/03/02/an-email-from-a-lazy-student
 ---
 I just got this email from a lazy Computer Science student:
 <blockquote>

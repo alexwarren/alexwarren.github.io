@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 4 is now free
-permalink: /2011/01/03/quest-4-is-now-free/
+permalink: /2011/01/03/quest-4-is-now-free
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/01/03/quest-4-is-now-free/
 ---
 With Quest 5.0 currently under development as free and open-source software, it doesn't make much sense to continue trying to sell copies of Quest Pro 4.x. So I'm happy to announce that the new release, version 4.1.4 is now available and is completely free.
 

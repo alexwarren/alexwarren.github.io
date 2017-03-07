@@ -2,7 +2,7 @@
 layout: post
 title: >
     Video: "Sleep"
-permalink: /2008/01/12/video-sleep/
+permalink: /2008/01/12/video-sleep
 ---
 Here's a video of my first stand-up set, "Sleep", seen here performed in Chalk Farm as part of the end-of-course showcase.
 

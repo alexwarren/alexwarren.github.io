@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 Release Candidate 2
-permalink: /2011/08/09/quest-5-0-release-candidate-2/
+permalink: /2011/08/09/quest-5-0-release-candidate-2
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/08/09/quest-5-0-release-candidate-2/
 ---
 Inevitably, a few bugs were logged against last week's Release Candidate 1, so I've now fixed them and uploaded a new Release Candidate 2, which you can <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download here</a>.
 

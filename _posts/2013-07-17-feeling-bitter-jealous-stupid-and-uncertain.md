@@ -2,7 +2,7 @@
 layout: post
 title: >
     Feeling bitter, jealous, stupid and uncertain
-permalink: /2013/07/17/feeling-bitter-jealous-stupid-and-uncertain/
+permalink: /2013/07/17/feeling-bitter-jealous-stupid-and-uncertain
 ---
 Sometimes during a moment of low concentration when I'm sat at my desk, a cruel epiphany occurs. "Oh god, what am I doing? What am I <em>actually</em> doing? Seriously? I quit my job for this?"
 

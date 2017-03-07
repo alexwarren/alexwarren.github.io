@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest Games Online (Beta) - text adventures in your web browser
-permalink: /2007/02/02/quest-games-online-beta/
+permalink: /2007/02/02/quest-games-online-beta
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2007/02/02/quest-games-online-beta/
 ---
 I am currently developing an extension of the Quest Games Archive that will let you play Quest games within your web browser - no additional software required.
 

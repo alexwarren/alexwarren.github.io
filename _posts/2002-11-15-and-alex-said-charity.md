@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Charity
-permalink: /2002/11/15/and-alex-said-charity/
+permalink: /2002/11/15/and-alex-said-charity
 ---
 Column 6: Charity, 15th November 2002
 

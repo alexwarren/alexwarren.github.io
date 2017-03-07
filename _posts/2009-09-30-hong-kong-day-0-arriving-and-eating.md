@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 0 - Arriving and Eating
-permalink: /2009/09/30/hong-kong-day-0-arriving-and-eating/
+permalink: /2009/09/30/hong-kong-day-0-arriving-and-eating
 ---
 I've just arrived in Hong Kong for my first ever holiday in Asia. I'm here with my girlfriend Rachel and my friends Nick and Will. Will speaks Cantonese and has family over here, which is going to make things a bit easier.
 

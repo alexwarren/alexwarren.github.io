@@ -2,7 +2,9 @@
 layout: post
 title: >
     Meet the new textadventures.co.uk team
-permalink: /2017/01/11/meet-the-new-textadventures-co-uk-team/
+permalink: /2017/01/11/meet-the-new-textadventures-co-uk-team
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2017/01/11/meet-the-new-textadventures-co-uk-team/
 ---
 I announced last month that I was handing over textadventures.co.uk and Quest. Many thanks to everybody who got in touch to volunteer to help. I was really pleased that so many people want to see these projects continue into the future. I am now happy to announce that we have a new team in place!
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.3 is released
-permalink: /2013/01/14/quest-5-3-is-released/
+permalink: /2013/01/14/quest-5-3-is-released
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/01/14/quest-5-3-is-released/
 ---
 Quest 5.3 is now available. You can <a href="http://www.textadventures.co.uk/quest/download/">download the Windows version</a>, or you can <a href="http://www.textadventures.co.uk/create/">use it in any web browser</a>.
 

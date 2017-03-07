@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 is out now
-permalink: /2011/08/30/quest-5-0-is-out-now/
+permalink: /2011/08/30/quest-5-0-is-out-now
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/08/30/quest-5-0-is-out-now/
 ---
 Quest 5.0 is now available! <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">Download it now</a>.
 <h3>A brand new system for creating text adventures</h3>

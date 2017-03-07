@@ -2,7 +2,7 @@
 layout: post
 title: >
     Annoying adverts on the tube
-permalink: /2007/01/08/annoying-adverts-on-the-tube/
+permalink: /2007/01/08/annoying-adverts-on-the-tube
 ---
 Here are a couple of adverts that have been annoying me while I've been travelling on the London Underground:
 

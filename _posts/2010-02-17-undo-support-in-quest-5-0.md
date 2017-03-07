@@ -2,7 +2,9 @@
 layout: post
 title: >
     "Undo" support in Quest 5.0
-permalink: /2010/02/17/undo-support-in-quest-5-0/
+permalink: /2010/02/17/undo-support-in-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/02/17/undo-support-in-quest-5-0/
 ---
 <p>Over the years one of the most commonly requested features for Quest has been the ability for the player to be able to type "undo". This would have been difficult to add to previous versions of Quest, as the game state was stored in a number of different ways, but in Quest 5.0 the entire game state is stored within object properties. The location of objects is a property, global variables are properties, and so on. This makes it much easier to enable support for "undo", and from the start Quest 5.0 has been written with this feature in mind.</p>
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Bullshit
-permalink: /2003/02/07/and-alex-said-bullshit/
+permalink: /2003/02/07/and-alex-said-bullshit
 ---
 Column 14: Bullshit, 7th February 2003
 

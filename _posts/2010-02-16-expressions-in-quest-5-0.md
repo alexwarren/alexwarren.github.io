@@ -2,7 +2,9 @@
 layout: post
 title: >
     Expressions in Quest 5.0
-permalink: /2010/02/16/expressions-in-quest-5-0/
+permalink: /2010/02/16/expressions-in-quest-5-0
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2010/02/16/expressions-in-quest-5-0/
 ---
 <p>Quest 5.0 handles expressions throughout all script commands. Whereas in previous versions, things like string variables had to be denoted using special characters, in Quest 5.0 you can use expressions everywhere, just as you can in ordinary programming languages.</p>
 

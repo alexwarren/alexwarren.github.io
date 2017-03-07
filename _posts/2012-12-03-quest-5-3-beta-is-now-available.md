@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.3 Beta is now available
-permalink: /2012/12/03/quest-5-3-beta-is-now-available/
+permalink: /2012/12/03/quest-5-3-beta-is-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2012/12/03/quest-5-3-beta-is-now-available/
 ---
 You can now <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download Quest 5.3 Beta for Windows</a>. This release features a number of enhancements - improvements to the look and feel of games, a few new things you can do in games, some additional script functions, and general improvements to make Quest just that little bit easier to use. And of course, quite a few bug fixes.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Exams
-permalink: /2003/03/14/and-alex-said-exams/
+permalink: /2003/03/14/and-alex-said-exams
 ---
 Column 19: Exams, 14th March 2003
 

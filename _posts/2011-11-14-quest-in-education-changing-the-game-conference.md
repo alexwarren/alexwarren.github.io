@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest in Education - "Changing the Game" conference
-permalink: /2011/11/14/quest-in-education-changing-the-game-conference/
+permalink: /2011/11/14/quest-in-education-changing-the-game-conference
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/11/14/quest-in-education-changing-the-game-conference/
 ---
 I'll be at the "<a href="http://www.io.uk.com/changing-the-game/">Changing the Game</a>" conference in Birmingham this Thursday (17th November), which is all about getting students learning through playing and creating games. <a href="http://www.kristianstill.co.uk/wordpress/">Kristian Still</a> will be presenting a session on his school's experiences with using Interactive Fiction and Quest, and then it's my turn - I'll be presenting a quick overview of Quest, showing how quick and easy it is to get started. Do say hello if you're there!
 

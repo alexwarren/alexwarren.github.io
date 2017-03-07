@@ -2,7 +2,9 @@
 layout: post
 title: >
     Building Moquette - Simulating the London Underground and Doing Pretty Things With Text
-permalink: /2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text/
+permalink: /2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text/
 ---
 Following on from the previous blog post (<a title="Moquette in the IFComp – Post-Mortem and Review Roundup" href="http://blog.textadventures.co.uk/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/">Moquette Post-Mortem and Review Roundup</a>), here's a look at how some of it was implemented.
 

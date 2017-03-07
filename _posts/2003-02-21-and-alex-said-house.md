@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: House
-permalink: /2003/02/21/and-alex-said-house/
+permalink: /2003/02/21/and-alex-said-house
 ---
 Column 16: House, 21st February 2003
 

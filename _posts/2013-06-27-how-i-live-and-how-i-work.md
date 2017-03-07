@@ -2,7 +2,7 @@
 layout: post
 title: >
     How I live and how I work
-permalink: /2013/06/27/how-i-live-and-how-i-work/
+permalink: /2013/06/27/how-i-live-and-how-i-work
 ---
 I live differently to everybody else I know.
 

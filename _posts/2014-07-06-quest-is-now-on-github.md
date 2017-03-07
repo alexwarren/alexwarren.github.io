@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest is now on GitHub
-permalink: /2014/07/06/quest-is-now-on-github/
+permalink: /2014/07/06/quest-is-now-on-github
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2014/07/06/quest-is-now-on-github/
 ---
 Ever since Quest was made open source back in 2010, we've been using <a href="https://www.codeplex.com/">CodePlex</a>, which is Microsoft's open source project hosting site.
 

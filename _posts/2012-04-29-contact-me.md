@@ -2,7 +2,7 @@
 layout: post
 title: >
     Contact me
-permalink: /2012/04/29/contact-me/
+permalink: /2012/04/29/contact-me
 ---
 You can email me at <a href="mailto:alex@textadventures.co.uk">alex@textadventures.co.uk</a>
 

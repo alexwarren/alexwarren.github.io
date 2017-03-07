@@ -2,7 +2,9 @@
 layout: post
 title: >
     Quest 5.0 Beta 1 now available
-permalink: /2011/05/24/quest-5-0-beta-1-now-available/
+permalink: /2011/05/24/quest-5-0-beta-1-now-available
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/05/24/quest-5-0-beta-1-now-available/
 ---
 Quest 5.0 has finally reached beta stage!
 

@@ -2,7 +2,9 @@
 layout: post
 title: >
     "Play Online" now supports saving
-permalink: /2011/12/02/play-online-now-supports-saving/
+permalink: /2011/12/02/play-online-now-supports-saving
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2011/12/02/play-online-now-supports-saving/
 ---
 Playing Quest games online is far more popular than downloading for offline play - it doesn't require any downloads, and it works on all platforms. But the offline player (requiring a download of the Windows-only <a href="http://www.textadventures.co.uk/quest/download/">Quest</a> software) provides a better experience in a number of ways - most notably, until now it has been the only way of saving your progress in a game so you can come back to it later.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 4
-permalink: /2008/09/02/edinburgh-2008-reviews-and-reviews-of-reviews-part-4/
+permalink: /2008/09/02/edinburgh-2008-reviews-and-reviews-of-reviews-part-4
 ---
 And so we continue with part four of my reviews of the shows I saw at the Edinburgh festival. It's getting quite tiring this. Not too many more to do now though. Here are links to <a href="http://www.axeuk.com/alex/blog/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/">part 1</a>, <a href="http://www.axeuk.com/alex/blog/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2/">part 2</a> and <a href="http://www.axeuk.com/alex/blog/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3/">part 3</a>.
 

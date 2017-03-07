@@ -2,7 +2,7 @@
 layout: post
 title: >
     Look at me! Look at me!
-permalink: /2013/07/05/look-at-me-look-at-me/
+permalink: /2013/07/05/look-at-me-look-at-me
 ---
 It seems many people, myself included, have ended up having to spend much of their time trying to attract attention to themselves. Whether it's through writing blogs, tweets or meeting people at conferences, it seems hard to succeed without jumping up and down like a small child, shouting "Look at me! Look at me!"
 

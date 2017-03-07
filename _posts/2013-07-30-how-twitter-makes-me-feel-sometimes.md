@@ -2,7 +2,7 @@
 layout: post
 title: >
     How Twitter makes me feel sometimes
-permalink: /2013/07/30/how-twitter-makes-me-feel-sometimes/
+permalink: /2013/07/30/how-twitter-makes-me-feel-sometimes
 ---
 Maybe I have too much of a depressive personality to be on Twitter, or maybe I just need to get out more often. It's often very useful - I have found many useful links and connected with some interesting people. However, there's something about the constant competition for attention, and the way follower metrics are given such prominence on people's profiles, that often leaves me feeling sad - and then stupid for being so vain and wasting so much of my time.
 

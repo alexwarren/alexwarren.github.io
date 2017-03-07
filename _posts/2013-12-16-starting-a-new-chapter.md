@@ -2,7 +2,9 @@
 layout: post
 title: >
     Starting a new chapter
-permalink: /2013/12/16/starting-a-new-chapter/
+permalink: /2013/12/16/starting-a-new-chapter
+source: textadventures
+sourceUrl: http://blog.textadventures.co.uk/2013/12/16/starting-a-new-chapter/
 ---
 I've been building Quest and working on <a href="http://textadventures.co.uk">textadventures.co.uk</a> full-time for a couple of years now, on and off. Despite my best efforts to turn this into my living, I can no longer continue to work on this basis. As of January, I'll be moving on to work on something else, with interactive fiction becoming a side project once again.
 
