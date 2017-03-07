@@ -4,12 +4,25 @@ layout: index
 
 <h1>{{page.title}}</h1>
 
+<div class="date">
+{{ page.date | date: "%-d %B %Y" }}
+</div>
+
 {% if page.source == "textadventures" %}
 <p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">textadventures.co.uk blog</a>.</p>
 {% endif %}
 
+<div class="post">
 {{content}}
+</div>
 
-<div class="date">
-{{ page.date | date: "%-d %B %Y" }}
+<div class="row">
+    <div class="col-lg-6 prev">
+        {% if page.previous %}
+        <a href="{{ page.previous.url }}">&lt; {{ page.previous.title }}</a>
+        {% endif %}
+    </div>
+    <div class="col-lg-6 next">
+        <a href="{{ page.next.url }}">{{ page.next.title }} &gt;</a>
+    </div>
 </div>

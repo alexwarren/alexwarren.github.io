@@ -10,3 +10,17 @@ span.date {
 	font-size: 90%;
 	margin: 0 6px;
 }
+
+div.date {
+	font-size: 90%;
+	margin: 10px 0;
+}
+
+div.post {
+	margin: 20px 0;
+	font-size: 17px;
+}
+
+div.next {
+	text-align: right;
+}
