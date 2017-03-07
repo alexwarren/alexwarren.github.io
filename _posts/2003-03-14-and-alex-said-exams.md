@@ -1,0 +1,17 @@
+---
+layout: post
+title: >
+    And Alex Said: Exams
+permalink: /2003/03/14/and-alex-said-exams/
+---
+Column 19: Exams, 14th March 2003
+
+I wrote about revision last week, so the obvious follow-up is the exams themselves. I’m not a betting man, but I bet you’ve done a fair few exams before, and you should be used to them now. But they’re still a pain, both mentally and physically, due to the wonderfully unergonomic design of exam hall furniture – sitting on a chair which was obviously designed by somebody with a penchant for sadism, and a desk that has its legs placed precisely where you’d like your legs to be, thereby ensuring there is absolutely no physically comfortable position possible. It is also inevitable that you will choose a table that wobbles with every slight movement of your pen.
+
+So, everything is perfectly arranged for the whole exam experience to be as stressful as possible. You should try to relax. However, your options for doing this in the exam hall are somewhat limited – you can’t run a hot bubble bath or light scented candles, the invigilators would probably want a word with you if you lit a joint, and presumably masturbation is well off-limits.
+
+You don’t want to be tired in an exam, so make sure you get a good night’s rest. If you have trouble sleeping, you could try knocking yourself out with either a bottle of vodka or a large mallet, but why not try self-hypnosis? All you need is a pocket watch, or failing that a £2 coin on a piece of string, and there are guides on the internet telling you exactly what to do – though be careful which one you pick. I tried one a few years ago, which seemed to work quite well, but every time somebody coughed I would get up onto the desk and sing “If You’re Happy And You Know It Clap Your Hands”. Several others had obviously read similarly poor hypnosis guides, because every time I clapped my hands while singing, they got up and danced around their desks and pretended to be cream cakes. It all got rather chaotic and messy, particularly when they started eating themselves, and it was shortly after this event that they abolished the 11-plus – I always said it was wrong for kids to sit exams at such a young age.
+
+Not only do exams drive children insane, but constant exams means you hear the same advice over and over again, such as making sure you read the question properly before answering – I once spent ages writing out a detailed derivation of the fundamental equations of Quantum Mechanics, only to realise that what I’d actually been asked was only to sign a credit card slip in the supermarket. I’d like to think that the 16 year-old cashier learned something from it, but she just put it straight in the till. I don’t think she even compared it with the signature on my card – which is a detailed derivation of the main equations of General Relativity. Maybe my writing is just too small.
+
+Time has a habit of running out all too quickly in some exams. The same is true of this column’s word count – my word limit approaches rapidly, so that’s it from me this year I think. This is the last Felix of this term, and my final column, for a while at least. You can find all nineteen of them which I’ve written this year on my website – plus a whole plethora of other things. Kinky Mark, Channel 23 and The Fish of Knowledge are eagerly awaiting your visit. Thanks for reading and goodbye – my time is up, so I shall now stop writing.

@@ -39,7 +39,8 @@ parseString(xml, function (err, result) {
 
         var content = `---
 layout: post
-title: ${get("title")}
+title: >
+    ${get("title")}
 permalink: ${permalink}
 ---
 ${get("content:encoded")}`;
