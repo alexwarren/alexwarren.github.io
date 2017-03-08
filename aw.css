@@ -2,6 +2,12 @@ body {
 	padding-top: 70px;
 }
 
+@media (min-width: 900px) {
+  .container {
+    width: 900px;
+  }
+}
+
 img {
 	max-width: 100%;
 }
