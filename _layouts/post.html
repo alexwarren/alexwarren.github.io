@@ -10,6 +10,8 @@ layout: index
 
 {% if page.source == "textadventures" %}
 <p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">textadventures.co.uk blog</a>.</p>
+{% elsif page.source == "stackoverflow" %}
+<p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">Stack Overflow blog</a>.</p>
 {% endif %}
 
 <div class="post">
