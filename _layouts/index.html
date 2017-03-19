@@ -21,11 +21,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">alexwarren.uk</a>
+          <a class="navbar-brand" href="/">Alex Warren</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li {% if page.url == '/index.html' %}class="active"{% endif %}><a href="{{site.baseurl}}/">Home</a></li>
+            <li {% if page.url == '/' %}class="active"{% endif %}><a href="{{site.baseurl}}/">Home</a></li>
             <li {% if page.url contains '/projects' %}class="active"{% endif %}><a href="{{site.baseurl}}/projects/">Projects</a></li>
             <li {% if page.url contains '/writing' %}class="active"{% endif %}><a href="{{site.baseurl}}/writing/">Writing</a></li>
             <li {% if page.url contains '/talks' %}class="active"{% endif %}><a href="{{site.baseurl}}/talks/">Talks</a></li>
