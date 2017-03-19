@@ -28,7 +28,7 @@ I hired a cutting-edge but cheap advertising agency to come up with a new brand.
 
 Hey, you with the stupid noughties face! Announce your new life to the world with a fresh new look...
 
-<a href="http://alexwarrenblog.files.wordpress.com/2010/01/newlife1.jpg"><img class="alignnone size-full wp-image-280" style="border:0 initial initial;" title="newlife" src="http://alexwarrenblog.files.wordpress.com/2010/01/newlife1.jpg" alt="" width="579" height="285" /></a>
+<img src="/images/2010/newlife1.jpg" width="579" height="285" />
 
 <strong>Step 4: Give Up Alcohol</strong>
 
