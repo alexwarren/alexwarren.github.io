@@ -12,7 +12,7 @@ Well, I've now updated "Play Online" (a.k.a WebPlayer) so that you can save your
 
 To restore your saved game later, log in and then go back to the game page. You'll see two "play online" links:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/12/saveonline.png"><img class="aligncenter size-full wp-image-997" style="border-width:1px;border-color:black;border-style:solid;margin:10px 30px;" title="saveonline" src="http://textadventuresblog.files.wordpress.com/2011/12/saveonline.png" alt="" width="528" height="122" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-12-saveonline.png"><img class="aligncenter size-full wp-image-997" style="border-width:1px;border-color:black;border-style:solid;margin:10px 30px;" title="saveonline" src="/images/2011/textadventuresblog.files.wordpress.com-2011-12-saveonline.png" alt="" width="528" height="122" /></a>
 
 So, now you can play games on any device, save them and come back later - even on a different device. Play at work during your lunch hour, then finish the game when you get home.
 

@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2013/03/13/first-times-a-horror-text
 ---
 The horror text adventure <a href="http://www.textadventures.co.uk/review/511/">First Times</a>, by Hero Robb, is now available as a free app.
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/03/firsttimes-ballpoint.jpg"><img class="alignright size-medium wp-image-2071" alt="FirstTimes-Ballpoint" src="http://textadventuresblog.files.wordpress.com/2013/03/firsttimes-ballpoint.jpg?w=300" width="300" height="300" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-03-firsttimes-ballpoint.jpg"><img class="alignright size-medium wp-image-2071" alt="FirstTimes-Ballpoint" src="/images/2013/textadventuresblog.files.wordpress.com-2013-03-firsttimes-ballpoint.jpg?w=300" width="300" height="300" /></a>
 
 <ul>
 	<li><a href="http://itunes.apple.com/app/id609611434">iOS version for iPhone, iPad, iPod Touch - App Store</a></li>

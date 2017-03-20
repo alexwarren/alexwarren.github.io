@@ -30,11 +30,11 @@ I've added functions to generate an integer in a range (say, from 1 to 10) and t
 <ul>
 	<li><span style="line-height:19px;">When adding an "if" script, you can choose "random chance" from the dropdown. You can then enter a percentage between 0 and 100, and that script will then have X% chance of running.</span></li>
 </ul>
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/random1.png"><img class="alignnone size-full wp-image-604" title="random1" src="http://textadventuresblog.files.wordpress.com/2011/06/random1.png" alt="" width="650" height="283" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-random1.png"><img class="alignnone size-full wp-image-604" title="random1" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-random1.png" alt="" width="650" height="283" /></a>
 <ul>
 	<li><span style="line-height:19px;">When setting a variable value, it's very easy to say you want to choose a random number:</span></li>
 </ul>
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/random2.png"><img class="alignnone size-full wp-image-605" title="random2" src="http://textadventuresblog.files.wordpress.com/2011/06/random2.png" alt="" width="647" height="64" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-random2.png"><img class="alignnone size-full wp-image-605" title="random2" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-random2.png" alt="" width="647" height="64" /></a>
 
 <strong>Packaging games</strong>
 

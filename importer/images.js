@@ -3,52 +3,69 @@ var http = require("follow-redirects").http;
 
 var re = /(https?:[^\s"\<]+)/g;
 
-var max = 500;
-var count = 0;
+String.prototype.replaceAll = function(search, replacement) {
+    var target = this;
+    return target.split(search).join(replacement);
+};
 
 var getUrl = function (c, url, file) {
-    try {
-        //console.log(`${c} ${url}`);
-        http.get(url, (res) => {
-            const statusCode = res.statusCode;
-            const contentType = res.headers['content-type'];
+    console.log(`${c} QUEUE ${url}`);
+    setTimeout(function () {
+        try {
+            console.log(`${c} GET ${url}`);
+            //console.log(`${c} ${url}`);
+            http.get(url, (res) => {
+                const statusCode = res.statusCode;
+                const contentType = res.headers['content-type'];
 
-            if (statusCode !== 200) {
-                //console.log(`${c} ${statusCode} ${url}`);
-                // consume response data to free up memory
-                res.resume();
-                return;
-            }
+                console.log(`${c} RESPONSE (${statusCode}, ${contentType}) ${url}`);
 
-            if (!/^image\//.test(contentType)) {
-                //console.log(`${c} ${contentType} ${url}`);
-                // consume response data to free up memory
-                res.resume();
-                return;
-            }
+                if (statusCode !== 200) {
+                    //console.log(`${c} ${statusCode} ${url}`);
+                    // consume response data to free up memory
+                    res.resume();
+                    return;
+                }
 
-            //console.log(`${c} FETCHING ${url}`);
+                if (!/^image\//.test(contentType)) {
+                    //console.log(`${c} ${contentType} ${url}`);
+                    // consume response data to free up memory
+                    res.resume();
+                    return;
+                }
 
-            let rawData = [];
-            res.on('data', (chunk) => {
-                //console.log(`${c} got data`);
-                rawData.push(chunk)
+                //console.log(`${c} FETCHING ${url}`);
+
+                let rawData = [];
+                res.on('data', (chunk) => {
+                    //console.log(`${c} got data`);
+                    rawData.push(chunk)
+                });
+                res.on('end', () => {
+                    var buffer = Buffer.concat(rawData);
+                    //console.log(buffer.toString('base64'));
+                    console.log(`${url} SUCCESS for ${file}`);
+
+                    var year = file.substr(10, 4);
+                    var filename = `/images/${year}/` + url.replace(/https?:\/\//, "").replace(/\//g, "-");
+
+                    fs.writeFileSync(".." + filename, buffer);
+
+                    var content = fs.readFileSync(file).toString();
+                    content = content.replaceAll(url, filename);
+                    fs.writeFileSync(file, content);
+                });
+            }).on('error', (e) => {
+                //console.log(`${url} Got error: ${e.message}`);
             });
-            res.on('end', () => {
-                var buffer = Buffer.concat(rawData);
-                //console.log(buffer.toString('base64'));
-                console.log(`${url} SUCCESS for ${file}`);
-
-                fs.writeFileSync("../images/" + url.replace(/https?:\/\//, "").replace(/\//g, "-"), buffer);
-            });
-        }).on('error', (e) => {
-            //console.log(`${url} Got error: ${e.message}`);
-        });
-    }
-    catch (e) {
-        //console.log(`${c} ERROR ${e}`);
-    }
+        }
+        catch (e) {
+            //console.log(`${c} ERROR ${e}`);
+        }
+    }, c * 200);
 }
+
+var count = 0;
 
 fs.readdir("../_posts", (err, files) => {
     files.forEach(filename => {
@@ -60,10 +77,10 @@ fs.readdir("../_posts", (err, files) => {
             do {
                 var m = re.exec(content);
                 if (m) {
-                    if (count++ > max) break;
+                    count++;
                     getUrl(count, m[1], file);
                 }
-            } while (m && count < max);
+            } while (m);
         });
     });
 });

@@ -14,7 +14,7 @@ Two classic problems of text adventure games:
 <div><strong>An old solution</strong></div>
 To address these problems, Quest has always featured lists and a compass to the right of the game window. These show the objects in the player's inventory, and objects and exits in the current room. The idea is that, to a large extent, the player can interact with the game using the mouse.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/panes.png"><img class="alignnone size-full wp-image-615" title="panes" src="http://textadventuresblog.files.wordpress.com/2011/07/panes.png" alt="" width="173" height="394" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-panes.png"><img class="alignnone size-full wp-image-615" title="panes" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-panes.png" alt="" width="173" height="394" /></a>
 
 However, these have always been a little inflexible. Firstly, there was a hard-coded list of verbs ("Look at", "Take", "Speak to") displayed on the buttons. Secondly, not everybody likes the look of the panes, but if you turn them off, you've removed a lot of the help that the player might get.
 
@@ -22,29 +22,29 @@ However, these have always been a little inflexible. Firstly, there was a hard-c
 
 Quest 5 introduces another approach - you can dispense with the lists entirely, and use hyperlinks.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example.png"><img class="alignnone size-full wp-image-617" title="example" src="http://textadventuresblog.files.wordpress.com/2011/07/example.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example.png"><img class="alignnone size-full wp-image-617" title="example" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example.png" alt="" width="640" height="318" /></a>
 
 When you click one of the links, you get a menu showing the <strong>display verbs</strong> for that object. Each object can have its own display verbs, tailored to the type of object.
 
 Quest provides default display verbs for various object types. For example, <strong>characters</strong> such as Professor Dave:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example1.png"><img class="alignnone size-full wp-image-619" title="example1" src="http://textadventuresblog.files.wordpress.com/2011/07/example1.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example1.png"><img class="alignnone size-full wp-image-619" title="example1" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example1.png" alt="" width="640" height="318" /></a>
 
 <strong>Objects</strong> such as the desk:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example2.png"><img class="alignnone size-full wp-image-620" title="example2" src="http://textadventuresblog.files.wordpress.com/2011/07/example2.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example2.png"><img class="alignnone size-full wp-image-620" title="example2" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example2.png" alt="" width="640" height="318" /></a>
 
 <strong>Containers</strong> such as the box of pens:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example3.png"><img class="alignnone size-full wp-image-621" title="example3" src="http://textadventuresblog.files.wordpress.com/2011/07/example3.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example3.png"><img class="alignnone size-full wp-image-621" title="example3" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example3.png" alt="" width="640" height="318" /></a>
 
 <strong>Switchable</strong> objects, such as the fan:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example4.png"><img class="alignnone size-full wp-image-622" title="example4" src="http://textadventuresblog.files.wordpress.com/2011/07/example4.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example4.png"><img class="alignnone size-full wp-image-622" title="example4" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example4.png" alt="" width="640" height="318" /></a>
 
 You can also add <strong>custom verbs</strong> to the list. For example, here we've added "push" to the button:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example5.png"><img class="alignnone size-full wp-image-623" title="example5" src="http://textadventuresblog.files.wordpress.com/2011/07/example5.png" alt="" width="640" height="318" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example5.png"><img class="alignnone size-full wp-image-623" title="example5" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example5.png" alt="" width="640" height="318" /></a>
 
 Apart from the final example, all of the display verbs were set up automatically using the functionality built in to Quest's Core library. When you mark an object as "Male character" for example, you get the relevant display verbs ("Look at", "Speak to") which are different to the display verbs you get for "Inanimate object" ("Look at", "Take"). When you mark an object as being able to be switched on or off, you get "Switch on" and "Switch off" added to the display verbs list.
 
@@ -52,7 +52,7 @@ Any type can add to the list of display verbs. Quest supports multiple inheritan
 
 From the Object tab, you can customise the display verbs list entirely - adding or removing the default verbs.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/07/example6.png"><img class="alignnone size-full wp-image-636" title="example6" src="http://textadventuresblog.files.wordpress.com/2011/07/example6.png" alt="" width="768" height="571" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example6.png"><img class="alignnone size-full wp-image-636" title="example6" src="/images/2011/textadventuresblog.files.wordpress.com-2011-07-example6.png" alt="" width="768" height="571" /></a>
 
 &nbsp;
 

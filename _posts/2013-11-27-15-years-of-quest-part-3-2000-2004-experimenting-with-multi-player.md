@@ -16,11 +16,11 @@ The idea was that the game ran entirely on the server, and players would connect
 
 You can get some idea of how it worked by looking at some screenshots for the basic "Arena" demo. Multiple players would appear in the same room, and they could pick up objects, give them to each other, and even hit each other. For example, here's what Bob might see if he joins Alex in the room:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/quest3-multiplayer2.png"><img class="aligncenter size-large wp-image-2539" src="http://textadventuresblog.files.wordpress.com/2013/11/quest3-multiplayer2.png?w=625" alt="Multi-player Quest game - 1" width="625" height="462" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-multiplayer2.png"><img class="aligncenter size-large wp-image-2539" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-multiplayer2.png?w=625" alt="Multi-player Quest game - 1" width="625" height="462" /></a>
 
 And here's what Alex sees while this is happening:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/quest3-multiplayer.png"><img class="aligncenter size-large wp-image-2538" src="http://textadventuresblog.files.wordpress.com/2013/11/quest3-multiplayer.png?w=625" alt="Multi-player Quest game - 2" width="625" height="462" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-multiplayer.png"><img class="aligncenter size-large wp-image-2538" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-multiplayer.png?w=625" alt="Multi-player Quest game - 2" width="625" height="462" /></a>
 
 I thought this was rather nifty, myself, and although it got a reasonable amount of interest from Quest users, it ultimately failed to really get anywhere. I've come across a <a href="http://www.axeuk.com/ubb/Forum3/HTML/000030.html">forum post from 2002 by MaDbRiT</a> which sums it up:
 <blockquote>Questnet is a good idea that is kind of struggling to get off the ground. There are no games because there are no players and no one wants to spend aged writing a game if there are no players. What came first, the Chicken or the Egg? The technical demands of hosting a QuestNet game are out of realistic reach of most of us too - even if I wrote a QuestNet game, I couldn't "serve" it - I just don't have the facilities.</blockquote>
@@ -38,18 +38,18 @@ In March 2001, Quest 3.0 reached its first beta release. This added support for 
 
 The new-look start screen allowed you to load a game file, or connect to a multi-player network game:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/quest3-start.png"><img class="aligncenter size-full wp-image-2540" src="http://textadventuresblog.files.wordpress.com/2013/11/quest3-start.png" alt="Quest 3.0 Start Screen" width="606" height="313" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-start.png"><img class="aligncenter size-full wp-image-2540" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-start.png" alt="Quest 3.0 Start Screen" width="606" height="313" /></a>
 
 The main player interface was relatively unchanged from Quest 2.1, although you could now toggle the panes off:
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/quest3-main.png"><img class="aligncenter size-large wp-image-2537" src="http://textadventuresblog.files.wordpress.com/2013/11/quest3-main.png?w=625" alt="Quest 3.0" width="625" height="462" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-main.png"><img class="aligncenter size-large wp-image-2537" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-quest3-main.png?w=625" alt="Quest 3.0" width="625" height="462" /></a>
 
-QDK was still looking rather plain:<a href="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-main.png"><img class="aligncenter size-full wp-image-2534" src="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-main.png" alt="QDK 3.0" width="569" height="487" /></a>
+QDK was still looking rather plain:<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-main.png"><img class="aligncenter size-full wp-image-2534" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-main.png" alt="QDK 3.0" width="569" height="487" /></a>
 
-The Room and Object editors were now grouped into tabs:<a href="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-room.png"><img class="aligncenter size-full wp-image-2536" src="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-room.png" alt="QDK 3.0 Room Editor" width="478" height="433" /></a>
+The Room and Object editors were now grouped into tabs:<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-room.png"><img class="aligncenter size-full wp-image-2536" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-room.png" alt="QDK 3.0 Room Editor" width="478" height="433" /></a>
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-object.png"><img class="aligncenter size-full wp-image-2535" src="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-object.png" alt="QDK 3.0 Object Editor" width="454" height="425" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-object.png"><img class="aligncenter size-full wp-image-2535" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-object.png" alt="QDK 3.0 Object Editor" width="454" height="425" /></a>
 
-The new Script Editor presented a plain English way of editing scripts. It's not dissimilar to Quest 5's script editor, although it did involve opening a pop-up window every time you wanted to edit any individual command, which some people found a bit tiring:<a href="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-scripteditor.png"><img class="aligncenter size-large wp-image-2541" src="http://textadventuresblog.files.wordpress.com/2013/11/qdk3-scripteditor.png?w=625" alt="QDK 3.0 Script Editor" width="625" height="325" /></a>
+The new Script Editor presented a plain English way of editing scripts. It's not dissimilar to Quest 5's script editor, although it did involve opening a pop-up window every time you wanted to edit any individual command, which some people found a bit tiring:<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-scripteditor.png"><img class="aligncenter size-large wp-image-2541" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-qdk3-scripteditor.png?w=625" alt="QDK 3.0 Script Editor" width="625" height="325" /></a>
 
 A few bug-fix releases followed very shortly afterwards, and then I started working on v3.1. This added support for <a href="http://en.wikipedia.org/wiki/Module_file">MOD music files</a> - something I was into creating myself, but a feature I think was never actually used by anybody. There were various other tweaks, including improvements to the parser. Libraries gained the ability to add panes to QDK (here again is an example of a feature that was added which is now a core part of how Quest works - as of v5.0, all panes in Quest's editor are defined by libraries). Quest 3.1 was released in June 2002.
 

@@ -14,11 +14,11 @@ This is a relatively small update, with a focus on refining the player interface
 
 This version features some enhancements to make it easier to create games that look a little more elegant. The location bar and screen border can be toggled off, and you can set a custom display width and padding. There are new display themes, so you can easily change from the Quest Standard theme:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/12/standard.png"><img class="aligncenter size-large wp-image-2560" alt="Quest Standard Theme" src="http://textadventuresblog.files.wordpress.com/2013/12/standard.png?w=625" width="625" height="226" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-12-standard.png"><img class="aligncenter size-large wp-image-2560" alt="Quest Standard Theme" src="/images/2013/textadventuresblog.files.wordpress.com-2013-12-standard.png?w=625" width="625" height="226" /></a>
 
 to the simpler "Novella" theme:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/12/novella.png"><img class="aligncenter size-large wp-image-2561" alt="Quest Novella Theme" src="http://textadventuresblog.files.wordpress.com/2013/12/novella.png?w=625" width="625" height="312" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-12-novella.png"><img class="aligncenter size-large wp-image-2561" alt="Quest Novella Theme" src="/images/2013/textadventuresblog.files.wordpress.com-2013-12-novella.png?w=625" width="625" height="312" /></a>
 
 And there are a few more fun bonus themes too.
 

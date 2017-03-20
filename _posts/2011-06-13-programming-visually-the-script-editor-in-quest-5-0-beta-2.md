@@ -16,7 +16,7 @@ With the new Script Editor appearing soon in Quest 5.0 Beta 2, I think I have ac
 
 In Beta 2, I have rewritten the Script Editor UI from Beta 1, so it now looks quite a bit different. Here's an example of the Script Editor showing the kind of script that often appears at the beginning of a game - it prompts the player to enter their name, and then welcomes them to the game:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scripteditor.png"><img class="alignnone size-full wp-image-588" title="Script Editor" src="http://textadventuresblog.files.wordpress.com/2011/06/scripteditor.png" alt="" width="570" height="140" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scripteditor.png"><img class="alignnone size-full wp-image-588" title="Script Editor" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scripteditor.png" alt="" width="570" height="140" /></a>
 
 Behind the scenes, this the script that has been created:
 <pre>msg ("Welcome! Please enter your name to begin.")
@@ -26,23 +26,23 @@ Let's look at each of these commands in turn, and how the Script Editor helps yo
 
 First, there's a command which simply prints a message to the screen. Starting with a blank Script Editor, the only option we have is to expand the "Add new script" section, which gives us a searchable, categorised tree of all the commands we can use:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptadder.png"><img class="alignnone size-full wp-image-590" title="Script Adder" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptadder.png" alt="" width="568" height="383" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptadder.png"><img class="alignnone size-full wp-image-590" title="Script Adder" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptadder.png" alt="" width="568" height="383" /></a>
 
 We can click "Add" or double-click to add this command. Now the Script Editor looks like this:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptaddmsg.png"><img class="alignnone size-full wp-image-591" title="scriptaddmsg" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptaddmsg.png" alt="" width="571" height="90" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptaddmsg.png"><img class="alignnone size-full wp-image-591" title="scriptaddmsg" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptaddmsg.png" alt="" width="571" height="90" /></a>
 
 We can simply start typing the message. No need to worry about closing quote characters, or indeed including quote characters within the message - the Script Editor handles all of that, ensuring the underlying script is created correctly (with any quote characters in the message escaped if necessary).
 
 Next, we want to add a command which will store the next thing the player types in at the command prompt. We click "Add new script" again, and add the "Set a variable or property" command, which can be found in the "Variables" category (or by typing "set" in the search box).
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptaddset.png"><img class="alignnone size-full wp-image-592" title="Script Editor - add set command" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptaddset.png" alt="" width="571" height="114" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptaddset.png"><img class="alignnone size-full wp-image-592" title="Script Editor - add set command" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptaddset.png" alt="" width="571" height="114" /></a>
 
 We can type in a name for our variable, "playername" for example. Next we need to enter the value for the variable. We can enter any expression, such as "2", "foo", "3+8", "SomeFunction()" etc. So we could call the function ourselves, but the Script Editor has another trick up its sleeve - expression templates.
 
 Expression templates appear for a number of script commands, and provide access to common functions. They are context-specific, so you see different expression templates for the "set" command than for the "if" command. If you click the "expression" drop-down, you'll see the available templates. Currently, for "set" you will see this:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptexpressiontemplate.png"><img class="alignnone size-full wp-image-594" title="Script Editor - expression template" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptexpressiontemplate.png" alt="" width="569" height="171" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpressiontemplate.png"><img class="alignnone size-full wp-image-594" title="Script Editor - expression template" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpressiontemplate.png" alt="" width="569" height="171" /></a>
 
 (This list may well be expanded before Beta 2 is released, and the templates are defined in the core library, meaning that the list can be easily extended)
 
@@ -50,11 +50,11 @@ Selecting "player input" completes the command, and now we can add the final "pr
 
 A similar dropdown on the "Print" command allows us to switch to an expression:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptprintexpression.png"><img class="alignnone size-full wp-image-595" title="Script Editor - print expression" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptprintexpression.png" alt="" width="571" height="147" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptprintexpression.png"><img class="alignnone size-full wp-image-595" title="Script Editor - print expression" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptprintexpression.png" alt="" width="571" height="147" /></a>
 
 We can now add the expression "<kbd>"Welcome, " + playername</kbd>", and the Script Editor will give us a bit of help with that, too. The blue triangle to the right of the expression contains a menu which allows us to add things to our expression:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/06/scriptexpression.png"><img class="alignnone size-full wp-image-596" title="Script Editor - expression menu" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptexpression.png" alt="" width="569" height="425" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpression.png"><img class="alignnone size-full wp-image-596" title="Script Editor - expression menu" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpression.png" alt="" width="569" height="425" /></a>
 
 Selecting "Variable" from the menu gives us a drop-down list of all variables in the current scope - in this case, just the "playername" variable we created earlier. Of course, we can simply type the expression too.
 

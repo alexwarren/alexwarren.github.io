@@ -18,13 +18,13 @@ Quest 5.4 addresses these issues with a new feature, the <strong>text processor<
 
 For example, here's how we might write a description of a hungry mouse:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/textproc1.png"><img class="aligncenter size-large wp-image-2030" alt="Text Processor - editing" src="http://textadventuresblog.files.wordpress.com/2013/02/textproc1.png?w=625" width="625" height="364" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc1.png"><img class="aligncenter size-large wp-image-2030" alt="Text Processor - editing" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc1.png?w=625" width="625" height="364" /></a>
 
 We're just using a text description here, not a script. The editor provides some helpful buttons so we don't have to remember the available codes, and we can also easily add object links by clicking the "Object link" button - we can choose an object from the list that appears.
 
 When we run the game, here's what we see. The "Aaargh, a mouse!" text only appears the first time:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/textproc2.png"><img class="aligncenter size-full wp-image-2031" alt="Text Processor - output" src="http://textadventuresblog.files.wordpress.com/2013/02/textproc2.png" width="447" height="163" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc2.png"><img class="aligncenter size-full wp-image-2031" alt="Text Processor - output" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc2.png" width="447" height="163" /></a>
 
 We can easily include conditional text using the {if} code, which allows us to check the value of game or object attributes. For example, if we're looking at an apple and the player's health is low, we might write:
 <p style="padding-left:30px;">That looks like a tasty apple. {if player.health&lt;10:It would be a very good idea to eat it.}</p>

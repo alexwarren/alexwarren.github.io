@@ -16,11 +16,11 @@ Quest 5.4 features what I call <strong>live hyperlinks</strong>. Now, as you mov
 
 Let's see it in action. Here's a room with a newspaper that the player can pick up, as well as some other objects:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/livelinks1.png"><img class="aligncenter size-large wp-image-2050" alt="Object links 1" src="http://textadventuresblog.files.wordpress.com/2013/02/livelinks1.png?w=625" width="625" height="110" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-livelinks1.png"><img class="aligncenter size-large wp-image-2050" alt="Object links 1" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-livelinks1.png?w=625" width="625" height="110" /></a>
 
 Now if the player takes the newspaper and moves east, the other hyperlinks are deactivated. The player can still click the "old" newspaper link though, and interact with it using the current set of inventory verbs:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/livelinks2.png"><img class="aligncenter size-large wp-image-2051" alt="Object links 2" src="http://textadventuresblog.files.wordpress.com/2013/02/livelinks2.png?w=625" width="625" height="252" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-livelinks2.png"><img class="aligncenter size-large wp-image-2051" alt="Object links 2" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-livelinks2.png?w=625" width="625" height="252" /></a>
 
 Notice also that the exit hyperlinks "east" and "west" are also activated or deactivated according to whether they're available.
 
@@ -30,10 +30,10 @@ Previously, this disambiguation menu was a modal pop-up. Now, I think modal pop-
 
 So, in Quest 5.4 I have changed menus so they are shown in-line with the rest of the game text. Like this:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/menu1.png"><img class="aligncenter size-full wp-image-2052" alt="New menu" src="http://textadventuresblog.files.wordpress.com/2013/02/menu1.png" width="365" height="144" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-menu1.png"><img class="aligncenter size-full wp-image-2052" alt="New menu" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-menu1.png" width="365" height="144" /></a>
 
 The player can now click the link or type "1" or "2" to make a selection. The menu uses a simple jQuery animation to slide away, and the game continues.
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/02/menu2.png"><img class="aligncenter size-full wp-image-2053" alt="New menu 2" src="http://textadventuresblog.files.wordpress.com/2013/02/menu2.png" width="365" height="115" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-menu2.png"><img class="aligncenter size-full wp-image-2053" alt="New menu 2" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-menu2.png" width="365" height="115" /></a>
 
 Alternatively, the player could just do something else - if they type another command or interact with a different object, the menu slides away and the game continues.

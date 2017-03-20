@@ -14,7 +14,7 @@ As the creator of a text adventure engine, <a href="http://www.textadventures.co
 
 Many people think of text adventures as an old-fashioned game form, something that was maybe <a href="http://www.youtube.com/watch?v=dOV5WXISM24">acceptable in the 80s</a> but which we have now outgrown and left behind. But I think the opposite is true. Right now, we are early in the history of text adventure games. Their time to shine is just beginning.
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/slide161.png"><img class="alignnone size-full wp-image-1821" alt="Le Voyage Dans La Lune" src="http://textadventuresblog.files.wordpress.com/2013/01/slide161.png" width="625" height="471" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide161.png"><img class="alignnone size-full wp-image-1821" alt="Le Voyage Dans La Lune" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide161.png" width="625" height="471" /></a>
 
 The image above is from the film <em>Le Voyage Dans La Lune</em> (A Trip To The Moon), a French science-fiction film from 1902. For me, it's the image that immediately springs to mind when I imagine the very early days of cinema. You can <a href="http://www.youtube.com/watch?v=7JDaOOw0MEE">watch it on YouTube</a> if you have a spare 10 minutes. If you do, I want you to notice one thing...
 
@@ -40,7 +40,7 @@ We cannot possibly argue that text adventures have matured. We cannot reasonably
 
 Therefore when thinking about the future of text adventure games, I like to pretty much ignore the 1980s entirely. Those games have interesting historical value, but will look pretty quaint when we put them next to the text adventure games that will be created over the next few decades.
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/slide171.png"><img class="alignnone size-full wp-image-1822" alt="Citizen Kane" src="http://textadventuresblog.files.wordpress.com/2013/01/slide171.png" width="625" height="417" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide171.png"><img class="alignnone size-full wp-image-1822" alt="Citizen Kane" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide171.png" width="625" height="417" /></a>
 
 There is a quote from an <a href="http://youtu.be/DQCnrPr3qIA?t=6m14s">interview with Orson Welles</a> which I find particularly inspirational:
 
@@ -54,11 +54,11 @@ And right now is a great time to start reimagining what a text adventure is. Why
 
 Because this never happened:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/slide181.png"><img class="alignnone size-full wp-image-1823" alt="Playing text adventures in bed" src="http://textadventuresblog.files.wordpress.com/2013/01/slide181.png" width="625" height="415" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide181.png"><img class="alignnone size-full wp-image-1823" alt="Playing text adventures in bed" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide181.png" width="625" height="415" /></a>
 
 And this never happened:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/slide191.png"><img class="alignnone size-full wp-image-1824" alt="Playing text adventures on the tube" src="http://textadventuresblog.files.wordpress.com/2013/01/slide191.png" width="625" height="477" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide191.png"><img class="alignnone size-full wp-image-1824" alt="Playing text adventures on the tube" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-slide191.png" width="625" height="477" /></a>
 
 (My Photoshop Masterclass was, coincidentally, another thing that never happened - but you get the idea).
 
@@ -70,11 +70,11 @@ Quest is built upon web technologies, so games can run anywhere, or be packaged 
 
 HTML5 opens up a lot of possibilities for experimenting. For example, using Canvas we can dynamically draw maps:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/map.png"><img class="alignnone size-full wp-image-1832" alt="Game with map" src="http://textadventuresblog.files.wordpress.com/2013/01/map.png" width="625" height="550" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-map.png"><img class="alignnone size-full wp-image-1832" alt="Game with map" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-map.png" width="625" height="550" /></a>
 
 <span style="line-height:1.714285714;font-size:1rem;">Of course, HTML is designed for laying out text - so there is plenty of room for experimentation here. For example, why not split the screen in two:</span>
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/01/twohalves.png"><img class="alignnone size-full wp-image-1833" alt="Split screen text adventure" src="http://textadventuresblog.files.wordpress.com/2013/01/twohalves.png" width="625" height="467" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-twohalves.png"><img class="alignnone size-full wp-image-1833" alt="Split screen text adventure" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-twohalves.png" width="625" height="467" /></a>
 
 The images above are very basic protoypes, but of course you can tap into the full power of CSS and JavaScript to give games your own look, and build your own UI. Perhaps you would want to remove the command bar entirely, or add your own information panes? Maybe change the UI for each scene in the game. Have players type inside a speech bubble, or inside a newspaper column. Make text move, blur, melt away. There are so many possibilities - so many things that have not yet been tried. Some will work, some will not, some will simply inspire other authors to do better.
 

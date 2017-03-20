@@ -24,7 +24,7 @@ To answer that, we need to know what makes someone become a developer. Many peop
 
 Fast forward to today, and we've lost that. The vast majority of computer users will never go anywhere near anything resembling a programming language, so they won't even poke around out of curiosity. Even if they wanted to, it is much harder to get started now. Where do you begin? You started up an Electron and you were presented with a very simple screen that threw you straight into programming, and there was even a book in the box called "Start Programming with the Acorn Electron". You almost couldn't stop yourself from programming on one of those. But today, how can you get started on a PC? You can download <a href="http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-basic-express">Visual Studio Express</a> for free - but check out what Microsoft thinks is a <a href="http://msdn.microsoft.com/en-gb/ff380143">friendly introduction</a>. Just go to that page and ask yourself what somebody who has never attempted programming before is likely to make of it.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/09/programming.png"><img class="aligncenter size-full wp-image-1993" alt="programming" src="http://textadventuresblog.files.wordpress.com/2011/09/programming.png" width="500" height="145" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-09-programming.png"><img class="aligncenter size-full wp-image-1993" alt="programming" src="/images/2011/textadventuresblog.files.wordpress.com-2011-09-programming.png" width="500" height="145" /></a>
 <p style="text-align:center;"><strong style="line-height:1.714285714;font-size:1rem;">One of these is easier to get started with than the other</strong></p>
 <strong>In Schools</strong>
 
@@ -44,7 +44,7 @@ Quest presents a visual editor so it doesn't have off-putting syntax and crazy p
 
 Because it's not a "pure" programming tool I think it could even be sneaked into other areas of the curriculum - for example, in an English creative writing lesson, pupils creating a text adventure game would be exposed to a few programming concepts, and it wouldn't even hurt a bit.
 
-<img alt="Quest Script Editor" src="http://textadventuresblog.files.wordpress.com/2011/06/scriptprintexpression.png" width="571" height="147" />
+<img alt="Quest Script Editor" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptprintexpression.png" width="571" height="147" />
 
 By playing each other's creations over the web or a school network, that will encourage competition between pupils as to who can make the best game. From the evidence I've seen so far, creating games with Quest is something that school children can really get excited about - some year 7's (11-12 year olds) were so keen they were even <a href="http://twitter.com/#!/chrisleach78/status/81758927074758656">skipping breaks</a> to continue working on their games.
 

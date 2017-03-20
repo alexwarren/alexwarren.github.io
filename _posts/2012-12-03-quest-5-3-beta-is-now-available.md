@@ -22,7 +22,7 @@ So, the web version of the player UI has now been brought to the desktop version
 
 Furthermore, the desktop version of Quest is no longer dependent on the version of Internet Explorer that is currently installed. Instead, Quest bundles an embedded version of the Chromium browser. This is the browser that underpins Google Chrome, and is based on WebKit (which is also behind Safari and the default Android browser). This means you now get access to the Chrome Developer Tools directly within Quest - so you can play around and see the effects of tweaking HTML while a game is running.
 
-[caption id="attachment_1651" align="aligncenter" width="682"]<img class=" wp-image-1651" title="Chrome Developer Tools in Quest" src="http://textadventuresblog.files.wordpress.com/2012/12/html.png" alt="" width="682" height="449" /> Chrome Developer Tools in Quest[/caption]
+[caption id="attachment_1651" align="aligncenter" width="682"]<img class=" wp-image-1651" title="Chrome Developer Tools in Quest" src="/images/2012/textadventuresblog.files.wordpress.com-2012-12-html.png" alt="" width="682" height="449" /> Chrome Developer Tools in Quest[/caption]
 
 Quest 5.3 starts us down the road towards doing more innovative and exciting things within a predominately text-based medium. Of course we're not fully where I want to be yet, and one of my focuses for Quest 5.4 is to extend the customisability of the UI even more, to make it even easier to try out interesting ideas. Keep on eye on <a href="http://www.textadventures.co.uk/blog/">the blog</a>, as I'll be documenting any experiments there, and please do <a title="Contact us" href="http://www.textadventures.co.uk/help/contact-us/">contact me</a> if you have any ideas!
 
@@ -30,18 +30,18 @@ Other new improvements to look and feel include:
 <ul>
 	<li><strong>Grid-based map</strong> (sponsored by Phillip Zolla) - as detailed in <a title="Automatic mapping in Quest 5.3" href="http://www.textadventures.co.uk/blog/2012/07/22/automatic-mapping-in-quest-5-3/">this separate blog post</a>. This is an initial release of mapping functionality, so it's fairly basic at the moment. Future releases will add support for images in the map, and a visual map editor.</li>
 </ul>
-[caption id="attachment_1651" align="aligncenter" width="453"]<img class="size-full wp-image-1549" title="Grid map - castle" src="http://textadventuresblog.files.wordpress.com/2012/07/grid2.png" alt="" width="453" height="220" align="aligncenter" /> <br />Grid-based map example[/caption]
+[caption id="attachment_1651" align="aligncenter" width="453"]<img class="size-full wp-image-1549" title="Grid map - castle" src="/images/2012/textadventuresblog.files.wordpress.com-2012-07-grid2.png" alt="" width="453" height="220" align="aligncenter" /> <br />Grid-based map example[/caption]
 <ul>
 	<li><strong>Google Web Fonts</strong>. You can now choose from over <a href="http://www.google.com/webfonts">600 different fonts</a>, and they will be downloaded on demand.</li>
 	<li><strong>Cover art</strong>. You can now add cover art to your game from within the editor, and some game authors have kindly provided cover art for their existing published games. This is currently displayed in the game browser, and will soon be shown on the website too. Hopefully this will be a nice way of attracting more people to your game, and maybe provide something of an idea of the game's feel and atmosphere.</li>
 </ul>
-[caption id="attachment_1641" align="aligncenter" width="610"]<img class="wp-image-1641" title="Cover art" src="http://textadventuresblog.files.wordpress.com/2012/12/coverart.png" alt="" width="610" height="300" align="aligncenter" /> Displaying cover art in the game browser[/caption]
+[caption id="attachment_1641" align="aligncenter" width="610"]<img class="wp-image-1641" title="Cover art" src="/images/2012/textadventuresblog.files.wordpress.com-2012-12-coverart.png" alt="" width="610" height="300" align="aligncenter" /> Displaying cover art in the game browser[/caption]
 <ul>
 	<li><strong>Text effects</strong>. There are new "typewriter" and "unscramble" text effects available from the new "Effects" category in the script editor. They are pretty basic JavaScript effects and work best with a monospaced font. It would be nice to expand this to a more fully featured library in the future as this is really the tip of the iceberg for the kinds of things that I think JavaScript could bring to text adventure games.</li>
 	<li><strong>Background images</strong>. You can now specify a background image as well as a background colour, and you can also set the opacity for the section of background image that appears behind the game text. You could try the <a href="http://subtlepatterns.com/">Subtle Patterns</a> website for some nice backgrounds.</li>
 	<li><strong>Redisplay hyperlinks in commands</strong>. When using object hyperlinks, the command output now has the same hyperlink in it so the player doesn't have to scroll up again to do other things to the same object. As with most things, as a game author you can turn this off if you don't like it (indeed you can turn off hyperlinks entirely if you want).</li>
 </ul>
-[caption id="attachment_1646" align="aligncenter" width="242"]<img class="aligncenter size-full wp-image-1646" title="Redisplaying hyperlinks" src="http://textadventuresblog.files.wordpress.com/2012/12/hyperlinks.png" alt="" width="242" height="173" /> Showing hyperlinks for a command that has been entered[/caption]
+[caption id="attachment_1646" align="aligncenter" width="242"]<img class="aligncenter size-full wp-image-1646" title="Redisplaying hyperlinks" src="/images/2012/textadventuresblog.files.wordpress.com-2012-12-hyperlinks.png" alt="" width="242" height="173" /> Showing hyperlinks for a command that has been entered[/caption]
 <ul>
 	<li><strong>And more</strong>. Customisable object link colour (sponsored by Phillip Zolla), more room description options (by James Gregory), choose a different alias to display on the "Inventory" and "Places and Objects" panes (sponsored by Phillip Zolla), use "ul", "ol" and "li" tags to show numbered and unnumbered lists (sponsored by Phillip Zolla), background sounds for gamebook pages (by Pertex).</li>
 </ul>
@@ -62,7 +62,7 @@ Other new improvements to look and feel include:
 	<li><strong>Automatic display verbs</strong>. By default, any verb you add to an object is now automatically added to its "Display verbs" list, so you don't need to manually add it. This helps you to ensure that your game can be played without typing, as any custom verb you add will always be selectable from the object's hyperlink menu.</li>
 	<li><strong>Image previews in the editor</strong>. A small thumbnail is shown anywhere you can select an image.</li>
 </ul>
-<div><img class="aligncenter size-full wp-image-1647" title="Image preview" src="http://textadventuresblog.files.wordpress.com/2012/12/image-preview.png" alt="" width="378" height="139" /></div>
+<div><img class="aligncenter size-full wp-image-1647" title="Image preview" src="/images/2012/textadventuresblog.files.wordpress.com-2012-12-image-preview.png" alt="" width="378" height="139" /></div>
 <ul>
 	<li><strong>Named character types</strong> (by James Gregory). Easier way of making a "named" character (e.g. "Bob", "Dracula") display correctly in a room description - this simply turns off the default prefix so Quest displays "You can see Bob" instead of "You can see a Bob".</li>
 	<li><strong>Editor automatically saves when you click Play</strong>. Being prompted to save all the time was tedious.</li>

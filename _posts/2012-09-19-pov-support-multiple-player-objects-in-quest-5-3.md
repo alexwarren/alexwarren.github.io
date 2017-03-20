@@ -20,7 +20,7 @@ Objects can behave differently depending on whether they are the player or not. 
 
 To handle this, options that were previously only available for the single "player" object are now available for all objects. The object's Options tab has a new "Player" section. If "Can be a player" is selected, new options appear where you can set an override "look at" description to display when this object is the player.
 
-<img class="aligncenter size-full wp-image-1586" title="Object player editor" src="http://textadventuresblog.files.wordpress.com/2012/09/pov1.png" alt="" width="602" height="456" />
+<img class="aligncenter size-full wp-image-1586" title="Object player editor" src="/images/2012/textadventuresblog.files.wordpress.com-2012-09-pov1.png" alt="" width="602" height="456" />
 
 This new feature is part of Quest 5.3, which will hopefully be in beta around the end of October. In the meantime, you can <a href="http://quest.codeplex.com/releases/view/77770">download the nightly build from CodePlex</a>.
 

@@ -28,7 +28,7 @@ Instead of a load of slides, the presentation was entirely in Visual Studio, tak
 
 <strong>Windows Phone 7</strong>
 
-<img class="alignnone" title="Windows Phone 7" src="http://msnbcmedia2.msn.com/j/MSNBC/Components/Photo/_new/500x_pictureshub.grid-6x2.jpg" alt="" width="474" height="312" />
+<img class="alignnone" title="Windows Phone 7" src="/images/2010/msnbcmedia2.msn.com-j-MSNBC-Components-Photo-_new-500x_pictureshub.grid-6x2.jpg" alt="" width="474" height="312" />
 
 To give Scott a bit of a break from presenting, between the two ASP.NET MVC sessions Mike Ormond stepped in to talk about developing applications for Microsoft's forthcoming Windows Phone 7 platform. It was a mixture of slides and a more hands-on demonstration, as he demonstrated writing a simple game which he then showed working on both an emulator and an actual prototype phone.
 

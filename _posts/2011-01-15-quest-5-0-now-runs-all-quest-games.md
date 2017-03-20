@@ -16,7 +16,7 @@ One thing I've found is that the new .NET code is significantly faster than the 
 
 So please download the new Technical Preview version at <a href="http://quest5.net">http://quest5.net</a> and let me know if you encounter any problems.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/01/quest5.png"><img class="alignnone size-full wp-image-179" title="Quest 5.0 playing a Quest 4.x game" src="http://textadventuresblog.files.wordpress.com/2011/01/quest5.png" alt="Quest 5.0 playing a Quest 4.x game" width="578" height="534" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-01-quest5.png"><img class="alignnone size-full wp-image-179" title="Quest 5.0 playing a Quest 4.x game" src="/images/2011/textadventuresblog.files.wordpress.com-2011-01-quest5.png" alt="Quest 5.0 playing a Quest 4.x game" width="578" height="534" /></a>
 <h2>Editor Preview</h2>
 This new release has a preview of the Editor. It is currently <em>very</em> limited - so much so that I considered disabling it entirely for this release, but some people said they were interested in seeing how things were shaping up.
 
@@ -28,4 +28,4 @@ Some features that <em>do</em> work:
 	<li>The Script Editor lets you add and delete commands. I've refined the design from Quest 4.x - there are no pop-out windows at all, although you can click the "Pop out" button if it all gets a bit crowded. The "If" editor is a work in progress, so you will probably crash the application quite quickly if you start playing with it.</li>
 	<li>You can change the Filter at the bottom of the treeview to see elements that are loaded from libraries such as Core.aslx.</li>
 </ul>
-<a href="http://textadventuresblog.files.wordpress.com/2011/01/quest5editor.png"><img class="alignnone size-full wp-image-183" title="Quest 5.0 Editor Preview" src="http://textadventuresblog.files.wordpress.com/2011/01/quest5editor.png" alt="" width="578" height="534" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-01-quest5editor.png"><img class="alignnone size-full wp-image-183" title="Quest 5.0 Editor Preview" src="/images/2011/textadventuresblog.files.wordpress.com-2011-01-quest5editor.png" alt="" width="578" height="534" /></a>

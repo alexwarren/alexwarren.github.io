@@ -12,17 +12,17 @@ The gamebook mode is fundamentally a simple alternative Core library, built on t
 
 To create a gamebook, the "New Game" dialog has been updated with a new "Game type" option:
 
-<a href="http://textadventuresblog.files.wordpress.com/2012/01/gamebook1.png"><img class="aligncenter size-full wp-image-1080" title="Creating a new gamebook" src="http://textadventuresblog.files.wordpress.com/2012/01/gamebook1.png" alt="" width="619" height="377" /></a>
+<a href="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook1.png"><img class="aligncenter size-full wp-image-1080" title="Creating a new gamebook" src="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook1.png" alt="" width="619" height="377" /></a>
 
 The Editor for Gamebooks is simple - each game comprises a number of pages. Each page has some descriptive text, and links to other pages.
 
-<a href="http://textadventuresblog.files.wordpress.com/2012/01/gamebook2.png"><img class="aligncenter size-full wp-image-1081" title="Editing a gamebook" src="http://textadventuresblog.files.wordpress.com/2012/01/gamebook2.png" alt="" width="761" height="474" /></a>
+<a href="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook2.png"><img class="aligncenter size-full wp-image-1081" title="Editing a gamebook" src="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook2.png" alt="" width="761" height="474" /></a>
 
 Pages automatically default to names Page1, Page2 etc., but you can call a page any name you like.
 
 This is what a new gamebook (as shown in the Editor above) looks like when you play it:
 
-<a href="http://textadventuresblog.files.wordpress.com/2012/01/gamebook3.png"><img class="aligncenter size-full wp-image-1082" title="Playing a gamebook" src="http://textadventuresblog.files.wordpress.com/2012/01/gamebook3.png" alt="" width="574" height="303" /></a>
+<a href="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook3.png"><img class="aligncenter size-full wp-image-1082" title="Playing a gamebook" src="/images/2012/textadventuresblog.files.wordpress.com-2012-01-gamebook3.png" alt="" width="574" height="303" /></a>
 
 That's all there is to it - pretty simple stuff really, at least for this first version. There is definitely potential for adding functionality in the future - because gamebooks are not fundamentally any different from ordinary Quest games, the full power of Quest's scripting engine is available. This means that different behaviour could be triggered based on the player's previous choices, random elements could be added, YouTube or Vimeo videos embedded, and a whole lot more.
 

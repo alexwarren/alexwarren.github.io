@@ -14,7 +14,7 @@ But I, and a couple of contributors, did find some time to add some other new fe
 
 <strong>Gamebook mode</strong>. This lets you create "Choose Your Own Adventure"-style games in Quest, in addition to text adventure games. There is more information in the <a title="Gamebook mode (“Choose Your Own Adventure”) in Quest 5.2" href="http://www.textadventures.co.uk/blog/2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/">announcement blog post</a>. I've added a couple of small features since that post - you can now easily add YouTube videos into a gamebook, and you can also incorporate links to external websites.
 
-<img class="aligncenter size-full wp-image-1411" title="New Gamebook page types" src="http://textadventuresblog.files.wordpress.com/2012/04/gamebook-options.png" alt="" width="497" height="361" />
+<img class="aligncenter size-full wp-image-1411" title="New Gamebook page types" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-gamebook-options.png" alt="" width="497" height="361" />
 
 <strong>Two-object verbs</strong>. It's now much easier to set up commands like "hit nail with hammer" or "light candle with match", using <a title="Shoot monster with ray gun, burn corpse with incinerator – two-object verbs in Quest 5.2" href="http://www.textadventures.co.uk/blog/2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2/">two-object verbs</a>.
 
@@ -22,25 +22,25 @@ But I, and a couple of contributors, did find some time to add some other new fe
 
 These limits have also been extended to the player's inventory. Select the player object, and you can specify the maximum number of items that are allowed in the inventory, as well as the maximum volume.
 
-<img class="aligncenter size-full wp-image-1414" title="New container limits" src="http://textadventuresblog.files.wordpress.com/2012/04/container.png" alt="" width="340" height="384" />
+<img class="aligncenter size-full wp-image-1414" title="New container limits" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-container.png" alt="" width="340" height="384" />
 
 <strong>Multiple switch case expressions</strong> (contributed by James Gregory). When using the "switch" script command, you can now specify multiple cases separated by commas.
 
-<img class="aligncenter size-full wp-image-1415" title="Multiple switch cases" src="http://textadventuresblog.files.wordpress.com/2012/04/switch.png" alt="" width="563" height="349" />
+<img class="aligncenter size-full wp-image-1415" title="Multiple switch cases" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-switch.png" alt="" width="563" height="349" />
 
 <strong>Customisable room descriptions</strong>. On the game editor, Options tab, you can now specify the order of elements in the generated room description. So you can now move the exits list after the description, for example.
 
-<img class="aligncenter size-full wp-image-1416" title="Room description options" src="http://textadventuresblog.files.wordpress.com/2012/04/room-description.png" alt="" width="582" height="215" />
+<img class="aligncenter size-full wp-image-1416" title="Room description options" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-room-description.png" alt="" width="582" height="215" />
 
 <strong>Health and score</strong>. It's now easier to have health and/or score on-screen, as you can now simply turn these on from the game options without having to set up the status attributes yourself.
 
-<img class="aligncenter size-full wp-image-1419" title="Score and health" src="http://textadventuresblog.files.wordpress.com/2012/04/score-and-health.png" alt="" width="315" height="214" />
+<img class="aligncenter size-full wp-image-1419" title="Score and health" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-score-and-health.png" alt="" width="315" height="214" />
 
 There are new script commands for increasing and decreasing health and score. Also, when health is enabled, the object options tab has a new "Health" section which lets you specify that an object can be eaten. If the object can be eaten, it can add or subtract health points from the player.
 
 <strong>First time scripts</strong>. It's now easier to run a script just once, the first time something happens - such as the first time the player speaks to a character, uses an object, etc. Previously you would have to create flags for this, but you can now simply add a "First time" script command which handles it all for you.
 
-<img class="aligncenter size-full wp-image-1419" title="First time script" src="http://textadventuresblog.files.wordpress.com/2012/04/firsttime.png" alt="" width="413" height="335" />
+<img class="aligncenter size-full wp-image-1419" title="First time script" src="/images/2012/textadventuresblog.files.wordpress.com-2012-04-firsttime.png" alt="" width="413" height="335" />
 
 <strong>Easier introduction scripts</strong>. There was a change to how "wait for a keypress" (and other functions such as asking the player a question) worked in Quest 5.1, which made it difficult to insert a pause before moving the player to a room. This made it difficult to create introductory text in a game, as the player would be moved to the start room before they had pressed a key. This has now been addressed in Quest 5.2, as the core library uses a new "on ready" script command to move the player into the start room only after any waits etc. have been completed.
 

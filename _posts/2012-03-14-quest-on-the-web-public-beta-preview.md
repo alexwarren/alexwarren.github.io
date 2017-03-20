@@ -10,7 +10,7 @@ The <a href="http://www.textadventures.co.uk/create/">web-based version of the Q
 
 I've redesigned the <a title="Quest" href="http://www.textadventures.co.uk/quest/">Quest page</a>, to reflect the fact that for the first time Quest is now available on more than one platform. Whereas before it was a Windows-only download, now you can access Quest from anywhere, in any browser.
 
-<a href="http://www.textadventures.co.uk/quest/"><img class="aligncenter size-full wp-image-1255" title="Quest page" src="http://textadventuresblog.files.wordpress.com/2012/03/website1.png" alt="" width="500" height="165" /></a>
+<a href="http://www.textadventures.co.uk/quest/"><img class="aligncenter size-full wp-image-1255" title="Quest page" src="/images/2012/textadventuresblog.files.wordpress.com-2012-03-website1.png" alt="" width="500" height="165" /></a>
 
 I don't expect the desktop software to be disappearing any time soon, but with the increasing popularity of always-connected devices such as tablets, it's clear that any popular software will really need to be available as a web app.
 

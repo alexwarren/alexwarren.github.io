@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2011/11/29/the-things-that-go-bump-i
 ---
 The first Quest-powered smartphone app will be released soon. It is an updated version of Tim Hamilton's <a href="http://www.textadventures.co.uk/review/346/">The Things That Go Bump In The Night</a>, currently one of the top-rated games on <a title="Home" href="http://www.textadventures.co.uk/">textadventures.co.uk</a>, and will be available for both iPhone/iPod Touch and Android devices.
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/12/bump-300x194.png"><img class="aligncenter size-full wp-image-1988" alt="bump-300x194" src="http://textadventuresblog.files.wordpress.com/2011/12/bump-300x194.png" width="300" height="194" /></a>
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-12-bump-300x194.png"><img class="aligncenter size-full wp-image-1988" alt="bump-300x194" src="/images/2011/textadventuresblog.files.wordpress.com-2011-12-bump-300x194.png" width="300" height="194" /></a>
 
 This is the first time that a Quest game has been converted into a native application. As I've explained in a <a title="Using Quest to create text adventures for iPhone, iPad, Android" href="http://www.textadventures.co.uk/blog/2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android/">previous blog post</a>, the way it works is by using a tool which I've built to convert Quest games into pure Javascript. Using <a href="http://www.phonegap.com">Phonegap</a>, this HTML/JS is then wrapped into a cross-platform app.
 
@@ -32,7 +32,7 @@ The main difficulty has been threading. Javascript is single-threaded, which mea
 
 Being unable to block the thread to display a menu meant that I had to rewrite the parser, as this often needs to display menus to resolve the typed-in object names. I drew myself the diagram below and almost descended into insanity in the process:
 
-<a href="http://textadventuresblog.files.wordpress.com/2011/11/photo.jpg"><img class="aligncenter size-full wp-image-986" title="Parser diagram" alt="" src="http://textadventuresblog.files.wordpress.com/2011/11/photo.jpg" width="600" height="448" /></a>So, that was annoying, but it's actually a better design for the future (especially when playing a game via the web, as the server will no longer need to keep a thread hanging around if it's waiting for the user to respond to a menu).
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg"><img class="aligncenter size-full wp-image-986" title="Parser diagram" alt="" src="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg" width="600" height="448" /></a>So, that was annoying, but it's actually a better design for the future (especially when playing a game via the web, as the server will no longer need to keep a thread hanging around if it's waiting for the user to respond to a menu).
 
 Eventually I had a pure HTML/JS version of the game which could be played in any web browser. I implemented the walkthrough feature to verify the game was working correctly, and again I sent it to Tim so he could check for any "off-walkthrough" problems.
 

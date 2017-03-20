@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2013/04/20/the-new-textadventures-co
 ---
 Meet the new <a href="http://textadventures.co.uk">textadventures.co.uk</a>...
 
-<a href="http://textadventures.co.uk"><img class="aligncenter size-large wp-image-2186" alt="New website" src="http://textadventuresblog.files.wordpress.com/2013/04/site1.png?w=625" width="625" height="608" /></a>
+<a href="http://textadventures.co.uk"><img class="aligncenter size-large wp-image-2186" alt="New website" src="/images/2013/textadventuresblog.files.wordpress.com-2013-04-site1.png?w=625" width="625" height="608" /></a>
 
 I have completely redeveloped the website from scratch. I've kept the design fairly minimal - the idea is to let the games stand out, make it easy to browse them, and make the site more accessible to smartphone and tablet devices. The large game tiles make the most of games with cover art, and the more easily browsable and tappable category badges hopefully make different kinds of games more discoverable.
 

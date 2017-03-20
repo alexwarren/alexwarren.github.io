@@ -26,7 +26,7 @@ The platform has attributes to represent the lines that stop there, the directio
 
 There are objects for each tube line, and objects for each tube station. Tube station objects may contain hand-crafted data for platforms (if any platforms are for multiple lines), but otherwise the platform data is generated simply using data about which lines stop at that station. The format is simple - one attribute for each line which stops at that station. For example, Bank station is stored like this:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/bank.png"><img class="aligncenter size-full wp-image-2502" alt="Bank XML" src="http://textadventuresblog.files.wordpress.com/2013/11/bank.png" width="319" height="91" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-bank.png"><img class="aligncenter size-full wp-image-2502" alt="Bank XML" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-bank.png" width="319" height="91" /></a>
 
 I started in the top-left of the tube map, at Paddington, giving the station an index of 100 for each line that stops there. Then I went along each line counting up or down. So, Bank ends up at index 110 on the Central line, 105 on the Bank branch of the Northern line, and 101 on the Waterloo &amp; City line.
 
@@ -80,7 +80,7 @@ The introScreen function hides Quest's game output (which is entirely in the gam
 
 finishIntroScreen first re-shows the gameBorder div containing the Quest output (which by now will contain the introductory game text), and then it fades out introScreen - to reveal the game text underneath.
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/intro.png"><img class="aligncenter size-large wp-image-2504" alt="Moquette Intro" src="http://textadventuresblog.files.wordpress.com/2013/11/intro.png?w=625" width="625" height="419" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-intro.png"><img class="aligncenter size-large wp-image-2504" alt="Moquette Intro" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-intro.png?w=625" width="625" height="419" /></a>
 
 The next effects occur in the first few turns - after Zoran gets on the first train, the text is nicely scrolled up and out of the screen, leaving it blank. The next effect occurs after the player makes the choice for Zoran to do something different than take his usual train today (or if Zoran makes that choice himself) - it's the same effect again really, but this time the screen text is whisked off to the left.
 
@@ -111,7 +111,7 @@ This is a pattern I use in most of the text effects - the ASL code triggers some
 
 The next effect is meeting Heather, which looks like this:
 
-<a href="http://textadventuresblog.files.wordpress.com/2013/11/effect.png"><img class="aligncenter size-large wp-image-2492" alt="Meeting Heather" src="http://textadventuresblog.files.wordpress.com/2013/11/effect.png?w=625" width="625" height="375" /></a>
+<a href="/images/2013/textadventuresblog.files.wordpress.com-2013-11-effect.png"><img class="aligncenter size-large wp-image-2492" alt="Meeting Heather" src="/images/2013/textadventuresblog.files.wordpress.com-2013-11-effect.png?w=625" width="625" height="375" /></a>
 
 The JavaScript for this is:
 <pre>var _heatherTextCount = 0;
