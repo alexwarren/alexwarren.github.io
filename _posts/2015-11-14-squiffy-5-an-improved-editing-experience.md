@@ -16,7 +16,7 @@ It's now easier to work on larger games. You can <strong>collapse sections and p
 
 You'll find shortcuts to collapse and uncollapse all sections and passages on the new Tools tab. This also features new <strong>shortcut buttons</strong> allowing you to easily add new sections and passages. Let's say you've written a paragraph of text and want to add a link to it. Now you can simply select the text you want to link, hit "Add section" or "Add passage", and a new section or passage of that name will be created, with the text linked to it.
 
-<img class="aligncenter size-large wp-image-2635" src="https://textadventuresblog.files.wordpress.com/2015/11/screen-shot-2015-11-14-at-18-35-00.png?w=625" alt="Squiffy 5" width="625" height="437" />
+<img class="aligncenter size-large wp-image-2635" src="/images/2015/textadventuresblog.files.wordpress.com-2015-11-screen-shot-2015-11-14-at-18-35-00.png?w=625" alt="Squiffy 5" width="625" height="437" />
 
 Try it out... Squiffy works <a href="http://textadventures.co.uk/squiffy/editor">in your web browser</a> without downloading anything, or you can download versions for <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.Windows.exe">Windows</a>, <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.OS.X.dmg">OS X</a> and <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.Linux.zip">Linux</a>.
 

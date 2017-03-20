@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2015/07/11/squiffy-4-interactive-fic
 ---
 <a href="http://textadventures.co.uk/squiffy">Squiffy 4 is now available</a>. This release brings the editor to Windows, OS X and Linux, so you can now create and edit games offline.
 
-<a href="https://textadventuresblog.files.wordpress.com/2015/07/screen-shot-2015-07-11-at-15-43-36.png"><img class="alignnone wp-image-2627 size-large" src="https://textadventuresblog.files.wordpress.com/2015/07/screen-shot-2015-07-11-at-15-43-36.png?w=660" alt="Squiffy for OS X" width="660" height="408" /></a>
+<a href="/images/2015/textadventuresblog.files.wordpress.com-2015-07-screen-shot-2015-07-11-at-15-43-36.png"><img class="alignnone wp-image-2627 size-large" src="/images/2015/textadventuresblog.files.wordpress.com-2015-07-screen-shot-2015-07-11-at-15-43-36.png?w=660" alt="Squiffy for OS X" width="660" height="408" /></a>
 
 Squiffy is a simple system for writing multiple-choice interactive fiction. It publishes to HTML so you can upload your game anywhere. The quickest way to see it in action is to check out the <a href="http://docs.textadventures.co.uk/squiffy/">documentation</a>, which has a load of live examples - you can see the code and the results in the same place, and play around by editing the examples in the ScratchPad.
 
