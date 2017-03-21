@@ -1,10 +1,11 @@
 body {
-	padding-top: 70px;
+	padding: 70px 0 30px;
+	font-size: 15px;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 750px) {
   .container {
-    width: 900px;
+    width: 750px;
   }
 }
 
@@ -23,7 +24,7 @@ div.date {
 }
 
 div.post {
-	margin: 20px 0;
+	margin: 20px 0 40px;
 	font-size: 17px;
 }
 

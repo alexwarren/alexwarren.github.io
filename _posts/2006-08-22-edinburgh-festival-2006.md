@@ -92,7 +92,7 @@ Wow. Daniel Kitson's show is a story about a man who catalogues compilation tape
 
 5/5
 
-<strong><u>Richard Herring in "Menage ?  un"</u></strong>
+<strong><u>Richard Herring in "Menage à un"</u></strong>
 
 I like Richard Herring's writing, particularly his "Warming Up" blog, yet oddly I was less sympathetic to his on-stage presence where he came across a bit more twattish than I imagined he would. Nonetheless he was still very entertaining and the show improved for me after a few crap jokes at the beginning.
 

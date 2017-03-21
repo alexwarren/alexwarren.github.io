@@ -6,9 +6,10 @@ permalink: /2007/02/09/new-quest-games-archive
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2007/02/09/new-quest-games-archive/
 ---
-<font size="2">I have created a new website to replace the Quest Games Archive.
 
-It's here: </font><a href="http://www.textadventures.co.uk/" target="_blank"><font color="#006699" size="2">www.textadventures.co.uk</font></a><font size="2">
+I have created a new website to replace the Quest Games Archive.
+
+It's here: <a href="http://www.textadventures.co.uk/">www.textadventures.co.uk</a>
 
 It's more flexible and powerful than the old archive. As well as allowing you to post reviews again (something that was disabled a while ago on the old Quest Games Archive due to spam), you can now upload a game and it will be <strong>instantly available for download</strong>.
 
@@ -28,4 +29,4 @@ Also note that I will of course check each game after it has been uploaded, and 
 
 <span style="font-weight:bold;">Feedback</span>
 
-Please let me know if you have any questions, suggestions or comments about the new website - please email me at <a href="mailto:alex@axeuk.com">alex@axeuk.com</a>.</font>
+Please let me know if you have any questions, suggestions or comments about the new website - please email me at <a href="mailto:alex@axeuk.com">alex@axeuk.com</a>.
