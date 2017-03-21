@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 1 - (Octo)Pus and Guts
-permalink: /2009/10/01/octopus-and-guts
+permalink: /2009/10/01/hong-kong-day-1-octopus-and-guts
 ---
 Wednesday 30th September
 
@@ -50,4 +50,7 @@ Then changing to a music channel for a few seconds to find they're showing the s
 Then shooting yourself in the face.
 
 So it's nice that I've been able to get away from all that and put it from my mind while I'm on holiday.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_4c19baf7-ad52-4b13-a867-15c17e0c165b.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_4c19baf7-ad52-4b13-a867-15c17e0c165b.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_ce41b0b4-c2f6-40c8-8db8-9ffdae42a77d.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_ce41b0b4-c2f6-40c8-8db8-9ffdae42a77d.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0290.JPG)
+
+![](/images/2009/IMG_0291.JPG)
