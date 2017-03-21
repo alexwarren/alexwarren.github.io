@@ -4,7 +4,7 @@ title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 2
 permalink: /2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2
 ---
-Here's part two of my reviews of the shows I saw at Edinburgh, in chronological order. You can find <a href="http://www.axeuk.com/alex/blog/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/">part 1 here</a>.
+Here's part two of my reviews of the shows I saw at Edinburgh, in chronological order. You can find <a href="/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1">part 1 here</a>.
 
 Just to clarify, since I'm not a proper reviewer, thankfully I don't have to care about making these reviews particularly detailed, or coming up with a long and contrived treatise on the premise of each show. So these reviews are brief, but probably not very helpful.
 

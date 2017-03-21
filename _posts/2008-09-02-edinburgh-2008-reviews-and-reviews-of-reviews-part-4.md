@@ -4,7 +4,7 @@ title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 4
 permalink: /2008/09/02/edinburgh-2008-reviews-and-reviews-of-reviews-part-4
 ---
-And so we continue with part four of my reviews of the shows I saw at the Edinburgh festival. It's getting quite tiring this. Not too many more to do now though. Here are links to <a href="http://www.axeuk.com/alex/blog/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/">part 1</a>, <a href="http://www.axeuk.com/alex/blog/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2/">part 2</a> and <a href="http://www.axeuk.com/alex/blog/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3/">part 3</a>.
+And so we continue with part four of my reviews of the shows I saw at the Edinburgh festival. It's getting quite tiring this. Not too many more to do now though. Here are links to <a href="/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1">part 1</a>, <a href="/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2">part 2</a> and <a href="/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3">part 3</a>.
 
 <strong><span style="text-decoration:underline;">Glenn Wool: Goodbye Scars
 </span></strong>at Underbelly
@@ -24,7 +24,7 @@ The acts were:
 
 <a href="http://www.janeygodley.co.uk/">Janey Godley</a> is a scary Glasweigan who terrified most of the front couple of rows. She was very entertaining and certainly not someone I would want to mess with, so my rating is 7/10.
 
-<a href="http://www.robdeering.com/">Rob Deering</a> was the final act, and this was the same day that we'd seen him do his Boobs 2008 show, which I reviewed in <a href="http://www.axeuk.com/alex/blog/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3/">part 3</a>. I was worried we would pretty much be seeing the same show again, but fortunately he did what was essentially his show from last year instead. So it was more songs with the guitar and the funky record-a-few-bars-so-you-can-accompany-yourself gizmo - and it was much better than earlier. A drunker audience and a better venue made it an excellent end to the evening, so my rating is a big fat 10/10.
+<a href="http://www.robdeering.com/">Rob Deering</a> was the final act, and this was the same day that we'd seen him do his Boobs 2008 show, which I reviewed in <a href="/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3">part 3</a>. I was worried we would pretty much be seeing the same show again, but fortunately he did what was essentially his show from last year instead. So it was more songs with the guitar and the funky record-a-few-bars-so-you-can-accompany-yourself gizmo - and it was much better than earlier. A drunker audience and a better venue made it an excellent end to the evening, so my rating is a big fat 10/10.
 
 <strong><span style="text-decoration:underline;">The Mid 90s La La La</span></strong> (Free)
 at Espionage

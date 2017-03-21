@@ -4,7 +4,7 @@ title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 3
 permalink: /2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3
 ---
-This is part three of my reviews of the shows I saw at this year's Edinburgh festival. Here are links to <a href="http://www.axeuk.com/alex/blog/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/">part 1</a> and <a href="http://www.axeuk.com/alex/blog/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2/">part 2</a>.
+This is part three of my reviews of the shows I saw at this year's Edinburgh festival. Here are links to <a href="/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1">part 1</a> and <a href="/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2">part 2</a>.
 
 <strong><span style="text-decoration:underline;">The Honourable Men of Art</span></strong>
 at The Stand
@@ -23,7 +23,7 @@ Dan Antopolski is back after a few years' absence in which he has become a paren
 The bit about losing track of what voice he's speaking in - <em>that's supposed to be the joke</em>. This reviewer must be one of the 50% of people who bafflingly just don't seem to get Dan Antopolski - you can tell from the phrases like "bemused", "near-impossible to follow" and the sweepingly arrogant "simply unfunny". Maybe if you're simple, it <em>is</em> unfunny.
 
 Fortunately, <a href="http://www.chortle.co.uk/shows/edinburgh_fringe_2008/d/16044/dan_antopolskis_penetrating_gaze/review/">Chortle</a> agrees with me, giving this show four stars.
-<blockquote>"There€™s a strong sense of cheeky fun running through this, with Antopolski clearly enjoying every minute, happy just to be entertaining himself; if the audience come along too, then it€™s a bonus."</blockquote>
+<blockquote>"There's a strong sense of cheeky fun running through this, with Antopolski clearly enjoying every minute, happy just to be entertaining himself; if the audience come along too, then it's a bonus."</blockquote>
 In the show I saw, Antopolski himself pointed out the crapness of the review he got in <a href="http://thescotsman.scotsman.com/comedy/Comedy-review-Dan-Antopolski39s-Penetrating.4353446.jp">The Scotsman</a>, which was fooled into believing that he was re-hashing material from 2002. Which all quite nicely goes to illustrate how reviews are so subjective as to be almost completely worthless. You can't tell from a low star rating if the show is bad, or if the reviewer just doesn't like the same kind of comedy as you. Or is unable to be able to identify half of the jokes in the first place.
 
 Still, I think Antopolski is great, and if, on the strength of this recommendation, you go to see his show and don't like it, then not only have you failed to understand Dan Antopolski, you have failed in life. But it's all just my opinion of course, because that's all reviews are. My rating: 9/10
@@ -34,7 +34,7 @@ Still, I think Antopolski is great, and if, on the strength of this recommendati
 The Pleasance Grand is the largest comedy venue I went to in Edinburgh, and it definitely changes the atmosphere. I much prefer a smaller space for comedy, but <a href="http://www.reginalddhunter.co.uk/">Reginald D. Hunter</a> (website is a bit out of date) coped well, addressing the issue at the start of the show.
 
 He makes some very interesting and intelligently argued points about the infantilisation of modern men - possibly too much for the <a href="http://www.chortle.co.uk/shows/edinburgh_fringe_2008/r/16402/reginald_d_hunter:_no_country_for_grown_men/review">Chortle</a> reviewer, who seems to want more punchlines, giving the show three stars:
-<blockquote>"These jokes are good, but the rate€™s slow, with so much time spent on expounding his opinions, which aren€™t always compelling enough to deserve such a big chunk of proceedings."</blockquote>
+<blockquote>"These jokes are good, but the rate's slow, with so much time spent on expounding his opinions, which aren't always compelling enough to deserve such a big chunk of proceedings."</blockquote>
 I don't think the gag rate is important - in fact, Hunter's ability to keep an entire audience listening silently for ages, before delivering the ultimate punchline, is what makes him so special. It's rare to find a comedian who can keep us all interested in what he's saying without needing to deliver a gag every twenty seconds.
 
 My rating: 7/10

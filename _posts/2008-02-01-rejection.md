@@ -16,13 +16,13 @@ I was rather shocked when they announced that they were going to put through <em
 
 It's not the first time I've experienced a comedy rejection, and it certainly won't be the last. Here are a couple of previous rejections (admittedly from quite a while back):
 
-<a href="http://alexwarrenblog.files.wordpress.com/2008/02/bbc.jpg"><img class="alignnone size-full wp-image-533" alt="" src="http://alexwarrenblog.files.wordpress.com/2008/02/bbc.jpg" width="604" height="854" /></a>
+<img src="/images/2008/rejection1.jpg" />
 
 "Only a few of the lines made me laugh". Thanks "HP". That's surely better going than a lot of BBC sitcoms. Not that I'm still bitter about this letter, eight years on.
 
 Hmm, I'm pretty sure "Recommendation: Writer shows promise" must have been the lowest level of comedy rating as well. Surely they wouldn't have the balls to say "clearly no talent whatsoever"?
 
-<a href="http://alexwarrenblog.files.wordpress.com/2008/02/hattrick.jpg"><img class="alignnone size-full wp-image-534" alt="" src="http://alexwarrenblog.files.wordpress.com/2008/02/hattrick.jpg" width="604" height="854" /></a>
+<img src="/images/2008/rejection2.jpg" />
 
 This one was at least a bit more helpful - it told me in a bit more detail just how my sitcom was crap. And to be fair, it <em>was</em> really, really crap.
 

@@ -6,7 +6,7 @@ permalink: /2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1
 ---
 I'm going to try and write something about each of the 20 shows I saw at the Edinburgh Festival.
 
-Reviewing is a strange and often pointless form of literary endeavour. Being a professional reviewer must be difficult - you can't just say "I liked it, it was quite funny, you ought to go" for everything, which is possibly why some reviews just seem to try too hard. I don't have any need to hit a particular number of words with these reviews though, so, as with <a href="http://www.axeuk.com/alex/blog/2006/08/22/edinburgh-festival-2006/">my review of the last festival</a>, some of these reviews are a bit short.
+Reviewing is a strange and often pointless form of literary endeavour. Being a professional reviewer must be difficult - you can't just say "I liked it, it was quite funny, you ought to go" for everything, which is possibly why some reviews just seem to try too hard. I don't have any need to hit a particular number of words with these reviews though, so, as with <a href="/2006/08/22/edinburgh-festival-2006">my review of the last festival</a>, some of these reviews are a bit short.
 
 In a few cases it's a bit weird for me to write about a show, because I know (or at least met) the people that put it on, and it seems strange and rude to write about them behind their backs. They may well stumble across this when Googling their own names or show titles. So for some of the shows I'll exempt them from a rating.
 
@@ -29,7 +29,7 @@ The show however was damn good. My rating: 8/10
 </span></strong>at Holyrood Too @ Faith
 
 I've met <a href="http://www.paulconneely.co.uk/">Paul Conneely</a> a few times and he was also part of the "Of Mics and Men" line-up for the first week, so I'll avoid the embarrassment of reviewing his show, though I did enjoy it. This is another show where Googling the title brings up a harsh review though, this time by Nick Mitchell in <a href="http://www.list.co.uk/article/11588-a-beginners-guide-to-happiness/">The List</a>:
-<blockquote>"The highlight of Paul Conneely's torpid rumination on happiness is an anecdote about missing a train when a man at the front of the ticket queue asks a meaningless and complex question while those behind suffer silently. I can identify - not so much with the joke, but because I found myself suffering silently while the Londoner stumbles through time-honoured comedic fodder in a lumbering, clichÃ©d, evidently nervous manner."</blockquote>
+<blockquote>"The highlight of Paul Conneely's torpid rumination on happiness is an anecdote about missing a train when a man at the front of the ticket queue asks a meaningless and complex question while those behind suffer silently. I can identify - not so much with the joke, but because I found myself suffering silently while the Londoner stumbles through time-honoured comedic fodder in a lumbering, clichéd, evidently nervous manner."</blockquote>
 The highlight of Nick Mitchell's review was when I stopped reading it to look up "torpid" in the dictionary. I found that it meant sluggish or dull. I can identify - not so much with Mitchell's opinions, but because I found myself suffering silently while I read this lumbering, adjective-strewn, content-free pile of crap that tells you nothing about the show whatsoever.
 
 <strong><span style="text-decoration:underline;">John Hegley: Beyond Our Kennel
