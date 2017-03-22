@@ -25,4 +25,11 @@ We tried in vain to find a bar. There simply aren't many around in Macau for som
 For dinner we went to Restaurant Litoral, recommended in one of our guide books. It was a fabulous meal and extremely good value for money. We had curry beef cakes, garlic prawns and African chicken. The only slight disappointments for me were the charcoal black pork (which wasn't just burnt pork as I feared from the name, but it was a bit chewy), and the Macanese stew, which was really just a pot of stock. Although the stock was delicious, it was entirely comprised of inedible bits of chicken bone, skin and gristle. The only solid part you could eat was the cabbage, although to be fair the stock made the cabbage deliciously meaty.
 
 We took a taxi to seemingly the only street in Macau that had any bars. The red half-moon hung in the sky behind the distant smog. We had a few drinks in preparation for the madness to follow - none of us had even been in a casino before, and we were about to go to the largest casino in the world.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_48524c9e-d974-4e13-a98a-4e3ee00252a6.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_48524c9e-d974-4e13-a98a-4e3ee00252a6.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_457a24dd-b3d9-4f1b-8a62-46b5ee9edba0.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_457a24dd-b3d9-4f1b-8a62-46b5ee9edba0.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_e2c6f62c-2f0e-4237-aa79-df1d677b826e.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_e2c6f62c-2f0e-4237-aa79-df1d677b826e.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_749f9924-5853-4eed-9b30-d70599f4a171.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_749f9924-5853-4eed-9b30-d70599f4a171.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0357.JPG)
+
+![](/images/2009/IMG_0358.JPG)
+
+![](/images/2009/IMG_0359.JPG)
+
+![](/images/2009/IMG_0360.JPG)

@@ -25,4 +25,5 @@ It was time for food and we stumbled across a Vietnamese place. I had lemon chic
 Today's full moon meant it was the mid-autumn festival. We walked around Victoria Park which was decorated with lanterns and where various festivities were taking place including shadow puppets and scary people in white makeup singing in high-pitched voices.
 
 It is a festival tradition to eat mooncake, which according to Will should have one salty egg yolk in the middle surrounded by a beany paste. The one that we bought had sugary seeds and nuts in it - not bad a bit like sweetened hamster food for me.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1685_1187_5e1f55ef-0635-4f72-8f2b-7221ea636054.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1685_1187_5e1f55ef-0635-4f72-8f2b-7221ea636054.jpeg" alt="" width="300" height="211" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0328.JPG)

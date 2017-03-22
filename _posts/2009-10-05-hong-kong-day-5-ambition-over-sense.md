@@ -41,4 +41,17 @@ The walk back to the minibus stop was much easier now that it had cooled down a 
 We went to a bar for a few well-deserved beers, then went to have some relatively expensive but excellent sushi. A public minibus took us back to Mong Kok, its large LED display keeping passengers constantly informed of its exact speed lest they complain about dangerous driving.
 
 It was a relief to get back to our scabby hostel room for a good long sleep.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_e2f4363f-22dc-47a3-a05f-291d0e41c5f2.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_e2f4363f-22dc-47a3-a05f-291d0e41c5f2.jpeg" alt="" width="200" height="300" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_48c97268-7806-43f7-82ad-51a6778fd68a.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_48c97268-7806-43f7-82ad-51a6778fd68a.jpeg" alt="" width="200" height="300" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_a1dde058-c04b-42f7-9b50-5d175ad9be9d.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_a1dde058-c04b-42f7-9b50-5d175ad9be9d.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_8ce88adf-9c41-414b-b20f-0121b582c4fb.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_8ce88adf-9c41-414b-b20f-0121b582c4fb.jpeg" alt="" width="200" height="300" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_78e71191-c2a5-42f8-bd14-d4a205c91ccb.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_78e71191-c2a5-42f8-bd14-d4a205c91ccb.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_9f54b1d4-4fec-4f38-89e1-e2f804eca74f.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/p_480_320_9f54b1d4-4fec-4f38-89e1-e2f804eca74f.jpeg" alt="" width="200" height="300" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_7a4e6e8d-9cc2-477a-8d22-a709de5fad66.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_7a4e6e8d-9cc2-477a-8d22-a709de5fad66.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_8123f085-f7e5-4806-bb4c-0f03f078b442.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_8123f085-f7e5-4806-bb4c-0f03f078b442.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0329.JPG)
+
+![](/images/2009/IMG_0330.JPG)
+
+![](/images/2009/IMG_0331.JPG)
+
+![](/images/2009/IMG_0334.JPG)
+
+![](/images/2009/IMG_0335.JPG)
+
+![](/images/2009/IMG_0336.PNG)
+
+![](/images/2009/IMG_0337.PNG)

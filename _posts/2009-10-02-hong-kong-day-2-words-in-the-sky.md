@@ -29,4 +29,15 @@ We stopped off on the way back into town for dessert. Nick had been keen to try 
 Jackie dropped us off near Knutsford Terrace which is full of bars. We went to that most traditional of Chinese drinking establishments, the Irish bar. We had several Bailey's cocktails until we were kicked out when the place shut at 3am. We briefly went into another bar which was a little too loud - and then a Coldplay covers band started playing, and we made a hasty exit.
 
 We then went to Joe's Billiards Bar. Two men were asleep on the bar as we walked in. It was pretty late already and it soon became even later, as we knocked back more beer and enjoyed the free wi-fi. We left at 6am and the subway had started running again, so we took it one stop back to our hostel. The area looked completely different, bathed in the early morning sunlight, with hardly anyone around.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_c94cc094-b49a-450e-b31b-c3b9beffd059.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_c94cc094-b49a-450e-b31b-c3b9beffd059.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_ded36a61-8138-46f7-b8d2-189aef696f3f.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_ded36a61-8138-46f7-b8d2-189aef696f3f.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_45937f7c-cbea-4c93-a8dd-e40a6fd4caf7.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_45937f7c-cbea-4c93-a8dd-e40a6fd4caf7.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_03fec8fb-1407-4215-82fa-bb7d44137d9b.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_03fec8fb-1407-4215-82fa-bb7d44137d9b.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_03023c57-9e56-4eb4-a7c5-84da7c675b65.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_03023c57-9e56-4eb4-a7c5-84da7c675b65.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a><br /><br /><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_541f9794-0654-4238-9108-dec87f62478e.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_541f9794-0654-4238-9108-dec87f62478e.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0292.JPG)
+
+![](/images/2009/IMG_0294.JPG)
+
+![](/images/2009/IMG_0295.JPG)
+
+![](/images/2009/IMG_0296.JPG)
+
+![](/images/2009/IMG_0297.JPG)
+
+![](/images/2009/IMG_0298.JPG)

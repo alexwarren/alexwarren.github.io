@@ -17,4 +17,5 @@ Then a trip to the races. Betting on horses with the Hong Kong Jockey Club is th
 Nick won about 70p on a bet on the favourite to place (i.e. come in the top 3), and me &amp; Rachel bet on the silliest-named horse "Megabucks" to place at about 5 to 1, and he came quite near the back.
 
 It was interesting to experience but we didn't fancy staying around for long, so we went back to the hostel and picked up some snacks along the way. I've grown quite fond of the waffle ball things that are available on many a street corner. Nick was rather less fond of the pig's ear that he tried - all gristle. Glad I gave that one a miss.
-<p><a href="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_250fcfa8-78ad-40dd-b96c-8afdc1d8e8b1.jpeg"><img src="http://alexwarrenblog.files.wordpress.com/2009/10/l_1600_1200_250fcfa8-78ad-40dd-b96c-8afdc1d8e8b1.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" /></a></p>
+
+![](/images/2009/IMG_0355.JPG)
