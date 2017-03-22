@@ -6,7 +6,7 @@ permalink: /2009/10/12/most-unpopular-office-sweets-ever
 ---
 When I was in Hong Kong I went to a shop called <a href="http://www.ajiichiban.com.hk/eng/index.php" target="_blank">Aji Ichiban</a> to pick up some sweets for the office.
 
-I really wanted to pick up some <a href="http://www.alexwarren.co.uk/2009/10/03/hong-kong-day-3-bone-crunchin-good/" target="_blank">duck kidneys</a> but UK customs forbid importing meat from outside the EU. So, I had to make do with some other weird-looking "treats", and they turned out to be almost as off-putting.
+I really wanted to pick up some <a href="/2009/10/03/hong-kong-day-3-bone-crunchin-good">duck kidneys</a> but UK customs forbid importing meat from outside the EU. So, I had to make do with some other weird-looking "treats", and they turned out to be almost as off-putting.
 
 Usually whenever an email goes out about free food, there is a stampede and very quickly nothing is left. You'd think my colleagues never got fed. This time though, a few hovered around my desk, poking the sweets curiously and only a brave few were tempted to try one, with some trepidation.
 
@@ -26,4 +26,4 @@ There were some great grimaces as people munched on what has to be the most unpo
 
 Here are the leftovers...
 
-<a href="http://alexwarrenblog.files.wordpress.com/2009/10/img_0361s.jpg"><img class="alignnone size-full wp-image-509" alt="Sweets" src="http://alexwarrenblog.files.wordpress.com/2009/10/img_0361s.jpg" width="600" height="450" /></a>
+![](/images/2009/IMG_0361.JPG)
