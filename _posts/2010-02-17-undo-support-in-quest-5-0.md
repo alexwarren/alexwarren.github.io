@@ -20,7 +20,9 @@ sourceUrl: http://blog.textadventures.co.uk/2010/02/17/undo-support-in-quest-5-0
 <p>For example, when the player moves, the value of their "parent" property changes. This means you can call some script when this happens by setting a "changedparent" script property for the player. This is what Core.aslx uses to trigger the printing of the room description:</p>
 
 <pre>
-  
+  &lt;object name="player"&gt;
+    &lt;changedparent type="script"&gt;OnEnterRoom&lt;/changedparent&gt;
+  &lt;/object&gt;
 </pre>
 
 <p>This calls the "OnEnterRoom" function every time the player moves into a different room.</p>

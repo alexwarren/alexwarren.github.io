@@ -16,14 +16,28 @@ Here is a simple example:
 
   &lt;game name="Test ASLX Game"/&gt;
 
-  
+  &lt;object name="lounge"&gt;
+    &lt;start/&gt;
+    &lt;object name="sofa"&gt;
+      &lt;prefix&gt;a&lt;/prefix&gt;
+      &lt;look&gt;Just a sofa.&lt;/look&gt;
+      &lt;take type="script"&gt;
+         msg ("Example script property")
+      &lt;/take&gt;
+    &lt;/object&gt;
 
     &lt;exit name="east" to="hall"/&gt;
   &lt;/object&gt;
 
-  
+  &lt;object name="hall"&gt;
+    &lt;exit name="east" to="kitchen"/&gt;
+    &lt;exit name="west" to="lounge"/&gt;
+  &lt;/object&gt;
 
-  
+  &lt;object name="kitchen"&gt;
+    &lt;object name="sink"&gt;
+      &lt;look&gt;Just an ordinary sink&lt;/look&gt;
+    &lt;/object&gt;
 
     &lt;exit name="west" to="hall"/&gt;
   &lt;/object&gt;

@@ -17,8 +17,16 @@ Here is a simple command:
 This allows the user to type "test", and in response prints "Hello". So far, very similar to Quest 4.
 
 Verbs let you add "doing" words, to let players interact with objects. For example:
-<pre>&lt;verb command="eat"&gt;You cannot eat that.&lt;/verb&gt;
+<pre>
+&lt;verb command="eat"&gt;You cannot eat that.&lt;/verb&gt;
 
+&lt;object name="crisps"&gt;
+  &lt;eat type="script"&gt;
+    msg ("Yum yum yum")
+    crisps.parent = stomach
+    player.health = player.health + 5
+  &lt;/eat&gt;
+&lt;/object&gt;
 </pre>
 This would let the player type "eat crisps", and provide a sensible response for when the player tries to eat other objects in the game.
 
@@ -50,7 +58,7 @@ For any named group with a name starting with "object", Quest tries to match it 
 
 When the script for the command runs, local variables "object1" and "object2" are set to the objects specified in the command, so you can access their properties directly using "object1.parent" etc.
 
-It may be the case that this mechanism is refined as we go through the development process, as regular expressions are probably overkill. It might be nice to simplify the named group syntax so that you can write "put #object1# (on|in) #object2#" in a similar way to Quest 4.x.
+It may be the case that this mechanism is refined as we go through the development process, as regular expressions are probably overkill. It might be nice to simplify the named group syntax so that you can write `put #object1# (on|in) #object2#` in a similar way to Quest 4.x.
 
 <strong>Dynamic Templates</strong>
 
