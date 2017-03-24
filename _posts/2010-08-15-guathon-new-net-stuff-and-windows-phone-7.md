@@ -10,7 +10,7 @@ Arriving at the Odeon bleary-eyed yesterday morning, I knew I was in the right p
 
 <strong>Presentations without boredom</strong>
 
-<a href="http://alexwarrenblog.files.wordpress.com/2010/08/sguthrie.jpg"><img class="alignnone size-full wp-image-331" title="sguthrie" src="http://alexwarrenblog.files.wordpress.com/2010/08/sguthrie.jpg" alt="" width="160" height="240" /></a>
+<img src="/images/2010/sguthrie.jpg" />
 
 <em>[image by </em><a href="http://www.flickr.com/photos/48003527@N00/480376936/"><em>Jeff Sandquist</em></a><em>]</em>
 
