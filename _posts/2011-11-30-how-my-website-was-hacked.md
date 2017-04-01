@@ -2,7 +2,7 @@
 layout: post
 title: >
     How my website was hacked - and I didn't realise for months
-permalink: /2011/11/30/my-website-was-hacked-yours-could-be-too-you-wont-know-until-its-too-late
+permalink: /2011/11/30/how-my-website-was-hacked
 ---
 Yesterday I found out that my website had been hacked. Not only that, but it had been hacked months ago, and I hadn't even noticed. How did this happen?
 

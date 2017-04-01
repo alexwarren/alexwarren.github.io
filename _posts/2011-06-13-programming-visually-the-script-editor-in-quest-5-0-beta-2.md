@@ -52,7 +52,7 @@ A similar dropdown on the "Print" command allows us to switch to an expression:
 
 <a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptprintexpression.png"><img class="alignnone size-full wp-image-595" title="Script Editor - print expression" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptprintexpression.png" alt="" width="571" height="147" /></a>
 
-We can now add the expression "<kbd>"Welcome, " + playername</kbd>", and the Script Editor will give us a bit of help with that, too. The blue triangle to the right of the expression contains a menu which allows us to add things to our expression:
+We can now add the expression <code>"Welcome, " + playername</code>, and the Script Editor will give us a bit of help with that, too. The blue triangle to the right of the expression contains a menu which allows us to add things to our expression:
 
 <a href="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpression.png"><img class="alignnone size-full wp-image-596" title="Script Editor - expression menu" src="/images/2011/textadventuresblog.files.wordpress.com-2011-06-scriptexpression.png" alt="" width="569" height="425" /></a>
 

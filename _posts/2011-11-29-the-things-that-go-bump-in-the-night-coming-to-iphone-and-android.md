@@ -32,7 +32,9 @@ The main difficulty has been threading. Javascript is single-threaded, which mea
 
 Being unable to block the thread to display a menu meant that I had to rewrite the parser, as this often needs to display menus to resolve the typed-in object names. I drew myself the diagram below and almost descended into insanity in the process:
 
-<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg"><img class="aligncenter size-full wp-image-986" title="Parser diagram" alt="" src="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg" width="600" height="448" /></a>So, that was annoying, but it's actually a better design for the future (especially when playing a game via the web, as the server will no longer need to keep a thread hanging around if it's waiting for the user to respond to a menu).
+<a href="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg"><img class="aligncenter size-full wp-image-986" title="Parser diagram" alt="" src="/images/2011/textadventuresblog.files.wordpress.com-2011-11-photo.jpg" width="600" height="448" /></a>
+
+So, that was annoying, but it's actually a better design for the future (especially when playing a game via the web, as the server will no longer need to keep a thread hanging around if it's waiting for the user to respond to a menu).
 
 Eventually I had a pure HTML/JS version of the game which could be played in any web browser. I implemented the walkthrough feature to verify the game was working correctly, and again I sent it to Tim so he could check for any "off-walkthrough" problems.
 
