@@ -38,7 +38,7 @@ So, which part of the code handles commands? Let me take you on a tour...
 
 First, we're typing commands into a textbox at the bottom of the Quest window, but where does that textbox live in the code?
 
-<a href="http://new.textadventures.co.uk/wp-content/uploads/2010/11/bug1.png"><img class="alignnone size-full wp-image-155" title="bug1" src="http://new.textadventures.co.uk/wp-content/uploads/2010/11/bug1.png" alt="Screenshot" width="492" height="229" /></a>
+<img src="/images/2010/bug1.png" alt="Screenshot" />
 
 The Quest project has a form called Main.vb that contains everything - not just the game playing interface, but the game editor, and the game launcher that you see when you first start Quest. But it's quite a thin wrapper - each of these components is implemented as a user control. The game playing interface is ctlPlayer, which is an instance of Player.vb in the Player project.
 
@@ -94,7 +94,7 @@ In this case the pattern is in square brackets. Anything in square brackets gets
 &lt;verbtemplate name="take"&gt;pick up&lt;/verbtemplate&gt;</pre>
 Verb templates are a special kind of syntactic sugar to save us the hassle of repeatedly typing very similar (and very ugly) regular expressions. If you run the game and click the Tools menu, then Debugger, you'll see what the effect is. Click the Commands tab and look at the "take" object.
 
-<a href="http://new.textadventures.co.uk/wp-content/uploads/2010/11/bug2.png"><img class="alignnone size-full wp-image-156" title="bug2" src="http://new.textadventures.co.uk/wp-content/uploads/2010/11/bug2.png" alt="Debugger screenshot" width="566" height="172" /></a>
+<img src="/images/2010/bug2.png" alt="Debugger screenshot" />
 
 You'll see that via the magic of these three verb templates, the "pattern" property of our "take" object becomes:
 <pre>^take (?&lt;object&gt;.*)$|^get (?&lt;object&gt;.*)$|^pick up (?&lt;object&gt;.*)$</pre>
