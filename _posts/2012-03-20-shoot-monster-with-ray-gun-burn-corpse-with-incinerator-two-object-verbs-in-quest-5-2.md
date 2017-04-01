@@ -10,7 +10,7 @@ Quest lets you add verbs to objects, so you can provide the player with varied a
 
 <img class="aligncenter size-full wp-image-1271" title="Object verbs" src="/images/2012/textadventuresblog.files.wordpress.com-2012-03-verbs1.png" alt="" width="211" height="133" />
 
-But what if you wanted to do something a little more complicated? Light the kindling with the match for example, or inspect the flock of hair under the microscope? In Quest 5.1 and earlier, you would have to set up a command - "<kbd>light #object1# with #object2#</kbd>" - and then add some script to see if object1 and object2 made sense. And then, you would be making your game harder to play, because the player is forced to type that command - there's no way of clicking or touching to trigger a command requiring two objects.
+But what if you wanted to do something a little more complicated? Light the kindling with the match for example, or inspect the flock of hair under the microscope? In Quest 5.1 and earlier, you would have to set up a command - <code>light #object1# with #object2#</code> - and then add some script to see if object1 and object2 made sense. And then, you would be making your game harder to play, because the player is forced to type that command - there's no way of clicking or touching to trigger a command requiring two objects.
 
 Quest 5.2 makes this easier by introducing <strong>two-part verbs</strong>. These fit in with the existing verbs mechanism, making them very easy to set up. Best of all, they're mouse and touchscreen friendly.
 
