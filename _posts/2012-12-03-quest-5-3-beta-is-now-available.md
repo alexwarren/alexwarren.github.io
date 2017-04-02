@@ -30,7 +30,7 @@ Quest 5.3 starts us down the road towards doing more innovative and exciting thi
 
 Other new improvements to look and feel include:
 <ul>
-	<li><strong>Grid-based map</strong> (sponsored by Phillip Zolla) - as detailed in <a title="Automatic mapping in Quest 5.3" href="http://www.textadventures.co.uk/blog/2012/07/22/automatic-mapping-in-quest-5-3/">this separate blog post</a>. This is an initial release of mapping functionality, so it's fairly basic at the moment. Future releases will add support for images in the map, and a visual map editor.</li>
+	<li><strong>Grid-based map</strong> (sponsored by Phillip Zolla) - as detailed in <a title="Automatic mapping in Quest 5.3" href="/2012/07/22/automatic-mapping-in-quest-5-3/">this separate blog post</a>. This is an initial release of mapping functionality, so it's fairly basic at the moment. Future releases will add support for images in the map, and a visual map editor.</li>
 </ul>
 
 <img class="size-full wp-image-1549" title="Grid map - castle" src="/images/2012/textadventuresblog.files.wordpress.com-2012-07-grid2.png" alt="" width="453" height="220" align="aligncenter" />
@@ -61,7 +61,7 @@ Other new improvements to look and feel include:
 </ul>
 <h2>Game behaviour - new things</h2>
 <ul>
-	<li><strong>Changable POV</strong> (sponsored by Phillip Zolla) - as detailed in <a title="POV support – multiple player objects in Quest 5.3" href="http://www.textadventures.co.uk/blog/2012/09/19/pov-support-multiple-player-objects-in-quest-5-3/">this separate blog post</a>. I'm looking forward to some interesting games where you can take control of multiple player characters over the course of a game.</li>
+	<li><strong>Changable POV</strong> (sponsored by Phillip Zolla) - as detailed in <a title="POV support – multiple player objects in Quest 5.3" href="/2012/09/19/pov-support-multiple-player-objects-in-quest-5-3/">this separate blog post</a>. I'm looking forward to some interesting games where you can take control of multiple player characters over the course of a game.</li>
 	<li><strong>Light and dark rooms, light sources</strong> (by Pertex). Rooms can now be dark, and lit up by a light source object.</li>
 	<li><strong>Scenery/Invisible exits</strong> (by Pertex). It's now easier to make exits appear or disappear using a script command, and you can also have a "scenery" exit which exists but is not displayed in a room description.</li>
 </ul>

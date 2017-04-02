@@ -12,7 +12,7 @@ The text adventure game <a href="http://www.textadventures.co.uk/review/450/">E
 
 The game is written by <a href="http://allenheard.wordpress.com/">Allen Heard</a>, a teacher from Wales who wrote the game as an <a href="http://allenheard.wordpress.com/2012/02/28/year-8-taste-interactive-fiction/">introduction to interactive fiction</a> for his Year 8 class.
 
-It's the game I've been using when running <a title="Quest at Games Britannia" href="http://www.textadventures.co.uk/blog/2012/07/04/quest-at-games-britannia/">Quest workshops</a> - it can be completed within about half an hour by children who have never played any kind of text-based game before.
+It's the game I've been using when running <a title="Quest at Games Britannia" href="/2012/07/04/quest-at-games-britannia/">Quest workshops</a> - it can be completed within about half an hour by children who have never played any kind of text-based game before.
 
 It will run on any iPhone, iPad or iPod Touch running iOS 4.3 or later.
 

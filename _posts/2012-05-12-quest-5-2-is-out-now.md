@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2012/05/12/quest-5-2-is-out-now/
 ---
 Quest 5.2 has now been released, and you can grab it from the <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download page</a> or <a title="Create a text adventure game" href="http://www.textadventures.co.uk/create/">use it online</a>.
 
-For full details of what's new in this version, see the <a title="Quest 5.2 Beta is now available" href="http://www.textadventures.co.uk/blog/2012/04/14/quest-5-2-beta-is-now-available/">Quest 5.2 Beta announcement</a>. The only things changed since the beta are:
+For full details of what's new in this version, see the <a title="Quest 5.2 Beta is now available" href="/2012/04/14/quest-5-2-beta-is-now-available/">Quest 5.2 Beta announcement</a>. The only things changed since the beta are:
 <ul>
 	<li>a few bug fixes</li>
 	<li>exit links now immediately move the player (unless they have more than one verb) - thanks to James Gregory for suggesting and implementing this</li>

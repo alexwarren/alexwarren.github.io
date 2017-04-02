@@ -8,7 +8,7 @@ sourceUrl: http://blog.textadventures.co.uk/2011/06/20/quest-5-0-beta-2-released
 ---
 It's been another busy month of Quest development, and I've just released Beta 2.
 
-The main change in this release is a substantial redevelopment of the Editor UI - it is now written in WPF, which has made laying out dynamically sized controls much easier. In particular, this is what has enabled me to implement the new-look Script Editor, as described in <a title="Programming visually – the Script Editor in Quest 5.0 Beta 2" href="http://www.textadventures.co.uk/blog/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/">last week's blog post</a>.
+The main change in this release is a substantial redevelopment of the Editor UI - it is now written in WPF, which has made laying out dynamically sized controls much easier. In particular, this is what has enabled me to implement the new-look Script Editor, as described in <a title="Programming visually – the Script Editor in Quest 5.0 Beta 2" href="/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/">last week's blog post</a>.
 
 Aside from that, all bugs that were logged against Beta 1 have now been fixed, and I have also implemented a few other features:
 
@@ -26,7 +26,7 @@ Turn Scripts are analogous to timers, but instead of running a script at speci
 
 <strong>Random Numbers and Expression Templates</strong>
 
-I've added functions to generate an integer in a range (say, from 1 to 10) and to generate a random floating point number (between 0.0 and 1.0). With the new Expression Templates (covered in the <a title="Programming visually – the Script Editor in Quest 5.0 Beta 2" href="http://www.textadventures.co.uk/blog/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/">previous blog</a>), I was able to easily add some nice templates to the editor:
+I've added functions to generate an integer in a range (say, from 1 to 10) and to generate a random floating point number (between 0.0 and 1.0). With the new Expression Templates (covered in the <a title="Programming visually – the Script Editor in Quest 5.0 Beta 2" href="/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/">previous blog</a>), I was able to easily add some nice templates to the editor:
 <ul>
 	<li><span style="line-height:19px;">When adding an "if" script, you can choose "random chance" from the dropdown. You can then enter a percentage between 0 and 100, and that script will then have X% chance of running.</span></li>
 </ul>
