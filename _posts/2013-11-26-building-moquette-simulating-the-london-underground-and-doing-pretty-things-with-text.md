@@ -6,7 +6,7 @@ permalink: /2013/11/26/building-moquette-simulating-the-london-underground-and-d
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text/
 ---
-Following on from the previous blog post (<a title="Moquette in the IFComp – Post-Mortem and Review Roundup" href="http://blog.textadventures.co.uk/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/">Moquette Post-Mortem and Review Roundup</a>), here's a look at how some of it was implemented.
+Following on from the previous blog post (<a title="Moquette in the IFComp – Post-Mortem and Review Roundup" href="/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/">Moquette Post-Mortem and Review Roundup</a>), here's a look at how some of it was implemented.
 
 <a href="http://textadventures.co.uk/games/view/zbzfpcnknu_vdjog-cbihw/moquette">Moquette</a> was entered into the <a href="http://ifcomp.org/">IFComp</a> not under the Quest category, but as a web-based game only. Why? Because I used my latest development version - <a href="https://quest.codeplex.com/releases/view/99971">Quest 5.5</a>, which is currently available only as an unsupported pre-beta "nightly" build. A downloadable .quest file was submitted to the IFComp for archive purposes, and will be made available from the <a href="http://textadventures.co.uk/games/view/zbzfpcnknu_vdjog-cbihw/moquette">Moquette page on textadventures.co.uk</a> when a beta version of Quest 5.5 is ready - which should be in the next month or two.
 

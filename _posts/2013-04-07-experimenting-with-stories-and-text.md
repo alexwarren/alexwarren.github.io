@@ -6,7 +6,7 @@ permalink: /2013/04/07/experimenting-with-stories-and-text
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/04/07/experimenting-with-stories-and-text/
 ---
-Continuing the theme of <a title="Text adventure games are still new" href="http://blog.textadventures.co.uk/2013/01/29/text-adventure-games-are-still-new/">text adventure games are still new</a>, a couple of excellent thought-provoking blog posts from the last week:
+Continuing the theme of <a title="Text adventure games are still new" href="/2013/01/29/text-adventure-games-are-still-new/">text adventure games are still new</a>, a couple of excellent thought-provoking blog posts from the last week:
 
 First, <a href="http://www.filfre.net/2013/04/infidel/">Jimmy Maher's look at Infocom's 1983 game <em>Infidel</em></a> raises questions which are very much still relevant today:
 <blockquote>When you boot an adventure are you effectively still yourself, reacting as you would if transported into that world? Or is an adventure really a form of improvisatory theater, in which you put yourself into the shoes of a protagonist who is not you and try to play the role and experience that person’s story in good faith? Or consider a related question: is an adventure game a way of creating your own story or simply an unusually immersive, interactive way of experiencing a story?</blockquote>

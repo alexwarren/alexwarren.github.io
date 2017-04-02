@@ -6,7 +6,7 @@ permalink: /2016/12/12/developers-needed
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2016/12/12/developers-needed/
 ---
-This is a follow up to <a href="http://blog.textadventures.co.uk/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/">Looking for a new owner for textadventures.co.uk and Quest</a>.
+This is a follow up to <a href="/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/">Looking for a new owner for textadventures.co.uk and Quest</a>.
 
 Thanks to all of you who have got in touch so far. A lot of people have asked about what would be involved in taking over and running textadventures.co.uk and/or Quest, so this post is to go into a bit more detail about how things are set up and how the work might be split up across different people.
 

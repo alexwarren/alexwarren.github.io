@@ -10,11 +10,11 @@ Quest 5.4 is now in beta. You can download the Windows version from the <a href=
 
 Here's a quick overview of what's new:
 <ul>
-	<li>the new <a title="Quest 5.4 Text Processor – easier adaptive text and links" href="http://blog.textadventures.co.uk/2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/">text processor</a> makes it much easier to create dynamic text and links</li>
-	<li>gamebooks <a title="Bringing more power to gamebook mode in Quest 5.4" href="http://blog.textadventures.co.uk/2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/">can now use scripts</a></li>
-	<li>the script editor now <a title="Quest 5.4 Script Editor – showing you teh codez" href="http://blog.textadventures.co.uk/2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/">has a code view</a></li>
-	<li><span style="line-height:14px;">menus are now shown <a title="Slicker hyperlinks in Quest 5.4" href="http://blog.textadventures.co.uk/2013/02/28/slicker-hyperlinks-in-quest-5-4/">within the game text</a></span></li>
-	<li><span style="line-height:14px;">object and exit hyperlinks <a title="Slicker hyperlinks in Quest 5.4" href="http://blog.textadventures.co.uk/2013/02/28/slicker-hyperlinks-in-quest-5-4/">activate and deactivate</a> according to what's in the current visible scope</span></li>
+	<li>the new <a title="Quest 5.4 Text Processor – easier adaptive text and links" href="/2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/">text processor</a> makes it much easier to create dynamic text and links</li>
+	<li>gamebooks <a title="Bringing more power to gamebook mode in Quest 5.4" href="/2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/">can now use scripts</a></li>
+	<li>the script editor now <a title="Quest 5.4 Script Editor – showing you teh codez" href="/2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/">has a code view</a></li>
+	<li><span style="line-height:14px;">menus are now shown <a title="Slicker hyperlinks in Quest 5.4" href="/2013/02/28/slicker-hyperlinks-in-quest-5-4/">within the game text</a></span></li>
+	<li><span style="line-height:14px;">object and exit hyperlinks <a title="Slicker hyperlinks in Quest 5.4" href="/2013/02/28/slicker-hyperlinks-in-quest-5-4/">activate and deactivate</a> according to what's in the current visible scope</span></li>
 	<li>list and dictionary attribute types can now hold any type of attribute value, so you can now create lists of lists, dictionaries of dictionaries, and all kinds of combinations</li>
 	<li>there's a simpler syntax for calling JavaScript within your ASL - instead of using the RunScript request, you can now use a more natural-looking syntax with "JS." followed by your function call. For example, JS.alert("Hello world")</li>
 	<li>new Portuguese (Brazilian) translation, contributed by Ramon Dellaqia</li>

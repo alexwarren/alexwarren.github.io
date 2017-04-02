@@ -6,7 +6,7 @@ permalink: /2013/08/21/more-game-listings-and-an-interactive-fiction-calendar
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/08/21/more-game-listings-and-an-interactive-fiction-calendar/
 ---
-A couple of months ago, we started accepting more game listings on <a href="http://textadventures.co.uk">textadventures.co.uk</a>, opening the site up to allow <a title="Now accepting all kinds of web-based text adventure games" href="http://blog.textadventures.co.uk/2013/06/11/now-accepting-all-kinds-of-web-based-text-adventure-games/">all kinds of web-browser games</a>, such as those created using Twine, Inform or Undum.
+A couple of months ago, we started accepting more game listings on <a href="http://textadventures.co.uk">textadventures.co.uk</a>, opening the site up to allow <a title="Now accepting all kinds of web-based text adventure games" href="/2013/06/11/now-accepting-all-kinds-of-web-based-text-adventure-games/">all kinds of web-browser games</a>, such as those created using Twine, Inform or Undum.
 
 We've now opened up listings even more - with new links to off-site games, all of which can be played in a web-browser, and/or downloaded as an app.
 
