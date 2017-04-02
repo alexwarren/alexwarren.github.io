@@ -10,7 +10,7 @@ All of which leads neatly into a discussion about <a href="http://twitter.com/" 
 
 I was catching up on a few blogs last week and I read three separate people talking about Twitter, so I thought I'd give it a go as it seems to be the latest hot internet thing, just like Facebook was a couple of years ago.
 
-Now, I did get almost embarrassingly excited about Facebook <a href="http://www.alexwarren.co.uk/2007/04/07/ive-become-addicted-to-facebook/">back in April 2007</a>, but so far I'm wondering what the point of Twitter is really. It's a bit like Facebook status updates, instant messaging and blogging all rolled into one massive time wasting machine.
+Now, I did get almost embarrassingly excited about Facebook <a href="/2007/04/07/ive-become-addicted-to-facebook/">back in April 2007</a>, but so far I'm wondering what the point of Twitter is really. It's a bit like Facebook status updates, instant messaging and blogging all rolled into one massive time wasting machine.
 
 It's cool in that I can now add my updates to my website, those same updates can appear as my Facebook updates, and that anybody at all can "follow" those updates, but it doesn't really feel like I'm particularly gaining anything.
 

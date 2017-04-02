@@ -22,6 +22,6 @@ Just another trigger for my curmudgeonliness - yet that doesn't stop me coming b
 
 The <a href="https://twitter.com/everytweet_ever">@EveryTweet_Ever</a> account is hugely cathartic for me - highly recommended.
 
-Related: I wrote a bit about this kind of thing in my post <a title="Hashtag self indulgence" href="http://alexwarren.co.uk/2013/02/23/hashtag-self-indulgence/">Hashtag self indulgence</a>.
+Related: I wrote a bit about this kind of thing in my post <a title="Hashtag self indulgence" href="/2013/02/23/hashtag-self-indulgence/">Hashtag self indulgence</a>.
 
 (And if you want to improve my self esteem, here I am: <a href="https://twitter.com/alexwarren">@alexwarren</a>)

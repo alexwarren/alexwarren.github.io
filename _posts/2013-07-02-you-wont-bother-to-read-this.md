@@ -20,7 +20,7 @@ Analytics from companies like <a href="https://chartbeat.com/">Chartbeat</a> sho
 <blockquote>Articles that get a lot of tweets don’t necessarily get read very deeply. Articles that get read deeply aren’t necessarily generating a lot of tweets.</blockquote>
 I had an interesting experience last week which also taught me something similar: People don't read before commenting.
 
-I wrote a blog post called <a title="How I live and how I work" href="http://alexwarren.co.uk/2013/06/27/how-i-live-and-how-i-work/">How I live and how I work</a>, which so far has received about 10,000 views - far more than any other post I've ever written. There were a lot of comments on the post itself, and also on <a href="https://news.ycombinator.com/item?id=5951536">Hacker News</a> and Twitter.
+I wrote a blog post called <a title="How I live and how I work" href="/2013/06/27/how-i-live-and-how-i-work/">How I live and how I work</a>, which so far has received about 10,000 views - far more than any other post I've ever written. There were a lot of comments on the post itself, and also on <a href="https://news.ycombinator.com/item?id=5951536">Hacker News</a> and Twitter.
 
 What amazed me were the number of assumptions that people had made. Various people assumed:
 <ul>

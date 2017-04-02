@@ -6,7 +6,7 @@ permalink: /2013/06/21/some-half-baked-thoughts-inspired-by-tweets-from-creat_ed
 ---
 I'm not at the <a href="http://createduk.blogspot.co.uk/p/welcome.html">#creat_ed conference</a> today but I'm keeping an eye on the hashtag via Tweetdeck, while simultaneously working (plugging away a bit more on <a href="http://activelit.com">ActiveLit</a>).
 
-I said the other day that <a title="Live tweeting" href="http://alexwarren.co.uk/2013/06/20/live-tweeting/">live tweeting a conference is probably pointless</a>, and I still stand by that - it's pretty hard to figure out what's really being said when all you have to go on are 140 character snippets.
+I said the other day that <a title="Live tweeting" href="/2013/06/20/live-tweeting/">live tweeting a conference is probably pointless</a>, and I still stand by that - it's pretty hard to figure out what's really being said when all you have to go on are 140 character snippets.
 
 That said, the tweets still provide some interesting jumping-off points for a few random thoughts - which is pretty much what this blog is all about.
 
