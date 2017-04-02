@@ -6,7 +6,8 @@ permalink: /2013/07/10/are-you-a-sociopath
 ---
 Here's a really good question that I was asked as part of the discussion arising from my previous post, <a title="Life is not a conveyor belt" href="http://alexwarren.co.uk/2013/07/08/life-is-not-a-conveyor-belt/">Life is not a conveyor belt</a>:
 
-https://twitter.com/user24/status/354244388970430466
+> @alexwarren You're right of course. Any response is better than none. But did you not hope for a positive reception? Or are you a sociopath?— 
+Howard Yeend (@user24) July 08, 2013
 
 Quick answer: No, I am not a sociopath.
 

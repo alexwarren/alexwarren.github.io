@@ -4,7 +4,9 @@ title: >
     Digital as a noun
 permalink: /2013/07/24/digital-as-a-noun
 ---
-https://twitter.com/alexwarren/status/359647596286980096
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It seems &quot;digital&quot; is a word people in the &quot;culture&quot; sector use when they want to pretend they don&#39;t work in IT.</p>&mdash; Alex Warren (@alexwarren) <a href="https://twitter.com/alexwarren/status/359647596286980096">July 23, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I work in IT. I have done so for a long time. I've always loved programming - it has grown from my hobby to my profession over more than 20 years now. I first sold software over the internet in 1999 - quite a long time before the App Store came along and made that kind of thing a whole lot easier.
 

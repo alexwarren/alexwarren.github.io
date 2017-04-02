@@ -12,7 +12,8 @@ That said, the tweets still provide some interesting jumping-off points for a fe
 
 So, I'm not necessarily responding directly to the tweets here (as I don't have the full context), but they made me think some things.
 
-https://twitter.com/joncassie/status/348007532821876736
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Should all students be coding experts? <a href="https://twitter.com/hashtag/creat_ED?src=hash">#creat_ED</a></p>&mdash; Jon Cassie (@joncassie) <a href="https://twitter.com/joncassie/status/348007532821876736">June 21, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Obviously not - who thinks that's a good idea? But understanding a bit about coding, and creating some small programs or games, helps with:
 <ul>
@@ -21,14 +22,14 @@ Obviously not - who thinks that's a good idea? But understanding a bit about cod
 </ul>
 Plenty of benefit there, and you don't need to go into too much depth in any programming language to get some results.
 
-https://twitter.com/jjash/status/348010483401519105
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How do we fill the gap between what the young may like to do and the skills they have? <a href="https://twitter.com/hashtag/creat_ED?src=hash">#creat_ED</a> We need to look at paths? <a href="https://twitter.com/hashtag/creat_ED?src=hash">#creat_ED</a></p>&mdash; Jenny Ashby (@jjash) <a href="https://twitter.com/jjash/status/348010483401519105">June 21, 2013</a></blockquote>
 
 I think we have to encourage young people to figure this stuff out for themselves. If they're going to succeed they need to be self-aware enough to identify the skills they lack, and determined and ambitious enough to go and acquire them. For education to be worthwhile, it shouldn't be about teachers filling in the gaps for their students, but inspiring the students to seek out opportunities and make things happen for themselves.
 
-https://twitter.com/fredgarnett/status/348010908963987457
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/creat_ED?src=hash">#creat_ED</a> <a href="https://twitter.com/iotwatch">@iotwatch</a> how do we move beyond career path thinking? &quot;tell good stories about people in your community, town, country&quot; <a href="https://twitter.com/hashtag/inspire?src=hash">#inspire</a></p>&mdash; Fred Garnett FRSA (@fredgarnett) <a href="https://twitter.com/fredgarnett/status/348010908963987457">June 21, 2013</a></blockquote>
 
 Thinking about career paths and "climbing the ladder" seems a consequence of the factory line of the education process. Children go in at one end aged 5, and there is a clear set of steps and progression taking them all the way to 21 when they leave university. Then they are spat out and left to fend for themselves. People latch on to what they see as the "next step" they have to attain, possibly without considering whether it's what they really want.
 
-https://twitter.com/fredgarnett/status/348012485929992195
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/creat_ED?src=hash">#creat_ED</a> &quot;teachers don&#39;t know how to be entrepreneurial, how do we change that?&quot; That is the point to <a href="https://twitter.com/hashtag/heutagogy?src=hash">#heutagogy</a> <a href="http://t.co/rjmNfTqsXk">http://t.co/rjmNfTqsXk</a></p>&mdash; Fred Garnett FRSA (@fredgarnett) <a href="https://twitter.com/fredgarnett/status/348012485929992195">June 21, 2013</a></blockquote>
 
 Why is it up to teachers to be entrepreneurial themselves? Teachers work in institutions with long traditions and clear hierarchies. People who are naturally entrepreneurial don't work well in this kind of environment.

@@ -8,7 +8,8 @@ I was at an event the other evening, which had an official hashtag as any self-r
 
 I particularly enjoyed this contribution to the live twitter stream, which was being beamed to a screen behind the speakers:
 
-https://twitter.com/SheilaB01/status/347057727450800128
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">An obligation of the live tweeter is to have an opinion <a href="https://twitter.com/hashtag/bytethebook?src=hash">#bytethebook</a></p>&mdash; Sheila Bounford (@SheilaB01) <a href="https://twitter.com/SheilaB01/status/347057727450800128">June 18, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Zing!
 
