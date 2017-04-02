@@ -49,9 +49,9 @@ sourceUrl: https://stackoverflow.blog/2015/11/24/how-to-be-awesome-part-2/
 <p>What did they think they were adding by giving us this information? You don&#8217;t need to include every detail of every job you&#8217;ve ever done. You don&#8217;t want to distract from the overall story you&#8217;re telling.</p>
 <h2>An example</h2>
 <p>Here&#8217;s an example of a cover letter that worked &#8211; it&#8217;s my own, from when I applied to work at Stack Exchange almost two years ago.</p>
-<p><img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/02/SHQBh.png" alt="Cover letter"></p>
+<p><img src="/images/2015/SHQBh.png" alt="Cover letter"></p>
 <p>Looking back at this now, what&#8217;s interesting is that it&#8217;s not brilliant. At all. In fact it&#8217;s embarrasingly short &#8211; I clearly didn&#8217;t spend as long on it as I should have. However, it does demonstrate the points I&#8217;m making. The first sentence just gets straight to the point, saying who I am and what I&#8217;m all about. There&#8217;s a link there to all my open source code so anybody can go and look through that. It explains why I&#8217;m applying now, to this company, and why I&#8217;m excited at the opportunity.</p>
 <h2>Completing the cycle of awesome</h2>
-<p><img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/02/iEp0c.png" alt="The cycle of awesome"></p>
+<p><img src="/images/2015/iEp0c.png" alt="The cycle of awesome"></p>
 <p>That&#8217;s it! In <a href="/2015/09/29/how-to-be-awesome">part 1</a> of this blog post, I talked about breaking into the &#8220;cycle of awesome&#8221; by building awesome stuff. If you build awesome stuff, it&#8217;s a lot easier to tell people how awesome you are. You&#8217;re much more likely to be passionate and excited about stuff you&#8217;ve built yourself, so it&#8217;s actually easier to write your story &#8211; it&#8217;s much easier to write about things which you care about.</p>
 <p>Now you can complete the cycle, and find your way to an awesome job. It&#8217;s not the easy way &#8211; there is no easy way to be awesome &#8211; but it <em>is</em> possible, and you <em>can</em> do it.</p>

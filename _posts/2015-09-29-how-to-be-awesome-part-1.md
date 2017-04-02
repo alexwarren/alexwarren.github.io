@@ -12,7 +12,7 @@ sourceUrl: https://stackoverflow.blog/2015/09/29/how-to-be-awesome/
 <p>So if you&#8217;re currently stuck in a non-awesome job, how do you upgrade? Note that I&#8217;m not necessarily talking about how you can get a job exactly like mine &#8211; this is about how you can get a job that is awesome <em>for you</em>.</p>
 <h2>The cycle of awesome</h2>
 <p>I have a theory. My theory is that having an awesome job is part of a self-fulfilling cycle, which I like to call the &#8220;cycle of awesome&#8221;.</p>
-<p><img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/02/iEp0c.png" alt="The cycle of awesome"></p>
+<p><img src="/images/2015/iEp0c.png" alt="The cycle of awesome"></p>
 <p>The cycle works like this:</p>
 <ul>
 <li>If you already have an awesome job, you get to build awesome stuff.</li>
@@ -26,7 +26,7 @@ sourceUrl: https://stackoverflow.blog/2015/09/29/how-to-be-awesome/
 <p>Looking at the world outside the company, it was clear the way software was being written was changing. New applications were being written for the web and mobile, not Windows desktops. The company could not expect to keep acquiring customers, and hiring and retaining developers, if it carried on like it was still the early 2000s. But they had no desire to change.</p>
 <p>I could possibly have coped with the glacial pace of technological change if the company had been a really great place to work. But it was the kind of heavily corporate environment bogged down with procedures, timesheets, pointless meetings, a dress code, locked-down PCs and heavily filtered internet (when Stack Overflow launched I had to put in a request with the IT department to allow access, which my boss had to approve).</p>
 <p>So I was stuck in something more like the &#8220;cycle of suck&#8221;. I was building stuff that sucked, my CV was not going to get any better, and so I was trapped in my sucky job.</p>
-<p><img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/02/SpRDw.png" alt="The cycle of suck"></p>
+<p><img src="/images/2015/SpRDw.png" alt="The cycle of suck"></p>
 <h2>Breaking in to the cycle of awesome</h2>
 <p>How do you break out of the cycle of suck, and hop on to the cycle of awesome?</p>
 <p>There are three places in the cycle you can try to start, but I think there&#8217;s only one that really works:</p>
@@ -42,7 +42,7 @@ sourceUrl: https://stackoverflow.blog/2015/09/29/how-to-be-awesome/
 <p>And that was really the extent of my &#8220;business plan&#8221; &#8211; I didn&#8217;t think it through in more detail than that. It was more a case of &#8220;what&#8217;s the worst that could happen?&#8221; And the worst case scenario didn&#8217;t seem too bad &#8211; I&#8217;d quit my job working as a VB6 developer, but if I wanted another crappy developer job then it wouldn&#8217;t be that difficult to find one. What I wanted was a good job, and the best way to find one was to increase my skills.</p>
 <p>Being quite a frugal person I happened to have enough money saved up that, even if I didn&#8217;t have any income for a year or so, it wouldn&#8217;t be a big problem.</p>
 <h2>I made this</h2>
-<p><img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/02/ZcCKI.png" alt="Text Adventures"></p>
+<p><img src="/images/2015/ZcCKI.png" alt="Text Adventures"></p>
 <p>So I spent most of the next four years doing various things with Quest and interactive fiction:</p>
 <ul>
 <li>I finished my Quest rewrite, and kept on iterating with new releases, turning it from a Windows desktop application into a web app</li>

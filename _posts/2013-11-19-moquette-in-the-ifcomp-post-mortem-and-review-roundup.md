@@ -51,7 +51,7 @@ I will split the experimentation up into five aspects, which I'll explore in mor
 	<li>First-person</li>
 	<li>Special effects</li>
 </ol>
-<strong>Experiment 1 - A different way of using links&gt;</strong>
+<strong>Experiment 1 - A different way of using links</strong>
 
 Quest started out as a parser-based system, although it has supported a <a title="Eliminating &quot;Guess the Verb&quot;" href="http://blog.textadventures.co.uk/2011/07/11/eliminating-guess-the-verb/">hybrid hyperlink interface</a> for a while now. It also now supports a simpler multiple-choice style of game - <a title="Gamebook mode (&quot;Choose Your Own Adventure&quot;) in Quest 5.2" href="http://blog.textadventures.co.uk/2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/">gamebook mode</a>, which lets you create <a href="http://twinery.org/">Twine</a>-style works.
 
@@ -115,13 +115,14 @@ Here are all of the publicly available reviews and mentions I came across (let m
 	<li><a href="http://www.intfiction.org/forum/viewtopic.php?f=32&amp;t=9912">Deirdra Kiai</a>: "Impressive tech demo. Not really a fan of the protagonist dude's narrative voice; he came across to me as a judgemental prat."</li>
 	<li><a href="http://www.ricordius.com/others/ifcomp13/moquette.htm">Ricordius</a>: "Eventually, Story Happens. In the meantime, until Story Happens, I'm just blindly hopping on and off these trains. I suppose Story Continues eventually, but I no longer cared. ... But this is Quest. It means that Quest is capable of some seriously eye-opening shenanigans that I had not thought that system capable of before. And that, in spite of the very flawed central core, means I am still impressed."</li>
 <li><a href="http://cerxi.tumblr.com/post/65984938396">Eric Olson</a>: "I still have hardly an inkling of what this was supposed to make me feel outside of frustrated at the amount of my time it wasted."</li>
-<li><a href="http://ifwizz.de/moquette-(2013-en).html?ua=review_152#review_152">ifwizz.de</a> (German - a quote from Chrome's translation: "The language ripples then, sometimes sparkles forth with unexpected impressions and insignificant observations here and there, rocking on to thoughts that suggest the image of a man who wants to break out of the eternal recurrence of the same in his gray life.")
+<li><a href="http://ifwizz.de/moquette-(2013-en).html?ua=review_152#review_152">ifwizz.de</a> (German - a quote from Chrome's translation: "The language ripples then, sometimes sparkles forth with unexpected impressions and insignificant observations here and there, rocking on to thoughts that suggest the image of a man who wants to break out of the eternal recurrence of the same in his gray life.")</li>
 <li>Other reviews and ratings on Moquette's <a href="http://ifdb.tads.org/viewgame?id=gk0diy1aawlqtun">IFDB page</a></li>
 </ul>
+
 I also tried a little to get the word out beyond the normal IF circles. With the game set on the London Underground, it made sense to reach out to London blogs - it got small mentions on <a href="http://londonist.com/2013/10/extra-extra-695.php">Londonist</a> and <a href="http://diamondgeezer.blogspot.co.uk/2013/10/fivelinks.html">Diamond Geezer</a>. The competition rule requiring authors not to discuss games publicly hurt a bit here - if we can't promote our own games (and the competition in general), who will? Who will take responsibility for plugging the IFComp outside of the circles of people who already know about it?
 
 <strong>Finally</strong>
 
 See how many times you can spot me in this highly appropriate video. (If you don't know what I look like, check out my <a href="http://twitter.com/alexwarren">Twitter profile</a>)
 
-[youtube=http://www.youtube.com/watch?v=8jPyg2pK11M&amp;w=420&amp;h=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jPyg2pK11M" frameborder="0" allowfullscreen></iframe>
