@@ -3,3 +3,7 @@ collections:
   talks:
     output: true
     permalink: /talks/:title
+gems:
+  - jekyll-feed
+title: Alex Warren
+author: Alex Warren
