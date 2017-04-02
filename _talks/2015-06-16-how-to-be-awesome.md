@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: How to be awesome
-slug: how-to-be-awesome
+slug: how-to-be-awesome-2015
 location: Stack Overflow, London
 ---
 
