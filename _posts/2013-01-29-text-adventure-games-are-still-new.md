@@ -72,7 +72,7 @@ HTML5 opens up a lot of possibilities for experimenting. For example, using Canv
 
 <a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-map.png"><img class="alignnone size-full wp-image-1832" alt="Game with map" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-map.png" width="625" height="550" /></a>
 
-<span style="line-height:1.714285714;font-size:1rem;">Of course, HTML is designed for laying out text - so there is plenty of room for experimentation here. For example, why not split the screen in two:</span>
+Of course, HTML is designed for laying out text - so there is plenty of room for experimentation here. For example, why not split the screen in two:
 
 <a href="/images/2013/textadventuresblog.files.wordpress.com-2013-01-twohalves.png"><img class="alignnone size-full wp-image-1833" alt="Split screen text adventure" src="/images/2013/textadventuresblog.files.wordpress.com-2013-01-twohalves.png" width="625" height="467" /></a>
 

@@ -20,7 +20,9 @@ Two of the afternoon's presentations were revealing in their contrasts. <a href=
 
 I really enjoyed both of these presentations and how open both were with their figures. We can learn a lot from success and failure, and there is much more value in these kinds of presentations than in the kind where people just talk about what they did and how marvellous it all was.
 
-<img class="alignright size-full wp-image-2308" alt="Wildwood Story Map" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-wildwood.png" width="300" height="168" />Wildwood Story Map is a free iPad app created to promote a trilogy of books - The Wildwood Chronicles by Colin Meloy, targeted at 8 to 12-year olds. The word "disaster" was used to describe how well the app promoted the first book in the trilogy - as it didn't actually launch, due to wrangling with various rights holders who all demanded final approval before it could go live. For the second of the trilogy, the app was launched and marketed alongside the book - the idea being that the app would engage the audience more with the book, even though this effectively meant it had failed its original stated purpose as way of promoting the book itself.
+<img class="alignright size-full wp-image-2308" alt="Wildwood Story Map" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-wildwood.png" width="300" height="168" />
+
+Wildwood Story Map is a free iPad app created to promote a trilogy of books - The Wildwood Chronicles by Colin Meloy, targeted at 8 to 12-year olds. The word "disaster" was used to describe how well the app promoted the first book in the trilogy - as it didn't actually launch, due to wrangling with various rights holders who all demanded final approval before it could go live. For the second of the trilogy, the app was launched and marketed alongside the book - the idea being that the app would engage the audience more with the book, even though this effectively meant it had failed its original stated purpose as way of promoting the book itself.
 
 Cate said that "hundreds" of people had downloaded the app. Taking a look at the stats on <a href="http://www.appannie.com/">App Annie</a>, it seems to have achieved similar App Store rankings to my own recent free iPad book app, <a title="“Filbert and the Broccoli Escape” – an interactive children’s book for iPad" href="http://blog.textadventures.co.uk/2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad/">Filbert and the Broccoli Escape</a> - so a download figure in the low to mid hundreds sounds likely. My app was created for a far tinier budget, and suffers from my own limited marketing skills - so it was interesting to hear that others, even with teams of people working to making them look great, and with established publishers behind them, can suffer from the same problems with finding an audience. Being beautiful and free sadly isn't enough.
 
@@ -38,7 +40,9 @@ This shows how digital projects can be done successfully without spending lots o
 
 <strong>Publishers getting into Interactive Fiction</strong>
 
-<img class="alignright size-full wp-image-2307" alt="Black Crown" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-black-crown.jpg" width="300" height="182" /><a href="https://twitter.com/digitaldanhouse">Dan Franklin</a>, digital director at <a href="http://www.randomhouse.co.uk/">Random House</a>, presented the just-released <a href="http://www.blackcrownproject.com/s">Black Crown</a> alongside <a href="http://about.failbettergames.com/">Failbetter</a>'s <a href="https://twitter.com/alexiskennedy">Alexis Kennedy</a> (whose <a href="http://storynexus.com/s">StoryNexus</a> platform powers it) and author Rob Sherman.
+<img class="alignright size-full wp-image-2307" alt="Black Crown" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-black-crown.jpg" width="300" height="182" />
+
+<a href="https://twitter.com/digitaldanhouse">Dan Franklin</a>, digital director at <a href="http://www.randomhouse.co.uk/">Random House</a>, presented the just-released <a href="http://www.blackcrownproject.com/s">Black Crown</a> alongside <a href="http://about.failbettergames.com/">Failbetter</a>'s <a href="https://twitter.com/alexiskennedy">Alexis Kennedy</a> (whose <a href="http://storynexus.com/s">StoryNexus</a> platform powers it) and author Rob Sherman.
 
 There are various kinds of interactive fiction (IF) which people may be familiar with. There's straightforward branching narrative - "Choose Your Own Adventure" (CYOA) or gamebook-style games. Then there's parser-based text adventures, where you type in commands like "go north" and "open box". Black Crown, like other StoryNexus games, works a bit differently to these. It's kind of hard to explain, so I hope I'm getting this right, but it involves story sections (called "storylets") which are accessed by choosing from a set of cards. The cards that are available to you throughout the game will change based on what you've done before. So, it's sort of like a multiple-choice CYOA, but you can also come back and explore other strands.
 
@@ -48,17 +52,20 @@ Another way Black Crown differs from other kinds of interactive fiction is that 
 
 Random House see three markets for Black Crown. Sci-fi fans, gamers and so-called "progressives" (which we take to mean "Guardian-reading Twittery types"). This seems a sensible audience for a publisher's first forays into this area, but it makes me wonder how we can reach beyond these people, to create digital interactive stories which appeal to other audiences?
 
-https://twitter.com/MaggieA/status/340101068144910336
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Publishers reinventing the wheel but the nature of the people driving the change shapes content that appeals only to their group <a href="https://twitter.com/hashtag/FIW13?src=hash">#FIW13</a></p>&mdash; Maggie Alderson (@MaggieA) <a href="https://twitter.com/MaggieA/status/340101068144910336">May 30, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/alexwarren/status/340102609530658816
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good point from <a href="https://twitter.com/MaggieA">@MaggieA</a> in that RT, how do we make this digital publishing stuff appeal to non-Guardian reading Twitterati? <a href="https://twitter.com/hashtag/fiw13?src=hash">#fiw13</a></p>&mdash; Alex Warren (@alexwarren) <a href="https://twitter.com/alexwarren/status/340102609530658816">May 30, 2013</a></blockquote>
 
-https://twitter.com/MaggieA/status/340103038628937729
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/alexwarren">@alexwarren</a> or even non-gaming women… I feel publishers are panicking into changing too much. <a href="https://twitter.com/hashtag/FIW13?src=hash">#FIW13</a></p>&mdash; Maggie Alderson (@MaggieA) <a href="https://twitter.com/MaggieA/status/340103038628937729">May 30, 2013</a></blockquote>
 
 The other interesting thing about Black Crown is how it stands alone. Whereas many people are embarking on digital story projects which either piggy-back off existing IP, or exist solely to promote something else, Black Crown is simply a product in itself. It has to be promoted entirely on its own merits, and it will only make money if people pay for it. This seems a bold and risky experiment. It will be actively developed over at least the next four months - can it find enough of an audience to pay its own way?
 
 <strong>Multiple platforms</strong>
 
-<img class="alignright size-full wp-image-2309" alt="The Thirty-Nine Steps" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-39steps.png" width="200" height="457" /><a href="https://twitter.com/simon_meek">Simon Meek</a>, founder of <a href="http://thestorymechanics.com/">The Story Mechanics</a>, talked about a digital adaptation of <a href="http://thestorymechanics.com/digital-adaptations/the-thirty-nine-steps/">The Thirty-Nine Steps</a>. Using the <a href="http://unity3d.com/">Unity</a> engine allowed them to bring the game to pretty much every platform you can think of - although this presented its own challenges as they had to handle multiple screen sizes and input types, it also brings the game to the widest possible audience. They have even made the game available as a packaged item via retail channels such as Amazon, Morrisons and WHSmith.
+<img class="alignright size-full wp-image-2309" alt="The Thirty-Nine Steps" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-39steps.png" width="200" height="457" />
+
+<a href="https://twitter.com/simon_meek">Simon Meek</a>, founder of <a href="http://thestorymechanics.com/">The Story Mechanics</a>, talked about a digital adaptation of <a href="http://thestorymechanics.com/digital-adaptations/the-thirty-nine-steps/">The Thirty-Nine Steps</a>. Using the <a href="http://unity3d.com/">Unity</a> engine allowed them to bring the game to pretty much every platform you can think of - although this presented its own challenges as they had to handle multiple screen sizes and input types, it also brings the game to the widest possible audience. They have even made the game available as a packaged item via retail channels such as Amazon, Morrisons and WHSmith.
 
 The player can explore the environment, and interact with the world around them - for example by reading newspapers. The world is "infused" with the story - you can experience it but not change it.
 
@@ -80,9 +87,11 @@ It also has the idea of co-creation - participants can leave a layer of audio or
 
 <strong>The Most Important Thing</strong>
 
-<img class=" wp-image-2310 aligncenter" alt="Do Story" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-dostory.png?w=202" width="202" height="300" /><a href="https://twitter.com/bobettebuster">Bobette Buster</a> did great workshop on storytelling, and there was a copy of her new book "<a href="http://thedobook.co/products/do-story-how-to-tell-your-story-so-the-world-listens">Do Story</a>" in the goodie bag, which I look forward to reading this week (I'm currently hiding away in rural Buckinghamshire, working on my own first piece of interactive fiction). Right at the end of the workshop, a key message:
+<img class=" wp-image-2310 aligncenter" alt="Do Story" src="/images/2013/textadventuresblog.files.wordpress.com-2013-06-dostory.png" width="202" height="300" />
 
-https://twitter.com/LoisBray/status/340133728829452289
+<a href="https://twitter.com/bobettebuster">Bobette Buster</a> did great workshop on storytelling, and there was a copy of her new book "<a href="http://thedobook.co/products/do-story-how-to-tell-your-story-so-the-world-listens">Do Story</a>" in the goodie bag, which I look forward to reading this week (I'm currently hiding away in rural Buckinghamshire, working on my own first piece of interactive fiction). Right at the end of the workshop, a key message:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/FIW13?src=hash">#FIW13</a> <a href="https://twitter.com/bobettebuster">@bobettebuster</a>: Audience entranced by technological wonder at first &amp; then they get bored - storytelling is what is indispensable.</p>&mdash; Lois Bray (@LoisBray) <a href="https://twitter.com/LoisBray/status/340133728829452289">May 30, 2013</a></blockquote>
 
 For all of us working to do interesting things with technology in games, this should be repeated over and over again. Maybe we should chant this three times before breakfast or something. It's all about the story. It's all about the story. It's all about the story.
 

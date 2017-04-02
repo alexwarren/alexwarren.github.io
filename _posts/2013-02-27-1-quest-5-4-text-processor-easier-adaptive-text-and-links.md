@@ -27,9 +27,13 @@ When we run the game, here's what we see. The "Aaargh, a mouse!" text only appea
 <a href="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc2.png"><img class="aligncenter size-full wp-image-2031" alt="Text Processor - output" src="/images/2013/textadventuresblog.files.wordpress.com-2013-02-textproc2.png" width="447" height="163" /></a>
 
 We can easily include conditional text using the {if} code, which allows us to check the value of game or object attributes. For example, if we're looking at an apple and the player's health is low, we might write:
-<p style="padding-left:30px;">That looks like a tasty apple. {if player.health&lt;10:It would be a very good idea to eat it.}</p>
+
+    That looks like a tasty apple. {if player.health<10:It would be a very good idea to eat it.}
+
 Using the {command} code, we could actually improve this and give the player an "eat apple" link. You can nest codes inside each other, so the link will only appear if the player's health is low:
-<p style="padding-left:30px;">That looks like a tasty apple. {if player.health&lt;10:It would be a very good idea to {command:eat apple:eat it}.}</p>
+
+    That looks like a tasty apple. {if player.health<10:It would be a very good idea to {command:eat apple:eat it}.}
+
 There is also the {random} code which allows you to choose text at random, and {img} lets you include images in-line with text.
 
 The Quest 5.4 Beta release is very close now, but if you just can't wait you can try out the <a href="http://quest.codeplex.com/releases/view/82308">nightly build</a>.

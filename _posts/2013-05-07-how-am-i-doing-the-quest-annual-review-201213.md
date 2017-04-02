@@ -82,9 +82,10 @@ It’s programming by stealth... It certainly sparked an interest in programmin
 
 Some tweets:
 
-https://twitter.com/Alternicity/status/192749959169327104
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My boys loving this text adventure making software: Quest <a href="http://t.co/shmLoBPG">http://t.co/shmLoBPG</a> Interest-Led intense <a href="https://twitter.com/hashtag/unschool?src=hash">#unschool</a></p>&mdash; Stuart Dunstan (@Alternicity) <a href="https://twitter.com/Alternicity/status/192749959169327104">April 18, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/mcrgirlgeeks/status/212849213179035649
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great way for kids to start coding: Build your own text-based adventure <a href="https://twitter.com/TextAdv">@TextAdv</a> <a href="http://t.co/3pQurO8G">http://t.co/3pQurO8G</a> &lt;&lt; LOVE THIS!</p>&mdash; Manchester GirlGeeks (@mcrgirlgeeks) <a href="https://twitter.com/mcrgirlgeeks/status/212849213179035649">June 13, 2012</a></blockquote>
 
 <a href="http://www.freewaregenius.com/create-a-text-adventure-and-publish-as-a-desktop-or-mobile-app-for-free-with-quest/">FreewareGenius says</a>:
 <blockquote>It’s pretty amazing what can be accomplished so easily now, with programs like Quest. Yes, I am in love with this program, and therefore, I could go on and on about it and how awesome all its features are and the like until I am blue in the face</blockquote>
