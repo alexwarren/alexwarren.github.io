@@ -5,15 +5,15 @@ title: Alex Warren
 
 ![Header](header.jpg)
 
-Hello! I am Alex Warren, and I'm a web developer at [Stack Overflow](https://stackoverflow.com).
+Hello! I am Alex Warren, and I am a full-stack web developer. I worked at [Stack Overflow](https://stackoverflow.com) until I was laid off in November 2017. Previously I built and [textadventures.co.uk](http://textadventures.co.uk) and the [Quest](https://github.com/textadventures/quest) text adventure engine.
 
-Things here:
+I'm still building this site, but the main things here are:
 
 - [Projects](/projects)
 - [Writing](/writing)
 - [Talks](/talks)
 
-Things elsewhere:
+Here are some things which are elsewhere:
 
 - [Twitter](https://twitter.com/alexwarren)
 - [GitHub](https://github.com/alexwarren)
