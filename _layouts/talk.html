@@ -12,13 +12,13 @@ layout: index
 {{content}}
 </div>
 
-<div class="row">
-    <div class="col-lg-6 prev">
+<div>
+    <div class="prev">
         {% if page.previous %}
         <a href="{{ page.previous.url }}">&lt; {{ page.previous.title }}</a>
         {% endif %}
     </div>
-    <div class="col-lg-6 next">
+    <div class="next">
         {% if page.next %}
         <a href="{{ page.next.url }}">{{ page.next.title }} &gt;</a>
         {% endif %}

@@ -3,6 +3,8 @@ layout: index
 title: Alex Warren
 ---
 
+# Alex Warren
+
 ![Header](header.jpg)
 
 Hello! I am Alex Warren, and I am a full-stack web developer. I worked at [Stack Overflow](https://stackoverflow.com) until I was laid off in November 2017. Previously I built [textadventures.co.uk](http://textadventures.co.uk) and the [Quest](https://github.com/textadventures/quest) text adventure engine.
