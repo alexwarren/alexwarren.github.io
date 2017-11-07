@@ -70,3 +70,15 @@ div.footer {
 	font-size: 90%;
 	color: #aaa
 }
+
+nav ul {
+	padding-left: 0;
+}
+
+nav ul > li {
+	display: inline-block;
+}
+
+nav ul > li:not(:first-child):before {
+	content: " / ";
+}
