@@ -2,7 +2,7 @@
 layout: post
 title: >
     Containers
-permalink: /2006/11/28/containers
+permalink: /2006/11/28/containers/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/28/containers/
 ---

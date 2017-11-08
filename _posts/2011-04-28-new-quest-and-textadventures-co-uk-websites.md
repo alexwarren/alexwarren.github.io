@@ -2,7 +2,7 @@
 layout: post
 title: >
     New Quest and textadventures.co.uk websites
-permalink: /2011/04/28/new-quest-and-textadventures-co-uk-websites
+permalink: /2011/04/28/new-quest-and-textadventures-co-uk-websites/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/04/28/new-quest-and-textadventures-co-uk-websites/
 ---

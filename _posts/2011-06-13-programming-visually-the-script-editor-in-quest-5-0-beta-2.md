@@ -2,7 +2,7 @@
 layout: post
 title: >
     Programming visually - the Script Editor in Quest 5.0 Beta 2
-permalink: /2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2
+permalink: /2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/
 ---

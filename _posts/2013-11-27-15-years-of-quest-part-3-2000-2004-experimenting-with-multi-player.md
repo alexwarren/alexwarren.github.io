@@ -2,7 +2,7 @@
 layout: post
 title: >
     15 years of Quest, part 3: 2000-2004 - Experimenting with Multi-Player
-permalink: /2013/11/27/15-years-of-quest-part-3-2000-2004-experimenting-with-multi-player
+permalink: /2013/11/27/15-years-of-quest-part-3-2000-2004-experimenting-with-multi-player/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/11/27/15-years-of-quest-part-3-2000-2004-experimenting-with-multi-player/
 ---

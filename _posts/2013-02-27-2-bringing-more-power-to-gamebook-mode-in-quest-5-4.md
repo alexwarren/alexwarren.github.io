@@ -2,7 +2,7 @@
 layout: post
 title: >
     Bringing more power to gamebook mode in Quest 5.4
-permalink: /2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4
+permalink: /2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/27/bringing-more-power-to-gamebook-mode-in-quest-5-4/
 ---

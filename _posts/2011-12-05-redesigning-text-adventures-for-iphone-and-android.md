@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redesigning text adventures for iPhone and Android
-permalink: /2011/12/05/redesigning-text-adventures-for-iphone-and-android
+permalink: /2011/12/05/redesigning-text-adventures-for-iphone-and-android/
 source: gamasutra
 sourceUrl: http://www.gamasutra.com/blogs/AlexWarren/20111205/90742/Redesigning_text_adventures_for_iPhone_and_Android.php
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest is now on GitHub
-permalink: /2014/07/06/quest-is-now-on-github
+permalink: /2014/07/06/quest-is-now-on-github/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2014/07/06/quest-is-now-on-github/
 ---

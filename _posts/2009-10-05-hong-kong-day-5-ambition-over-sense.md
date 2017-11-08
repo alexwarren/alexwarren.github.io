@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 5 - Ambition over Sense
-permalink: /2009/10/05/hong-kong-day-5-ambition-over-sense
+permalink: /2009/10/05/hong-kong-day-5-ambition-over-sense/
 ---
 Sunday 4th October
 

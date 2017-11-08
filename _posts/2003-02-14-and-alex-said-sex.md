@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Sex
-permalink: /2003/02/14/and-alex-said-sex
+permalink: /2003/02/14/and-alex-said-sex/
 ---
 Column 15: Sex, 14th February 2003
 

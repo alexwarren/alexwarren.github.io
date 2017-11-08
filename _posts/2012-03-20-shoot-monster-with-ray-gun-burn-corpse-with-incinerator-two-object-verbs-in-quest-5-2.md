@@ -2,7 +2,7 @@
 layout: post
 title: >
     Shoot monster with ray gun, burn corpse with incinerator - two-object verbs in Quest 5.2
-permalink: /2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2
+permalink: /2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/20/shoot-monster-with-ray-gun-burn-corpse-with-incinerator-two-object-verbs-in-quest-5-2/
 ---

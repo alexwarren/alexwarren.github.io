@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Yawn
-permalink: /2003/01/31/and-alex-said-yawn
+permalink: /2003/01/31/and-alex-said-yawn/
 ---
 Column 13: Yawn, 31st January 2003
 

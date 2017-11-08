@@ -2,7 +2,7 @@
 layout: post
 title: >
     Seeing my name in print
-permalink: /2007/12/04/seeing-my-name-in-print
+permalink: /2007/12/04/seeing-my-name-in-print/
 ---
 I'm in this week's Time Out - it's always nice to see my name in print.
 

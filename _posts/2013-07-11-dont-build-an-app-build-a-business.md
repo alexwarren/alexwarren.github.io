@@ -2,7 +2,7 @@
 layout: post
 title: >
     Don't build an app, build a business
-permalink: /2013/07/11/dont-build-an-app-build-a-business
+permalink: /2013/07/11/dont-build-an-app-build-a-business/
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Scary story if you are developing apps! <a href="http://t.co/9u5VISsbh9">http://t.co/9u5VISsbh9</a> There maybe some big winners but lots aren&#39;t.</p>&mdash; Ben Barton (@bartoneducation) <a href="https://twitter.com/bartoneducation/status/354841635835752449">July 10, 2013</a></blockquote>

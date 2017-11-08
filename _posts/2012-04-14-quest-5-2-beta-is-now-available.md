@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.2 Beta is now available
-permalink: /2012/04/14/quest-5-2-beta-is-now-available
+permalink: /2012/04/14/quest-5-2-beta-is-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/04/14/quest-5-2-beta-is-now-available/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.5 Beta is now available
-permalink: /2013/12/19/quest-5-5-beta-is-now-available
+permalink: /2013/12/19/quest-5-5-beta-is-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/12/19/quest-5-5-beta-is-now-available/
 ---

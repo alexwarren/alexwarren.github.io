@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest workshops at GameCity 7
-permalink: /2012/10/15/quest-workshops-at-gamecity-7
+permalink: /2012/10/15/quest-workshops-at-gamecity-7/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/10/15/quest-workshops-at-gamecity-7/
 ---

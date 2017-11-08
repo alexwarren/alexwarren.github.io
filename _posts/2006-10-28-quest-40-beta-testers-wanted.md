@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4.0 - Beta Testers Wanted!
-permalink: /2006/10/28/quest-40-beta-testers-wanted
+permalink: /2006/10/28/quest-40-beta-testers-wanted/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/10/28/quest-40-beta-testers-wanted/
 ---

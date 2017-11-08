@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 4 - Parklife
-permalink: /2009/10/04/hong-kong-day-4-parklife
+permalink: /2009/10/04/hong-kong-day-4-parklife/
 ---
 Saturday 3rd October
 

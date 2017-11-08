@@ -2,7 +2,7 @@
 layout: post
 title: >
     Thoughts on interactive storytelling and The Hobbit
-permalink: /2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit
+permalink: /2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/12/19/thoughts-on-interactive-storytelling-and-the-hobbit/
 ---

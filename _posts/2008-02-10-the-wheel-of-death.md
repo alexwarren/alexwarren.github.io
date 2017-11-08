@@ -2,7 +2,7 @@
 layout: post
 title: >
     The Wheel of Death
-permalink: /2008/02/10/the-wheel-of-death
+permalink: /2008/02/10/the-wheel-of-death/
 ---
 
 <img src="/images/2008/DSC00111.JPG" />

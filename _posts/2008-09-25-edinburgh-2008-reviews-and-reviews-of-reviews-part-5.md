@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 5
-permalink: /2008/09/25/edinburgh-2008-reviews-and-reviews-of-reviews-part-5
+permalink: /2008/09/25/edinburgh-2008-reviews-and-reviews-of-reviews-part-5/
 ---
 And so at last, after some delay, we arrive at the fifth and final part of my reviews of the shows I saw at Edinburgh. It's been quite a long and drawn-out process. I hoped I might finish these reviews sooner to be honest. But never mind, we're finally here, and there are only three shows left to talk about. Here are links to <a href="/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1">part 1</a>, <a href="/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2">part 2</a>, <a href="/2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3">part 3</a> and <a href="/2008/09/02/edinburgh-2008-reviews-and-reviews-of-reviews-part-4">part 4</a>.
 

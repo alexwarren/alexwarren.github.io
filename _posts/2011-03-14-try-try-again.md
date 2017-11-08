@@ -2,7 +2,7 @@
 layout: post
 title: >
     Try, try again
-permalink: /2011/03/14/try-try-again
+permalink: /2011/03/14/try-try-again/
 ---
 <img title="Please Try Again" alt="" src="/images/2011/3355834452_0b7215c19a_m.jpg" width="240" height="180" />
 

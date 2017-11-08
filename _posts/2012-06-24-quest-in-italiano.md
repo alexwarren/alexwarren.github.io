@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest in italiano
-permalink: /2012/06/24/quest-in-italiano
+permalink: /2012/06/24/quest-in-italiano/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/06/24/quest-in-italiano/
 ---

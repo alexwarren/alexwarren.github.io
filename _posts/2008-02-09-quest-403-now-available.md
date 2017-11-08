@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4.03 now available
-permalink: /2008/02/09/quest-403-now-available
+permalink: /2008/02/09/quest-403-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2008/02/09/quest-403-now-available/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     QuestComp 2013 - the results
-permalink: /2013/07/15/questcomp-2013-the-results
+permalink: /2013/07/15/questcomp-2013-the-results/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/07/15/questcomp-2013-the-results/
 ---

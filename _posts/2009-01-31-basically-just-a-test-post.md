@@ -2,7 +2,7 @@
 layout: post
 title: >
     Basically just a test post
-permalink: /2009/01/31/basically-just-a-test-post
+permalink: /2009/01/31/basically-just-a-test-post/
 ---
 I've moved my alexwarren.co.uk website and blog to a new server, so really this is just a test post to check that everything is working.
 

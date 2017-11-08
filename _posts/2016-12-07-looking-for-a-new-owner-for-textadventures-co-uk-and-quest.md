@@ -2,7 +2,7 @@
 layout: post
 title: >
     Looking for a new owner for textadventures.co.uk and Quest
-permalink: /2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest
+permalink: /2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/
 ---

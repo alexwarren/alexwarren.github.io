@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest on the web - public beta preview
-permalink: /2012/03/14/quest-on-the-web-public-beta-preview
+permalink: /2012/03/14/quest-on-the-web-public-beta-preview/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/14/quest-on-the-web-public-beta-preview/
 ---

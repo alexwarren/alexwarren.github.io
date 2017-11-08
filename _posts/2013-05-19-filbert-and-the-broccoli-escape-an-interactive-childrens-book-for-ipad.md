@@ -2,7 +2,7 @@
 layout: post
 title: >
     "Filbert and the Broccoli Escape" - an interactive children's book for iPad
-permalink: /2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad
+permalink: /2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/19/filbert-and-the-broccoli-escape-an-interactive-childrens-book-for-ipad/
 ---

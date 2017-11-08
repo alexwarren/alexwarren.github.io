@@ -2,7 +2,7 @@
 layout: post
 title: >
     Alex's Guide to a New You in 2010
-permalink: /2010/01/04/alexs-guide-to-a-new-you-in-2010
+permalink: /2010/01/04/alexs-guide-to-a-new-you-in-2010/
 ---
 It's the beginning of a new decade, so it's time to sort yourself out. Do you want to be the same old grumpy, boring, fat and stupid you of the noughties? Of course not! So turn your life around, try something new and rid yourself of ugliness using my fantastic guide to a whole new you, for a whole new decade!
 

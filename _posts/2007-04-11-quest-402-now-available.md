@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4.02 now available
-permalink: /2007/04/11/quest-402-now-available
+permalink: /2007/04/11/quest-402-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2007/04/11/quest-402-now-available/
 ---

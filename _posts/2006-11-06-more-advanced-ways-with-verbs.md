@@ -2,7 +2,7 @@
 layout: post
 title: >
     More advanced ways with verbs
-permalink: /2006/11/06/more-advanced-ways-with-verbs
+permalink: /2006/11/06/more-advanced-ways-with-verbs/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/06/more-advanced-ways-with-verbs/
 ---

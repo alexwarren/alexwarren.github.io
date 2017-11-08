@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 3
-permalink: /2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3
+permalink: /2008/08/23/edinburgh-2008-reviews-and-reviews-of-reviews-part-3/
 ---
 This is part three of my reviews of the shows I saw at this year's Edinburgh festival. Here are links to <a href="/2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1">part 1</a> and <a href="/2008/08/20/edinburgh-2008-reviews-and-reviews-of-reviews-part-2">part 2</a>.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.3 is released
-permalink: /2013/01/14/quest-5-3-is-released
+permalink: /2013/01/14/quest-5-3-is-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/01/14/quest-5-3-is-released/
 ---

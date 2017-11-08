@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4 is now free
-permalink: /2011/01/03/quest-4-is-now-free
+permalink: /2011/01/03/quest-4-is-now-free/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/01/03/quest-4-is-now-free/
 ---

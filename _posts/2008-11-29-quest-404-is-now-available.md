@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4.04 is now available
-permalink: /2008/11/29/quest-404-is-now-available
+permalink: /2008/11/29/quest-404-is-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2008/11/29/quest-404-is-now-available/
 ---

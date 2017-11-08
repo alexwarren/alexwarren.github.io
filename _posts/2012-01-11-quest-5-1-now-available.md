@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.1 now available
-permalink: /2012/01/11/quest-5-1-now-available
+permalink: /2012/01/11/quest-5-1-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/01/11/quest-5-1-now-available/
 ---

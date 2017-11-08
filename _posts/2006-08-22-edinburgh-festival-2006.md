@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh Festival 2006
-permalink: /2006/08/22/edinburgh-festival-2006
+permalink: /2006/08/22/edinburgh-festival-2006/
 ---
 I've just got back from a week at the Edinburgh Festival. I hadn't been to Edinburgh before - I've been thinking about going for a few years but somehow I always just kind of forgot about it. Anyway, this year I remembered the festival's existence in plenty of time to book accommodation and cheap train tickets.
 

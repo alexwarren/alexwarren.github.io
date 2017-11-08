@@ -2,7 +2,7 @@
 layout: post
 title: >
     More game listings, and an interactive fiction calendar
-permalink: /2013/08/21/more-game-listings-and-an-interactive-fiction-calendar
+permalink: /2013/08/21/more-game-listings-and-an-interactive-fiction-calendar/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/08/21/more-game-listings-and-an-interactive-fiction-calendar/
 ---

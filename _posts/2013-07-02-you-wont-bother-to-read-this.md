@@ -2,7 +2,7 @@
 layout: post
 title: >
     You won't bother to read this
-permalink: /2013/07/02/you-wont-bother-to-read-this
+permalink: /2013/07/02/you-wont-bother-to-read-this/
 ---
 You're lazy.
 

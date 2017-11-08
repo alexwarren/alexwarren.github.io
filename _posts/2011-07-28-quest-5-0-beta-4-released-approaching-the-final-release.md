@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0 Beta 4 released - approaching the final release
-permalink: /2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release
+permalink: /2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/07/28/quest-5-0-beta-4-released-approaching-the-final-release/
 ---

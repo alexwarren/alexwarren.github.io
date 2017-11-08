@@ -2,7 +2,7 @@
 layout: post
 title: >
     Squiffy 4 - interactive fiction editor for Windows, OS X and Linux
-permalink: /2015/07/11/squiffy-4-interactive-fiction-editor-for-windows-os-x-and-linux
+permalink: /2015/07/11/squiffy-4-interactive-fiction-editor-for-windows-os-x-and-linux/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/07/11/squiffy-4-interactive-fiction-editor-for-windows-os-x-and-linux/
 ---

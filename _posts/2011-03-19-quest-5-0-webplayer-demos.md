@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0 WebPlayer Demos
-permalink: /2011/03/19/quest-5-0-webplayer-demos
+permalink: /2011/03/19/quest-5-0-webplayer-demos/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/03/19/quest-5-0-webplayer-demos/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Summer is coming and I'm scared shitless
-permalink: /2007/04/13/summer-is-coming-and-im-scared-shitless
+permalink: /2007/04/13/summer-is-coming-and-im-scared-shitless/
 ---
 It's only mid-April and already the temperature is 20 degrees Celsius in London. This is quite a pleasant amount of heat for me. I can go outside without bothering to wear a coat, and I'm not likely to get sunburn or spontaneously vapourise.
 

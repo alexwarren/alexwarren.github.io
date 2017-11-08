@@ -2,7 +2,7 @@
 layout: post
 title: >
     How to fix a bug in Quest 5.0
-permalink: /2010/11/19/how-to-fix-a-bug-in-quest-5-0
+permalink: /2010/11/19/how-to-fix-a-bug-in-quest-5-0/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/11/19/how-to-fix-a-bug-in-quest-5-0/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0 Release Candidate 1
-permalink: /2011/08/04/quest-5-0-release-candidate-1
+permalink: /2011/08/04/quest-5-0-release-candidate-1/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/08/04/quest-5-0-release-candidate-1/
 ---

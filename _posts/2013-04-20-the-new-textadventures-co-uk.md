@@ -2,7 +2,7 @@
 layout: post
 title: >
     The new textadventures.co.uk
-permalink: /2013/04/20/the-new-textadventures-co-uk
+permalink: /2013/04/20/the-new-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/04/20/the-new-textadventures-co-uk/
 ---

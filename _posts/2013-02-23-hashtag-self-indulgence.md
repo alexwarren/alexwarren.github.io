@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hashtag self indulgence
-permalink: /2013/02/23/hashtag-self-indulgence
+permalink: /2013/02/23/hashtag-self-indulgence/
 ---
 What is bothering me about Twitter? And why do I imagine that anybody cares about the answer to that question?
 

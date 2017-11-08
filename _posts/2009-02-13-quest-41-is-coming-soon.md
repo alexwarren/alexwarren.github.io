@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 4.1 is coming soon
-permalink: /2009/02/13/quest-41-is-coming-soon
+permalink: /2009/02/13/quest-41-is-coming-soon/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2009/02/13/quest-41-is-coming-soon/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Improvements to textadventures.co.uk
-permalink: /2011/09/07/improvements-to-textadventures-co-uk
+permalink: /2011/09/07/improvements-to-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/09/07/improvements-to-textadventures-co-uk/
 ---

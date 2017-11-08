@@ -2,7 +2,7 @@
 layout: post
 title: >
     IFComp 2013 games released
-permalink: /2013/09/30/ifcomp-2013-games-released
+permalink: /2013/09/30/ifcomp-2013-games-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/09/30/ifcomp-2013-games-released/
 ---

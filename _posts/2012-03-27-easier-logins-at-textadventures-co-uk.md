@@ -2,7 +2,7 @@
 layout: post
 title: >
     Easier logins at textadventures.co.uk
-permalink: /2012/03/27/easier-logins-at-textadventures-co-uk
+permalink: /2012/03/27/easier-logins-at-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/27/easier-logins-at-textadventures-co-uk/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Gamebook mode ("Choose Your Own Adventure") in Quest 5.2
-permalink: /2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2
+permalink: /2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/
 ---

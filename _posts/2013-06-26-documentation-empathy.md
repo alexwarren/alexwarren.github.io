@@ -2,7 +2,7 @@
 layout: post
 title: >
     The secret of good documentation is empathy
-permalink: /2013/06/26/documentation-empathy
+permalink: /2013/06/26/documentation-empathy/
 ---
 Writing documentation is hard, but that's no reason to skimp on it if you want to run a successful software project. It's certainly one of my least favourite activities, and usually one I put off right until the last minute, but the existence of good documentation is often the deciding factor whenever I'm assessing whether to use some software.
 

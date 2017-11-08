@@ -2,7 +2,7 @@
 layout: post
 title: >
     Text adventure games are still new
-permalink: /2013/01/29/text-adventure-games-are-still-new
+permalink: /2013/01/29/text-adventure-games-are-still-new/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/01/29/text-adventure-games-are-still-new/
 ---

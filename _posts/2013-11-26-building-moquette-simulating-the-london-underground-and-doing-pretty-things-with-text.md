@@ -2,7 +2,7 @@
 layout: post
 title: >
     Building Moquette - Simulating the London Underground and Doing Pretty Things With Text
-permalink: /2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text
+permalink: /2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/11/26/building-moquette-simulating-the-london-underground-and-doing-pretty-things-with-text/
 ---

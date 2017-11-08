@@ -2,7 +2,7 @@
 layout: post
 title: >
     "The Things That Go Bump In The Night" coming to iPhone and Android
-permalink: /2011/11/29/the-things-that-go-bump-in-the-night-coming-to-iphone-and-android
+permalink: /2011/11/29/the-things-that-go-bump-in-the-night-coming-to-iphone-and-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/11/29/the-things-that-go-bump-in-the-night-coming-to-iphone-and-android/
 ---

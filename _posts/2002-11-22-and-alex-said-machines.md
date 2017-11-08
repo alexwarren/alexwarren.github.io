@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Machines
-permalink: /2002/11/22/and-alex-said-machines
+permalink: /2002/11/22/and-alex-said-machines/
 ---
 Column 7: Machines, 22nd November 2002
 

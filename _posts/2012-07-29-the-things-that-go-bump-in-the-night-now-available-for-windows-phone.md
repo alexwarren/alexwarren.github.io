@@ -2,7 +2,7 @@
 layout: post
 title: >
     "The Things That Go Bump In The Night" now available for Windows Phone
-permalink: /2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone
+permalink: /2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/07/29/the-things-that-go-bump-in-the-night-now-available-for-windows-phone/
 ---

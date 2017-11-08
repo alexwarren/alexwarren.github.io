@@ -2,7 +2,7 @@
 layout: post
 title: >
     "Play Online" now supports saving
-permalink: /2011/12/02/play-online-now-supports-saving
+permalink: /2011/12/02/play-online-now-supports-saving/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/12/02/play-online-now-supports-saving/
 ---

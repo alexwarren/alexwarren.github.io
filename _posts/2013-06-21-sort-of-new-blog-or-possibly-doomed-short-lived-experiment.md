@@ -2,7 +2,7 @@
 layout: post
 title: >
     Sort of new blog, or possibly doomed short-lived experiment
-permalink: /2013/06/21/sort-of-new-blog-or-possibly-doomed-short-lived-experiment
+permalink: /2013/06/21/sort-of-new-blog-or-possibly-doomed-short-lived-experiment/
 ---
 I've given my personal blog a shiny new theme and I've started posting some more stuff on it, as you may have seen.
 

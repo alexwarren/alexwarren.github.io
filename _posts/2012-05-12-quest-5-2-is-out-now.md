@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.2 is out now
-permalink: /2012/05/12/quest-5-2-is-out-now
+permalink: /2012/05/12/quest-5-2-is-out-now/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/05/12/quest-5-2-is-out-now/
 ---

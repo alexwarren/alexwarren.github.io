@@ -2,7 +2,7 @@
 layout: post
 title: >
     Making it easier to use text adventures and Quest in the classroom - ActiveLit
-permalink: /2013/05/15/making-it-easier-to-use-text-adventures-and-quest-in-the-classroom-activelit
+permalink: /2013/05/15/making-it-easier-to-use-text-adventures-and-quest-in-the-classroom-activelit/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/15/making-it-easier-to-use-text-adventures-and-quest-in-the-classroom-activelit/
 ---

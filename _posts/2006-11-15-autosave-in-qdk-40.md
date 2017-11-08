@@ -2,7 +2,7 @@
 layout: post
 title: >
     AutoSave in QDK 4.0
-permalink: /2006/11/15/autosave-in-qdk-40
+permalink: /2006/11/15/autosave-in-qdk-40/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/15/autosave-in-qdk-40/
 ---

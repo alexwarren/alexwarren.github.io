@@ -2,7 +2,7 @@
 layout: post
 title: >
     How am I doing? The Quest "Annual Review" 2012/13
-permalink: /2013/05/07/how-am-i-doing-the-quest-annual-review-201213
+permalink: /2013/05/07/how-am-i-doing-the-quest-annual-review-201213/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/07/how-am-i-doing-the-quest-annual-review-201213/
 ---

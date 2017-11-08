@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.3 Beta is now available
-permalink: /2012/12/03/quest-5-3-beta-is-now-available
+permalink: /2012/12/03/quest-5-3-beta-is-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/12/03/quest-5-3-beta-is-now-available/
 ---

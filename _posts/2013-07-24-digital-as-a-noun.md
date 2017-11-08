@@ -2,7 +2,7 @@
 layout: post
 title: >
     Digital as a noun
-permalink: /2013/07/24/digital-as-a-noun
+permalink: /2013/07/24/digital-as-a-noun/
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It seems &quot;digital&quot; is a word people in the &quot;culture&quot; sector use when they want to pretend they don&#39;t work in IT.</p>&mdash; Alex Warren (@alexwarren) <a href="https://twitter.com/alexwarren/status/359647596286980096">July 23, 2013</a></blockquote>

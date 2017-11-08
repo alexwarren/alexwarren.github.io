@@ -2,7 +2,7 @@
 layout: post
 title: >
     Off to Hong Kong next week!
-permalink: /2009/09/22/off-to-hong-kong-next-week
+permalink: /2009/09/22/off-to-hong-kong-next-week/
 ---
 I'm off to Hong Kong next Monday (28th September). I'm not particularly well-travelled - apart from a holiday in Mauritius seven years ago, I've never even left Europe, so it's a pretty exciting trip.
 

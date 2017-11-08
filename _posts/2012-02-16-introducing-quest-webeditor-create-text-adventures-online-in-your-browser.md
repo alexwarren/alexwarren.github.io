@@ -2,7 +2,7 @@
 layout: post
 title: >
     Introducing Quest WebEditor - create text adventures online in your browser
-permalink: /2012/02/16/introducing-quest-webeditor-create-text-adventures-online-in-your-browser
+permalink: /2012/02/16/introducing-quest-webeditor-create-text-adventures-online-in-your-browser/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/02/16/introducing-quest-webeditor-create-text-adventures-online-in-your-browser/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Moquette in the IFComp - Post-Mortem and Review Roundup
-permalink: /2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup
+permalink: /2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup/
 ---

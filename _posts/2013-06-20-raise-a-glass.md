@@ -2,7 +2,7 @@
 layout: post
 title: >
     Raise a glass
-permalink: /2013/06/20/raise-a-glass
+permalink: /2013/06/20/raise-a-glass/
 ---
 <a href="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-22972020">BBC News</a> reports on a 34-year-old woman being refused alcohol. Not normally news:
 <p style="padding-left:30px;"><em>The leader of the Scottish Conservatives was refused alcohol at a Bruce Springsteen concert - because the barman did not believe she was over 18.</em></p>

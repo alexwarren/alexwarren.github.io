@@ -2,7 +2,7 @@
 layout: post
 title: >
     Open-sourcing "Moquette"
-permalink: /2014/10/15/open-sourcing-moquette
+permalink: /2014/10/15/open-sourcing-moquette/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2014/10/15/open-sourcing-moquette/
 ---

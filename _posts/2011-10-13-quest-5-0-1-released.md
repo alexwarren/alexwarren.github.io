@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0.1 released
-permalink: /2011/10/13/quest-5-0-1-released
+permalink: /2011/10/13/quest-5-0-1-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/10/13/quest-5-0-1-released/
 ---

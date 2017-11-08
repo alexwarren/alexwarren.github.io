@@ -2,7 +2,7 @@
 layout: post
 title: >
     "Escape from Byron Bay" now available for iPhone and iPad
-permalink: /2012/12/05/escape-from-byron-bay-now-available-for-iphone-and-ipad
+permalink: /2012/12/05/escape-from-byron-bay-now-available-for-iphone-and-ipad/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/12/05/escape-from-byron-bay-now-available-for-iphone-and-ipad/
 ---

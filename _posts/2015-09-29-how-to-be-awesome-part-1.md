@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Be Awesome (Part 1)
-permalink: /2015/09/29/how-to-be-awesome
+permalink: /2015/09/29/how-to-be-awesome/
 source: stackoverflow
 sourceUrl: https://stackoverflow.blog/2015/09/29/how-to-be-awesome/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 7 - Buddhaland
-permalink: /2009/10/07/hong-kong-day-7-buddhaland
+permalink: /2009/10/07/hong-kong-day-7-buddhaland/
 ---
 Tuesday 6th October
 

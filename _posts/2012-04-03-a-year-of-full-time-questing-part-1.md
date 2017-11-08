@@ -2,7 +2,7 @@
 layout: post
 title: >
     A year of full-time Questing - Part 1
-permalink: /2012/04/03/a-year-of-full-time-questing-part-1
+permalink: /2012/04/03/a-year-of-full-time-questing-part-1/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/04/03/a-year-of-full-time-questing-part-1/
 ---

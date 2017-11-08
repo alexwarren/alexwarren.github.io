@@ -2,7 +2,7 @@
 layout: post
 title: >
     New free version of Visual Studio edits Quest source code
-permalink: /2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code
+permalink: /2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/09/18/new-free-version-of-visual-studio-edits-quest-source-code/
 ---

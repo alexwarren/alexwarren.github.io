@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said... Sleep
-permalink: /2007/10/29/and-alex-said-sleep
+permalink: /2007/10/29/and-alex-said-sleep/
 ---
 I'd love to be able to sleep all day. Well, not really all day - that's technically a coma. That would just upset my family, and I'd miss Dragon's Den.
 

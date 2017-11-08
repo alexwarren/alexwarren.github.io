@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming Gigs (updated)
-permalink: /2008/04/12/upcoming-gigs-3
+permalink: /2008/04/12/upcoming-gigs-3/
 ---
 Here are all the upcoming gigs I know about at the moment, so please come along if you can.
 

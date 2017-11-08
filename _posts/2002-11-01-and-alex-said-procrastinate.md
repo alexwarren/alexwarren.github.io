@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Procrastinate
-permalink: /2002/11/01/and-alex-said-procrastinate
+permalink: /2002/11/01/and-alex-said-procrastinate/
 ---
 Column 4: Procrastinate, 1st November 2002
 

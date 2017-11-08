@@ -2,7 +2,7 @@
 layout: post
 title: >
     Using Quest to create text adventures for iPhone, iPad, Android
-permalink: /2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android
+permalink: /2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.4 Text Processor - easier adaptive text and links
-permalink: /2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links
+permalink: /2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/27/quest-5-4-text-processor-easier-adaptive-text-and-links/
 ---

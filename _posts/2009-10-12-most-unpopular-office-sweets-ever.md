@@ -2,7 +2,7 @@
 layout: post
 title: >
     Most unpopular office sweets ever
-permalink: /2009/10/12/most-unpopular-office-sweets-ever
+permalink: /2009/10/12/most-unpopular-office-sweets-ever/
 ---
 When I was in Hong Kong I went to a shop called <a href="http://www.ajiichiban.com.hk/eng/index.php" target="_blank">Aji Ichiban</a> to pick up some sweets for the office.
 

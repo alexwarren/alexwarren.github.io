@@ -2,7 +2,7 @@
 layout: post
 title: >
     A year of full-time Questing, Part 2 - the Appraisal
-permalink: /2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal
+permalink: /2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal/
 ---

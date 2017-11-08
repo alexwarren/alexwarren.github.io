@@ -2,7 +2,7 @@
 layout: post
 title: >
     ActiveLit Launched - interactive fiction for schools and groups
-permalink: /2013/10/09/activelit-launched-interactive-fiction-for-schools-and-groups
+permalink: /2013/10/09/activelit-launched-interactive-fiction-for-schools-and-groups/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/10/09/activelit-launched-interactive-fiction-for-schools-and-groups/
 ---

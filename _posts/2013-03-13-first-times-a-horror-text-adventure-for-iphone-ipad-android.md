@@ -2,7 +2,7 @@
 layout: post
 title: >
     "First Times" - a horror text adventure for iPhone, iPad, Android
-permalink: /2013/03/13/first-times-a-horror-text-adventure-for-iphone-ipad-android
+permalink: /2013/03/13/first-times-a-horror-text-adventure-for-iphone-ipad-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/03/13/first-times-a-horror-text-adventure-for-iphone-ipad-android/
 ---

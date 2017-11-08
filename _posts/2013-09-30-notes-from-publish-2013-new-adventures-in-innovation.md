@@ -2,7 +2,7 @@
 layout: post
 title: >
     Notes from Publish! 2013 - New adventures in innovation
-permalink: /2013/09/30/notes-from-publish-2013-new-adventures-in-innovation
+permalink: /2013/09/30/notes-from-publish-2013-new-adventures-in-innovation/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/09/30/notes-from-publish-2013-new-adventures-in-innovation/
 ---

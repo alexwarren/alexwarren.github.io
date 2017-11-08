@@ -2,7 +2,7 @@
 layout: post
 title: >
     Time-limited puzzles
-permalink: /2012/02/27/time-limited-puzzles
+permalink: /2012/02/27/time-limited-puzzles/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/02/27/time-limited-puzzles/
 ---

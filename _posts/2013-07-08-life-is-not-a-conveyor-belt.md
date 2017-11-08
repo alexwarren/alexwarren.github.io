@@ -2,7 +2,7 @@
 layout: post
 title: >
     Life is not a conveyor belt
-permalink: /2013/07/08/life-is-not-a-conveyor-belt
+permalink: /2013/07/08/life-is-not-a-conveyor-belt/
 ---
 I think a major failing of the education system is that it gives kids an expectation that life is a series of levels. All you have to do is succeed at the current level, and then you'll be moved along to the next one.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Twitter - what is it good for?
-permalink: /2009/02/03/twitter-what-is-it-good-for
+permalink: /2009/02/03/twitter-what-is-it-good-for/
 ---
 In 1979, Gary Numan sang "You know I hate to ask... but <a href="http://uk.youtube.com/watch?v=-0WNbm1jz6A" target="_blank">are 'friends' electric</a>?". He was obviously making a very prescient point about the increasingly online and less personal nature of our social interactions thirty years into the future. Although to be honest, <a href="http://artists.letssingit.com/song-jbd5vk5" target="_blank">looking at the rest of the lyrics</a> he was probably just singing any old random bollocks that came into his head.
 

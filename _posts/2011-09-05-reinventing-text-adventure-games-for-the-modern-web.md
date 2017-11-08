@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reinventing text adventure games for the modern web
-permalink: /2011/09/05/reinventing-text-adventure-games-for-the-modern-web
+permalink: /2011/09/05/reinventing-text-adventure-games-for-the-modern-web/
 source: gamasutra
 sourceUrl: http://www.gamasutra.com/blogs/AlexWarren/20110905/90126/Reinventing_text_adventure_games_for_the_modern_web.php
 ---

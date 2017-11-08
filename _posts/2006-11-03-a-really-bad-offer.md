@@ -2,7 +2,7 @@
 layout: post
 title: >
     A really bad offer
-permalink: /2006/11/03/a-really-bad-offer
+permalink: /2006/11/03/a-really-bad-offer/
 ---
 This morning, while battling one of the worst hangovers I have experienced in a long while, I received this email:
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Experimenting with stories and text
-permalink: /2013/04/07/experimenting-with-stories-and-text
+permalink: /2013/04/07/experimenting-with-stories-and-text/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/04/07/experimenting-with-stories-and-text/
 ---

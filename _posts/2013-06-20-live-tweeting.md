@@ -2,7 +2,7 @@
 layout: post
 title: >
     Live tweeting
-permalink: /2013/06/20/live-tweeting
+permalink: /2013/06/20/live-tweeting/
 ---
 I was at an event the other evening, which had an official hashtag as any self-respecting event must these days.
 

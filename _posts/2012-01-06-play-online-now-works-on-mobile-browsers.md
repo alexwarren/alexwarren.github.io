@@ -2,7 +2,7 @@
 layout: post
 title: >
     "Play online" now works on mobile browsers
-permalink: /2012/01/06/play-online-now-works-on-mobile-browsers
+permalink: /2012/01/06/play-online-now-works-on-mobile-browsers/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/01/06/play-online-now-works-on-mobile-browsers/
 ---

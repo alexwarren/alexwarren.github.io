@@ -2,7 +2,7 @@
 layout: post
 title: >
     How am I doing? The Quest and textadventures.co.uk Annual Review 2013/14
-permalink: /2014/04/10/how-am-i-doing-the-quest-and-textadventures-co-uk-annual-review-201314
+permalink: /2014/04/10/how-am-i-doing-the-quest-and-textadventures-co-uk-annual-review-201314/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2014/04/10/how-am-i-doing-the-quest-and-textadventures-co-uk-annual-review-201314/
 ---

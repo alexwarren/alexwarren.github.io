@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0 is now open source
-permalink: /2010/10/18/quest-5-0-is-now-open-source
+permalink: /2010/10/18/quest-5-0-is-now-open-source/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/10/18/quest-5-0-is-now-open-source/
 ---

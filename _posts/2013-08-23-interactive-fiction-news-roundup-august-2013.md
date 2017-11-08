@@ -2,7 +2,7 @@
 layout: post
 title: >
     Interactive Fiction News Roundup, August 2013
-permalink: /2013/08/23/interactive-fiction-news-roundup-august-2013
+permalink: /2013/08/23/interactive-fiction-news-roundup-august-2013/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/08/23/interactive-fiction-news-roundup-august-2013/
 ---

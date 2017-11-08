@@ -2,7 +2,7 @@
 layout: post
 title: >
     Slicker hyperlinks in Quest 5.4
-permalink: /2013/02/28/slicker-hyperlinks-in-quest-5-4
+permalink: /2013/02/28/slicker-hyperlinks-in-quest-5-4/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/28/slicker-hyperlinks-in-quest-5-4/
 ---

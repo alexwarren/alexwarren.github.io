@@ -2,7 +2,7 @@
 layout: post
 title: >
     textadventures.co.uk migration - scheduled downtime on 20th April
-permalink: /2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april
+permalink: /2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/04/10/textadventures-co-uk-migration-scheduled-downtime-on-20th-april/
 ---

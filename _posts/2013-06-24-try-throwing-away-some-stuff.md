@@ -2,7 +2,7 @@
 layout: post
 title: >
     Try throwing away some stuff
-permalink: /2013/06/24/try-throwing-away-some-stuff
+permalink: /2013/06/24/try-throwing-away-some-stuff/
 ---
 Alex Kristofcak has an <a href="https://medium.com/p/2a7de6627c07">interesting idea</a>:
 <blockquote>To fight the plague of accumulating crap I came up with a business idea: after you sign up, you get an empty box in the mail with a paid return label every month. You fill it up with stuff you don’t need and send it back. You then get a $10 check.</blockquote>

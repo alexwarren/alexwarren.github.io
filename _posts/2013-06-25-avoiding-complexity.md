@@ -2,7 +2,7 @@
 layout: post
 title: >
     Preventing your software from descending into an abyss of complexity
-permalink: /2013/06/25/avoiding-complexity
+permalink: /2013/06/25/avoiding-complexity/
 ---
 Nice article by Kris Gale on the <a href="http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider">hidden costs of complexity</a> in software:
 <blockquote>Among the most dangerously unconsidered costs is what I've been calling complexity cost. Complexity cost is the debt you accrue by complicating features or technology in order to solve problems. An application that does twenty things is more difficult to refactor than an application that does one thing, so changes to its code will take longer.</blockquote>

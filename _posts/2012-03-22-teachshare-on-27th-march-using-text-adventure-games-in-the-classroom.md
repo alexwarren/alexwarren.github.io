@@ -2,7 +2,7 @@
 layout: post
 title: >
     TeachShare on 27th March: Using Text Adventure Games in the Classroom
-permalink: /2012/03/22/teachshare-on-27th-march-using-text-adventure-games-in-the-classroom
+permalink: /2012/03/22/teachshare-on-27th-march-using-text-adventure-games-in-the-classroom/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/22/teachshare-on-27th-march-using-text-adventure-games-in-the-classroom/
 ---

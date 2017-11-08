@@ -2,7 +2,7 @@
 layout: post
 title: >
     An overview of Quest 5.0
-permalink: /2010/01/30/an-overview-of-quest-5-0
+permalink: /2010/01/30/an-overview-of-quest-5-0/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/01/30/an-overview-of-quest-5-0/
 ---

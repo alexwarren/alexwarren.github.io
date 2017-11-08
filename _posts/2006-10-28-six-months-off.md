@@ -2,7 +2,7 @@
 layout: post
 title: >
     Six Months Off
-permalink: /2006/10/28/six-months-off
+permalink: /2006/10/28/six-months-off/
 ---
 I'm now officially on a six-month sabbatical, during which I'm going to try and grow my software business, <a href="http://www.axeuk.com/">Axe Software</a>. I also think it would be interesting to take up blogging properly so I'll be talking about my progress, maybe a bit on this blog but more officially on the <a href="http://www.axeuk.com/blog">Axe Software blog</a> which I've just set up.
 

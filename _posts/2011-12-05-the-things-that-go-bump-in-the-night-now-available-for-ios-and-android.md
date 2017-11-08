@@ -2,7 +2,7 @@
 layout: post
 title: >
     "The Things That Go Bump In The Night" now available for iOS and Android
-permalink: /2011/12/05/the-things-that-go-bump-in-the-night-now-available-for-ios-and-android
+permalink: /2011/12/05/the-things-that-go-bump-in-the-night-now-available-for-ios-and-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/12/05/the-things-that-go-bump-in-the-night-now-available-for-ios-and-android/
 ---

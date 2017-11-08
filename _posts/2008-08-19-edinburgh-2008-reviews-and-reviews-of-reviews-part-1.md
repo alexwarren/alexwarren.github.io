@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - Reviews, and Reviews of Reviews, Part 1
-permalink: /2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1
+permalink: /2008/08/19/edinburgh-2008-reviews-and-reviews-of-reviews-part-1/
 ---
 I'm going to try and write something about each of the 20 shows I saw at the Edinburgh Festival.
 

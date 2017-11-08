@@ -2,7 +2,7 @@
 layout: post
 title: >
     Glastonbury Festival 2007
-permalink: /2007/07/07/glastonbury-festival-2007
+permalink: /2007/07/07/glastonbury-festival-2007/
 ---
 This was my second Glastonbury festival. I first went <a href="/2005/06/29/glastonbury-2005">back in 2005</a>, and having survived the flooding of that year, I really thought we had seen the worst of what the Glastonbury weather could throw at us.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     The HTML interface in Quest 5.0
-permalink: /2010/02/19/the-html-interface-in-quest-5-0
+permalink: /2010/02/19/the-html-interface-in-quest-5-0/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/02/19/the-html-interface-in-quest-5-0/
 ---

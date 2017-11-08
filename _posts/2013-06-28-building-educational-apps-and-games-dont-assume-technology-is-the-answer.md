@@ -2,7 +2,7 @@
 layout: post
 title: >
     Building educational apps and games - don't assume technology is the answer
-permalink: /2013/06/28/building-educational-apps-and-games-dont-assume-technology-is-the-answer
+permalink: /2013/06/28/building-educational-apps-and-games-dont-assume-technology-is-the-answer/
 ---
 I was at this month's <a href="http://www.meetup.com/The-London-Educational-Games-Meetup-Group/">London Educational Games Meetup Group</a> (#LEGup) event earlier this week, where they were launching their new site <a href="http://edugameshub.com/">edugameshub</a>.
 

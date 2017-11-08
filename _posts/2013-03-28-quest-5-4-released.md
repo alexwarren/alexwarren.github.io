@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.4 released
-permalink: /2013/03/28/quest-5-4-released
+permalink: /2013/03/28/quest-5-4-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/03/28/quest-5-4-released/
 ---

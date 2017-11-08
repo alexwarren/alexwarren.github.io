@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest at Games Britannia
-permalink: /2012/07/04/quest-at-games-britannia
+permalink: /2012/07/04/quest-at-games-britannia/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/07/04/quest-at-games-britannia/
 ---

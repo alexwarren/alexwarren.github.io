@@ -2,7 +2,7 @@
 layout: post
 title: >
     Upcoming text adventure competitions
-permalink: /2012/07/09/upcoming-text-adventure-competitions
+permalink: /2012/07/09/upcoming-text-adventure-competitions/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/07/09/upcoming-text-adventure-competitions/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Edinburgh 2008 - the first few days
-permalink: /2008/08/12/edinburgh-2008-the-first-few-days
+permalink: /2008/08/12/edinburgh-2008-the-first-few-days/
 ---
 So we got to Edinburgh eventually on Saturday, despite the best efforts of the twunts who nicked the signalling cables at Grantham, thus royally screwing up the whole East Coast Main Line.
 

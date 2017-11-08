@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.4 Script Editor - showing you teh codez
-permalink: /2013/02/25/quest-5-4-script-editor-showing-you-teh-codez
+permalink: /2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/
 ---

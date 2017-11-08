@@ -2,7 +2,7 @@
 layout: post
 title: >
     Eliminating "Guess the Verb"
-permalink: /2011/07/11/eliminating-guess-the-verb
+permalink: /2011/07/11/eliminating-guess-the-verb/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/07/11/eliminating-guess-the-verb/
 ---

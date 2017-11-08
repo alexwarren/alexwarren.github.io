@@ -2,7 +2,7 @@
 layout: post
 title: >
     Inform hosting on textadventures.co.uk
-permalink: /2015/06/07/inform-hosting-on-textadventures-co-uk
+permalink: /2015/06/07/inform-hosting-on-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/06/07/inform-hosting-on-textadventures-co-uk/
 ---

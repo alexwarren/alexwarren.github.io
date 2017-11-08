@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.4 Beta is out now
-permalink: /2013/02/28/quest-5-4-beta-is-out-now
+permalink: /2013/02/28/quest-5-4-beta-is-out-now/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/28/quest-5-4-beta-is-out-now/
 ---

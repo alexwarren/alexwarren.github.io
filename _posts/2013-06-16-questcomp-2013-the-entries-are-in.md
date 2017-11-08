@@ -2,7 +2,7 @@
 layout: post
 title: >
     QuestComp 2013 - the entries are in!
-permalink: /2013/06/16/questcomp-2013-the-entries-are-in
+permalink: /2013/06/16/questcomp-2013-the-entries-are-in/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/06/16/questcomp-2013-the-entries-are-in/
 ---

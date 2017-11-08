@@ -2,7 +2,7 @@
 layout: post
 title: >
     Automatic mapping in Quest 5.3
-permalink: /2012/07/22/automatic-mapping-in-quest-5-3
+permalink: /2012/07/22/automatic-mapping-in-quest-5-3/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/07/22/automatic-mapping-in-quest-5-3/
 ---

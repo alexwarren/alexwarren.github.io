@@ -2,7 +2,7 @@
 layout: post
 title: >
     Teaching with text adventures
-permalink: /2011/07/27/teaching-with-text-adventures
+permalink: /2011/07/27/teaching-with-text-adventures/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/07/27/teaching-with-text-adventures/
 ---

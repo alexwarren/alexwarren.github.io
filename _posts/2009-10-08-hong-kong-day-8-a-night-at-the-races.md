@@ -2,7 +2,7 @@
 layout: post
 title: >
     Hong Kong Day 8 - A Night at the Races
-permalink: /2009/10/08/hong-kong-day-8-a-night-at-the-races
+permalink: /2009/10/08/hong-kong-day-8-a-night-at-the-races/
 ---
 Wednesday 7th October
 

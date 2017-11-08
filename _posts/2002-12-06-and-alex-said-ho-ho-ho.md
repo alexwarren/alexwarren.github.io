@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Ho Ho Ho!
-permalink: /2002/12/06/and-alex-said-ho-ho-ho
+permalink: /2002/12/06/and-alex-said-ho-ho-ho/
 ---
 Column 9: Ho Ho Ho!, 6th December 2002
 

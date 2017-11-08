@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest in Education - "Changing the Game" conference
-permalink: /2011/11/14/quest-in-education-changing-the-game-conference
+permalink: /2011/11/14/quest-in-education-changing-the-game-conference/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/11/14/quest-in-education-changing-the-game-conference/
 ---

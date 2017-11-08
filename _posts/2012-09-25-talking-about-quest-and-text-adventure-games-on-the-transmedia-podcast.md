@@ -2,7 +2,7 @@
 layout: post
 title: >
     Talking about Quest and text adventure games on The Transmedia Podcast
-permalink: /2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast
+permalink: /2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/09/25/talking-about-quest-and-text-adventure-games-on-the-transmedia-podcast/
 ---

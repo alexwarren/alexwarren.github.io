@@ -2,7 +2,7 @@
 layout: post
 title: >
     Quest 5.0 is out now
-permalink: /2011/08/30/quest-5-0-is-out-now
+permalink: /2011/08/30/quest-5-0-is-out-now/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/08/30/quest-5-0-is-out-now/
 ---

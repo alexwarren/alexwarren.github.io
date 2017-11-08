@@ -2,7 +2,7 @@
 layout: post
 title: >
     The future of digital stories - thoughts from the Futurebook Innovation Workshop 2013
-permalink: /2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013
+permalink: /2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/06/03/the-future-of-digital-stories-thoughts-from-the-futurebook-innovation-workshop-2013/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Squiffy 5 - an improved editing experience
-permalink: /2015/11/14/squiffy-5-an-improved-editing-experience
+permalink: /2015/11/14/squiffy-5-an-improved-editing-experience/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/11/14/squiffy-5-an-improved-editing-experience/
 ---

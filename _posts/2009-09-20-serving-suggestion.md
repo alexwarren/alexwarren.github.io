@@ -2,7 +2,7 @@
 layout: post
 title: >
     Serving Suggestion
-permalink: /2009/09/20/serving-suggestion
+permalink: /2009/09/20/serving-suggestion/
 ---
 I recently bought some Tesco Finest Handcooked Crisps, and I was rather impressed by the Serving Suggestion for the Lightly Salted flavour:
 

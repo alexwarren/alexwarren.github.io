@@ -2,7 +2,7 @@
 layout: post
 title: >
     Rejection
-permalink: /2008/02/01/rejection
+permalink: /2008/02/01/rejection/
 ---
 Plenty of comedy is about rejection, so I suppose I should look on the bright side of me dropping out of the Laughing Horse <span style="text-decoration:line-through;">Arbitrary</span> New Act of the Year Competition in the first round - it provides plenty of fuel for my comedy fire.
 

@@ -2,7 +2,7 @@
 layout: post
 title: >
     Starting a new chapter
-permalink: /2013/12/16/starting-a-new-chapter
+permalink: /2013/12/16/starting-a-new-chapter/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/12/16/starting-a-new-chapter/
 ---

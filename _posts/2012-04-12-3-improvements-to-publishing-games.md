@@ -2,7 +2,7 @@
 layout: post
 title: >
     3 Improvements to Publishing Games
-permalink: /2012/04/12/3-improvements-to-publishing-games
+permalink: /2012/04/12/3-improvements-to-publishing-games/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/04/12/3-improvements-to-publishing-games/
 ---

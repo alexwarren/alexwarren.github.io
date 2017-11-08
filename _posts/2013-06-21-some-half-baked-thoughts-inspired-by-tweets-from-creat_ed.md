@@ -2,7 +2,7 @@
 layout: post
 title: >
     Some half-baked thoughts inspired by tweets from #creat_ed
-permalink: /2013/06/21/some-half-baked-thoughts-inspired-by-tweets-from-creat_ed
+permalink: /2013/06/21/some-half-baked-thoughts-inspired-by-tweets-from-creat_ed/
 ---
 I'm not at the <a href="http://createduk.blogspot.co.uk/p/welcome.html">#creat_ed conference</a> today but I'm keeping an eye on the hashtag via Tweetdeck, while simultaneously working (plugging away a bit more on <a href="http://activelit.com">ActiveLit</a>).
 

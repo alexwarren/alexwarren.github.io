@@ -2,7 +2,7 @@
 layout: post
 title: >
     And Alex Said: Web
-permalink: /2003/02/28/and-alex-said-web
+permalink: /2003/02/28/and-alex-said-web/
 ---
 Column 17: Web, 28th February 2003
 

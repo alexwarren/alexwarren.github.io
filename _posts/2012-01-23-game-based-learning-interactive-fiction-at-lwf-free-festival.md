@@ -2,7 +2,7 @@
 layout: post
 title: >
     Game Based Learning - Interactive Fiction at LWF Free Festival
-permalink: /2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival
+permalink: /2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/01/23/game-based-learning-interactive-fiction-at-lwf-free-festival/
 ---

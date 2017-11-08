@@ -2,7 +2,7 @@
 layout: post
 title: >
     Meet the new textadventures.co.uk team
-permalink: /2017/01/11/meet-the-new-textadventures-co-uk-team
+permalink: /2017/01/11/meet-the-new-textadventures-co-uk-team/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2017/01/11/meet-the-new-textadventures-co-uk-team/
 ---

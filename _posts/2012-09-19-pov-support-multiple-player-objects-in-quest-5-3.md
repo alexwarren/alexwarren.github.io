@@ -2,7 +2,7 @@
 layout: post
 title: >
     POV support - multiple player objects in Quest 5.3
-permalink: /2012/09/19/pov-support-multiple-player-objects-in-quest-5-3
+permalink: /2012/09/19/pov-support-multiple-player-objects-in-quest-5-3/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/09/19/pov-support-multiple-player-objects-in-quest-5-3/
 ---
