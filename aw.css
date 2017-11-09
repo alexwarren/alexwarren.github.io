@@ -62,8 +62,22 @@ div.next {
 	text-align: right;
 }
 
-div.footer {
+footer {
 	margin-top: 3em;
+	font-size: 90%;
+	border-top: 1px solid #ccc;
+}
+
+footer ul {
+	padding: 0;
+}
+
+footer ul > li {
+	display: inline-block;
+}
+
+footer ul > li:not(:first-child):before {
+	content: " ・ ";
 }
 
 .text-muted {
