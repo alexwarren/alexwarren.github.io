@@ -5,4 +5,4 @@ slug: how-to-write-a-good-tech-job-listing
 location: Stack Overflow, London (Webinar)
 ---
 
-https://www.stackoverflowbusiness.com/uk/talent/resources/webinar-the-firm-engage-with-developers
+https://www.youtube.com/watch?v=J_7eeeFv6vE
