@@ -5,6 +5,8 @@ startyear: 1998
 endyear: 2017
 ---
 
+Quest is an open-source engine and editor for text adventure games, available as a web app and also as a Windows desktop app.
+
 - [Quest](http://textadventures.co.uk/quest)
 - [Source code](https://github.com/textadventures/quest)
 

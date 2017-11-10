@@ -17,8 +17,9 @@ I'm still building this site, but the main things here are:
 
 Here are some things which are elsewhere:
 
-- [Twitter](https://twitter.com/alexwarren)
-- [GitHub](https://github.com/alexwarren)
+- [Twitter: @alexwarren](https://twitter.com/alexwarren)
+- [GitHub: alexwarren](https://github.com/alexwarren)
 - [CV](http://stackoverflow.com/story/alexwarren)
+- [Stack Overflow profile](https://stackoverflow.com/users/31280/alex-warren)
 
 You can email me at <alex@alexwarren.uk>.

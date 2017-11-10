@@ -4,6 +4,8 @@ title: Moquette
 year: 2013
 ---
 
+An interactive fiction experience set on the London Underground.
+
 - [Moquette](http://textadventures.co.uk/games/view/zbzfpcnknu_vdjog-cbihw/moquette)
 - [Source code](https://github.com/alexwarren/moquette)
 - [Moquette in the IFComp - Post-Mortem and Review Roundup](/2013/11/19/moquette-in-the-ifcomp-post-mortem-and-review-roundup)

@@ -5,4 +5,4 @@ slug: employer-branding
 location: Stack Overflow, London (Webinar)
 ---
 
-https://www.youtube.com/watch?v=KyUpEk3Bjp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KyUpEk3Bjp4" frameborder="0" allowfullscreen></iframe>
