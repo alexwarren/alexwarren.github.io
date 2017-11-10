@@ -4,15 +4,15 @@
 
 body {
   margin: 0 auto;
-	max-width: 50em;
-	font-family: "Merriweather", Georgia, "Times New Roman", Times, serif;
-	line-height: 1.65;
-	padding: 0 1em;
-	color: #566b78;
+  max-width: 50em;
+  font-family: "Merriweather", Georgia, "Times New Roman", Times, serif;
+  line-height: 1.65;
+  padding: 0 1em;
+  color: #566b78;
 }
 
 strong, b {
-	color: #333;
+  color: #333;
 }
 
 h2 {
@@ -32,70 +32,70 @@ code {
 }
 
 pre {
-	padding: 1em;
-	border-left: 2px solid #69c;
+  padding: 1em;
+  border-left: 2px solid #69c;
 }
 
-a {
+a, a > strong, a > b {
   color: #e81c4f;
 }
 
 img {
-	max-width: 100%;
-	height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 span.date {
-	font-size: 90%;
-	margin: 0 6px;
+  font-size: 90%;
+  margin: 0 6px;
 }
 
 div.date {
-	font-size: 90%;
-	margin: 10px 0;
+  font-size: 90%;
+  margin: 10px 0;
 }
 
 div.post {
-	margin: 20px 0 40px;
+  margin: 20px 0 40px;
 }
 
 div.next {
-	text-align: right;
+  text-align: right;
 }
 
 footer {
-	margin-top: 3em;
-	font-size: 90%;
-	border-top: 1px solid #ccc;
+  margin-top: 3em;
+  font-size: 90%;
+  border-top: 1px solid #ccc;
 }
 
 footer ul {
-	padding: 0;
+  padding: 0;
 }
 
 footer ul > li {
-	display: inline-block;
+  display: inline-block;
 }
 
 footer ul > li:not(:first-child):before {
-	content: " ・ ";
+  content: " ・ ";
 }
 
 .text-muted {
-	font-size: 90%;
-	color: #aaa
+  font-size: 90%;
+  color: #aaa
 }
 
 nav ul {
-	padding: 2px;
-	background: #eee;
-	font-size: 80%;
+  padding: 2px;
+  background: #eee;
+  font-size: 80%;
 }
 
 nav ul > li {
-	display: inline-block;
+  display: inline-block;
 }
 
 nav ul > li:not(:first-child):before {
-	content: " / ";
+  content: " / ";
 }
