@@ -19,7 +19,8 @@ Here are some things which are elsewhere:
 
 - [Twitter: @alexwarren](https://twitter.com/alexwarren)
 - [GitHub: alexwarren](https://github.com/alexwarren)
-- [CV](http://stackoverflow.com/story/alexwarren)
+- [CV](https://stackoverflow.com/cv/alexwarren)
 - [Stack Overflow profile](https://stackoverflow.com/users/31280/alex-warren)
+- [LinkedIn profile](https://www.linkedin.com/in/alexwarren/)
 
 You can email me at <alex@alexwarren.uk>.
