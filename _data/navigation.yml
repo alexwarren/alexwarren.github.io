@@ -1,0 +1,11 @@
+- title: Home
+  url: /
+- title: Projects
+  url: /projects/
+  layout: project
+- title: Writing
+  url: /writing/
+  layout: post
+- title: Talks
+  url: /talks/
+  layout: talk

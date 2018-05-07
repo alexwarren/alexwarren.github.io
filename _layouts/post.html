@@ -2,41 +2,37 @@
 layout: page
 ---
 
-<nav>
-    <ul>
-        <li><a href="{{site.baseurl}}/">Home</a></li>
-        <li><a href="{{site.baseurl}}/writing/">Writing</a></li>
-        <li>{{page.title}}</li>
-    </ul>
-</nav>
+<div class="row justify-content-md-center">
+    <div class="col col-lg-9">
+        <h1>{{page.title}}</h1>
 
-<h1>{{page.title}}</h1>
-
-<div class="date">
-{{ page.date | date: "%-d %B %Y" }}
-</div>
-
-{% if page.source == "textadventures" %}
-<p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">textadventures.co.uk blog</a>.</p>
-{% elsif page.source == "stackoverflow" %}
-<p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">Stack Overflow blog</a>.</p>
-{% elsif page.source == "gamasutra" %}
-<p class="text-muted">This post was originally published on <a href="{{page.sourceUrl}}">Gamasutra</a>.</p>
-{% endif %}
-
-<div class="post">
-{{content}}
-</div>
-
-<div>
-    <div class="prev">
-        {% if page.previous %}
-        <a href="{{ page.previous.url }}">&lt; {{ page.previous.title }}</a>
+        <div class="date">
+        {{ page.date | date: "%-d %B %Y" }}
+        </div>
+        
+        {% if page.source == "textadventures" %}
+        <p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">textadventures.co.uk blog</a>.</p>
+        {% elsif page.source == "stackoverflow" %}
+        <p class="text-muted">This post was originally published on the <a href="{{page.sourceUrl}}">Stack Overflow blog</a>.</p>
+        {% elsif page.source == "gamasutra" %}
+        <p class="text-muted">This post was originally published on <a href="{{page.sourceUrl}}">Gamasutra</a>.</p>
         {% endif %}
-    </div>
-    <div class="next">
-        {% if page.next %}
-        <a href="{{ page.next.url }}">{{ page.next.title }} &gt;</a>
-        {% endif %}
+
+        <div class="post">
+            {{content}}
+        </div>
     </div>
 </div>
+
+<ul class="pagination justify-content-center">
+    {% if page.previous %}
+    <li class="page-item"><a class="page-link" href="{{ page.previous.url }}">Previous</a></li>
+    {% else %}
+    <li class="page-item disabled"><span class="page-link">Previous</span></li>
+    {% endif %}
+    {% if page.next %}
+    <li class="page-item"><a class="page-link" href="{{ page.next.url }}">Next</a></li>
+    {% else %}
+    <li class="page-item disabled"><span class="page-link">Next</span></li>
+    {% endif %}
+</ul>
