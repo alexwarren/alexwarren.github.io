@@ -2,6 +2,10 @@ body {
   padding-top: 4.5rem;
 }
 
+blockquote {
+  margin: 1em 40px;
+}
+
 code,
 pre {
   background: #f5f7f9;
