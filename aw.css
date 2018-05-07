@@ -1,23 +1,5 @@
-/* Based on http://jgthms.com/web-design-in-4-minutes/ */
-
-@import 'https://fonts.googleapis.com/css?family=Merriweather';
-
 body {
-  margin: 0 auto;
-  max-width: 50em;
-  font-family: "Merriweather", Georgia, "Times New Roman", Times, serif;
-  line-height: 1.65;
-  padding: 0 1em;
-  color: #566b78;
-}
-
-strong, b {
-  color: #333;
-}
-
-h2 {
-  margin-top: 1em;
-  padding-top: 1em;
+  padding-top: 4.5rem;
 }
 
 code,
@@ -34,10 +16,6 @@ code {
 pre {
   padding: 1em;
   border-left: 2px solid #69c;
-}
-
-a, a > strong, a > b {
-  color: #e81c4f;
 }
 
 img {
@@ -61,41 +39,4 @@ div.post {
 
 div.next {
   text-align: right;
-}
-
-footer {
-  margin-top: 3em;
-  font-size: 90%;
-  border-top: 1px solid #ccc;
-}
-
-footer ul {
-  padding: 0;
-}
-
-footer ul > li {
-  display: inline-block;
-}
-
-footer ul > li:not(:first-child):before {
-  content: " ・ ";
-}
-
-.text-muted {
-  font-size: 90%;
-  color: #aaa
-}
-
-nav ul {
-  padding: 2px;
-  background: #eee;
-  font-size: 80%;
-}
-
-nav ul > li {
-  display: inline-block;
-}
-
-nav ul > li:not(:first-child):before {
-  content: " / ";
 }
