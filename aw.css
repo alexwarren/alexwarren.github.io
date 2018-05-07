@@ -44,3 +44,14 @@ div.post {
 div.next {
   text-align: right;
 }
+
+.index-jumbotron {
+  background-image: url(/header.jpg);
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 20px black;
+}
+
+.index-jumbotron h1.display-4 {
+  font-weight: 500;
+}
