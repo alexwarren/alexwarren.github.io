@@ -40,7 +40,7 @@
                     {% assign links = site.data.navigation %}
                     {% for link in links %}
                         {% assign class = nil %}
-                        {% if page.url == link.url %}
+                        {% if page.url == link.url or page.layout == link.layout %}
                             {% assign class = 'active' %}
                         {% endif %}
                         <li class="nav-item {{ class }}">
