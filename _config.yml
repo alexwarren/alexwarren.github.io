@@ -4,8 +4,9 @@ collections:
   talks:
     output: true
     permalink: /talks/:title
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
 title: Alex Warren
 author: Alex Warren
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from

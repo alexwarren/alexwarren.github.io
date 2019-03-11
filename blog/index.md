@@ -1,9 +1,10 @@
 ---
 layout: index
-title: Writing
+title: Blog
+redirect_from: "/writing/"
 ---
 
-# Writing
+# Blog
 
 {% for post in site.posts %}
 {% assign currentdate = post.date | date: "%Y" %}

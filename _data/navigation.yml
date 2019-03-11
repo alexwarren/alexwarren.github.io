@@ -1,11 +1,11 @@
 - title: Home
   url: /
-- title: Projects
-  url: /projects/
-  layout: project
-- title: Writing
-  url: /writing/
+- title: Blog
+  url: /blog/
   layout: post
 - title: Talks
   url: /talks/
   layout: talk
+- title: Projects
+  url: /projects/
+  layout: project
