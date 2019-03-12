@@ -32,7 +32,8 @@ Hello! I am Alex Warren, and I am a developer. I currently work at [Trainline](h
             <div class="card-body h-100">
                 <h5 class="card-title"><a href="/talks">Talks</a></h5>
                 <ul>
-                {% for post in site.talks reversed limit:3 %}
+                {% assign talks = site.talks | reverse %}
+                {% for post in talks limit:3 %}
                 <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
