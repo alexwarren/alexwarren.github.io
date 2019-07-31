@@ -7,8 +7,6 @@ title: Alex Warren
     <h1 class="display-4">Alex Warren</h1>
 </div>
 
-Hello! I am Alex Warren, and I am a developer. I currently work at [Trainline](https://www.thetrainline.com/) as a team lead. Previously I worked at [Stack Overflow](https://stackoverflow.com) as a full-stack web developer, and before that I built [textadventures.co.uk](http://textadventures.co.uk) and the [Quest](https://github.com/textadventures/quest) text adventure engine.
-
 <div class="row mb-5">
     <div class="col-md">
         <div class="card h-100 shadow">
