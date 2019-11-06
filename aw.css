@@ -2,6 +2,10 @@ body {
   padding-top: 4.5rem;
 }
 
+div.post ul {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
 blockquote {
   margin: 1em 40px;
 }
