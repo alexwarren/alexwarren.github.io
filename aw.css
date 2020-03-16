@@ -2,6 +2,12 @@ body {
   padding-top: 4.5rem;
 }
 
+@media (min-width: 1200px) {
+  .container {
+      max-width: 960px;
+  }
+}
+
 div.post ul, div.post blockquote {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
 }
