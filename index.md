@@ -7,58 +7,17 @@ title: Alex Warren
     <h1 class="display-4">Alex Warren</h1>
 </div>
 
-<div class="row mb-5">
-    <div class="col-md">
-        <div class="card h-100 shadow">
-            <div class="card-body h-100">
-                <h5 class="card-title"><a href="/blog">Blog</a></h5>
-                <ul>
-                {% for post in site.posts limit:3 %}
-                <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-                {% endfor %}
-                </ul>
-            </div>
-            <div class="card-body">
-                <a href="/blog" class="btn btn-primary">More Posts...</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-md">
-        <div class="card h-100 shadow">
-            <div class="card-body h-100">
-                <h5 class="card-title"><a href="/talks">Talks</a></h5>
-                <ul>
-                {% assign talks = site.talks | reverse %}
-                {% for post in talks limit:3 %}
-                <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-                {% endfor %}
-                </ul>
-            </div>
-            <div class="card-body">
-                <a href="/talks" class="btn btn-primary">More Talks...</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-md">
-        <div class="card h-100 shadow">
-            <div class="card-body h-100">
-                <h5 class="card-title"><a href="/projects">Projects</a></h5>
-                <ul>
-                    <li><a href="/projects/quest">Quest</a></li>
-                    <li><a href="/projects/squiffy">Squiffy</a></li>
-                    <li><a href="/projects/textadventures">textadventures.co.uk</a></li>
-                </ul>
-            </div>
-            <div class="card-body">
-                <a href="/projects" class="btn btn-primary">More Projects...</a>
-            </div>
-        </div>
-    </div>
-</div>
+## Recent Posts
+
+<ul>
+{% for post in site.posts limit:5 %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
+
+[More Posts...](/blog)
 
 ## Other Links
 
