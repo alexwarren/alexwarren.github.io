@@ -2,12 +2,6 @@ body {
   padding-top: 4.5rem;
 }
 
-@media (min-width: 1200px) {
-  .container {
-      max-width: 960px;
-  }
-}
-
 div.content ul, div.content blockquote {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
 }
@@ -60,10 +54,12 @@ div.next {
 }
 
 .index-jumbotron {
-  background-image: url(/header.jpg);
+  background-image: url(/markus-spiske-qjnAnF0jIGk-unsplash.jpg);
   background-size: cover;
   color: white;
   text-shadow: 1px 1px 20px black;
+  margin-top: -1rem;
+  border-radius: 0;
 }
 
 .index-jumbotron h1.display-4 {
@@ -74,8 +70,34 @@ div.next {
   flex-direction: row;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767.98px) {
   .nav-flex-icons .nav-item {
     padding: 6px;
   }
+}
+
+.sidebar {
+  font-size: 90%;
+}
+
+@media (min-width: 768px) {
+  .sidebar {
+    padding-left: 20px;
+  }
+  .sidebar hr {
+    display: none;
+  }
+}
+
+.sidebar h2 {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #a0a0a0;
+  margin-top: 10px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+  margin-bottom: 20px;
 }

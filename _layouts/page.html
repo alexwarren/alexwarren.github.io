@@ -61,16 +61,42 @@
             </div>
         </div>
     </nav>
+    {% if page.url == "/" %}
+    <div class="jumbotron index-jumbotron">
+        <div class="container">
+            <h1 class="display-4">Alex Warren</h1>
+        </div>
+    </div>
+    {% endif %}
     <div class="container">
-        {{content}}
+        <div class="row">
+            <div class="col-md">
+            {{content}}
+            </div>
+            <div class="col col-md-3 sidebar">
+                <hr>
+                <h2>My Sites</h2>
+                <ul>
+                    <li><a href="https://techdebtguide.com/">Technical Debt Guide</a></li>
+                    <li><a href="https://keehar.com/">Keehar</a></li>
+                </ul>
+
+                <h2>Contact</h2>
+                <ul>
+                    <li>Email <a href="mailto:alex@alexwarren.uk">alex@alexwarren.uk</a></li>
+                    <li>Twitter <a href="https://twitter.com/alexwarren">@alexwarren</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 
-    <hr>
-
     <div class="container footer">
+        <hr>
+        {% if page.url == "/" %}
         <div>
-            Email me at <a href="mailto:alex@alexwarren.uk">alex@alexwarren.uk</a> or follow me on Twitter <a href="https://twitter.com/alexwarren">@alexwarren</a>.
+            Photo by Markus Spiske on Unsplash
         </div>
+        {% endif %}
         <div>
             &copy; Alex Warren {{ site.time | date: '%Y' }}
         </div>
