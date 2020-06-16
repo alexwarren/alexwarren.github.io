@@ -5,6 +5,7 @@ title: >
 permalink: /2013/10/09/activelit-launched-interactive-fiction-for-schools-and-groups/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/10/09/activelit-launched-interactive-fiction-for-schools-and-groups/
+tags: ActiveLit
 ---
 After several months of beta, we have now launched our new service <a href="http://activelit.com">ActiveLit</a>. Many thanks to all of you who have signed up and given us your feedback so far.
 

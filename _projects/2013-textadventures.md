@@ -1,9 +1,9 @@
 ---
 layout: project
-title: textadventures.co.uk (v1)
-startyear: 2007
-endyear: 2013
-permalink: /projects/textadventures-v1
+title: textadventures.co.uk
+startyear: 2013
+endyear: 2017
+permalink: /projects/textadventures
 ---
 
 A site where users can create, download, share, review and comment on text adventure games.

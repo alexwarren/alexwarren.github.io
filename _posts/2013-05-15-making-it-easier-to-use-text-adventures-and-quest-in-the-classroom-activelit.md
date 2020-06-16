@@ -5,6 +5,7 @@ title: >
 permalink: /2013/05/15/making-it-easier-to-use-text-adventures-and-quest-in-the-classroom-activelit/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/15/making-it-easier-to-use-text-adventures-and-quest-in-the-classroom-activelit/
+tags: ActiveLit
 ---
 Recently, more and more teachers are starting to use Quest and text adventure games with their classes. Some teachers have used text-based games to inspire children to read; others use it as an introduction to programming; others get their students to create games around a set historical theme.
 
