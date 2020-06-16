@@ -89,6 +89,12 @@ div.next {
   }
 }
 
+@media (max-width: 767.98px) {
+  .img-thumbnail {
+    max-width: 200px;
+  }
+}
+
 .sidebar h2 {
   font-size: 1rem;
   font-weight: normal;
