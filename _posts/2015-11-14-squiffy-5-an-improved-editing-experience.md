@@ -5,6 +5,7 @@ title: >
 permalink: /2015/11/14/squiffy-5-an-improved-editing-experience/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/11/14/squiffy-5-an-improved-editing-experience/
+tags: Squiffy
 ---
 Squiffy 5 is now available - you can use it <a href="http://textadventures.co.uk/squiffy/editor">in your web browser</a>, or download it for <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.Windows.exe">Windows</a>, <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.OS.X.dmg">OS X</a> and <a href="https://github.com/textadventures/squiffy-editor/releases/download/v5.0/Squiffy.5.0.Linux.zip">Linux</a>.
 

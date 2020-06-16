@@ -16,3 +16,19 @@ layout: page
 <div class="post content">
 {{content}}
 </div>
+
+
+{% if page.tag %}
+Posts:
+
+<ul>
+{% for post in site.posts %}
+{% if post.tags contains page.tag %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+<span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+{% endif %}

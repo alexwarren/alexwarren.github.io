@@ -5,6 +5,7 @@ title: >
 permalink: /2015/07/11/squiffy-4-interactive-fiction-editor-for-windows-os-x-and-linux/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/07/11/squiffy-4-interactive-fiction-editor-for-windows-os-x-and-linux/
+tags: Squiffy
 ---
 <a href="http://textadventures.co.uk/squiffy">Squiffy 4 is now available</a>. This release brings the editor to Windows, OS X and Linux, so you can now create and edit games offline.
 
