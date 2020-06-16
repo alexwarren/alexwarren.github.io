@@ -99,13 +99,19 @@ div.next {
   font-size: 1rem;
   font-weight: normal;
   color: #a0a0a0;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .sidebar ul {
   list-style-type: none;
   padding-inline-start: 0;
   margin-bottom: 20px;
+}
+
+.sidebar ul li {
+  border-bottom: 1px dotted #e0e0e0;
+  padding-bottom: 2px;
+  margin-bottom: 8px;
 }
 
 h2 a {

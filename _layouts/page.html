@@ -82,6 +82,13 @@
                     <li><a href="https://keehar.com/">Keehar</a></li>
                 </ul>
 
+                <h2>Recent Posts</h2>
+                <ul>
+                {% for post in site.posts limit:5 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+                </ul>
+
                 <h2>Contact</h2>
                 <ul>
                     <li>Email <a href="mailto:alex@alexwarren.uk">alex@alexwarren.uk</a></li>
