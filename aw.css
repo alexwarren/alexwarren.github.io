@@ -69,3 +69,13 @@ div.next {
 .index-jumbotron h1.display-4 {
   font-weight: 500;
 }
+
+.nav-flex-icons {
+  flex-direction: row;
+}
+
+@media (max-width: 767px) {
+  .nav-flex-icons .nav-item {
+    padding: 6px;
+  }
+}

@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="/bootstrap.min.css">
     <title>{{page.title}}</title>
     <link rel="stylesheet" href="/aw.css">
+    <link rel="stylesheet" href="/fontawesome.min.css">
     {% feed_meta %}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -50,6 +51,13 @@
                         </li>
                     {% endfor %}
                 </ul>
+                <ul class="navbar-nav ml-auto nav-flex-icons">
+                    <li class="nav-item"><a class="nav-link" href="https://twitter.com/alexwarren"><i class="fab fa-twitter"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/alexwarren/"><i class="fab fa-linkedin"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/alexwarren"><i class="fab fa-github"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://stackoverflow.com/users/31280/alex-warren"><i class="fab fa-stack-overflow"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="mailto:alex@alexwarren.uk"><i class="fas fa-envelope"></i></a></li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -60,14 +68,12 @@
     <hr>
 
     <div class="container footer">
-        <div class="row mb-5">
-            <div class="col-md">
-                Follow me on Twitter <a href="https://twitter.com/alexwarren">@alexwarren</a>
-            </div>
-            <div class="col-md text-right">
-                &copy; Alex Warren {{ site.time | date: '%Y' }}
-            </div>
-        </div>  
+        <div>
+            Email me at <a href="mailto:alex@alexwarren.uk">alex@alexwarren.uk</a> or follow me on Twitter <a href="https://twitter.com/alexwarren">@alexwarren</a>.
+        </div>
+        <div>
+            &copy; Alex Warren {{ site.time | date: '%Y' }}
+        </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
