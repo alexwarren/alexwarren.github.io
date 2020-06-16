@@ -8,3 +8,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 paginate: 5
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title

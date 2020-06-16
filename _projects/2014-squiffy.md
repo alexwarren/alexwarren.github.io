@@ -3,6 +3,7 @@ layout: project
 title: Squiffy
 startyear: 2014
 endyear: 2017
+permalink: /projects/squiffy
 ---
 
 A simplified multiple choice interactive fiction tool, available as a web app and as a cross-platform desktop application.

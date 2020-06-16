@@ -28,10 +28,10 @@ title: Projects
     </div>
 </div>
 
-
-- [Quest](quest)
-- [Squiffy](squiffy)
-- [textadventures.co.uk](textadventures)
-- [ActiveLit](activelit)
-- [Moquette](moquette)
-- [Southern Reach: Training and Recruitment](southern-reach)
+<div>
+<ul>
+{% for project in site.projects reversed %}
+<li><a href="{{project.url}}">{{ project.title }}</a></li>
+{% endfor %}
+</ul>
+</div>

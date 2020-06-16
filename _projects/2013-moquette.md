@@ -2,6 +2,7 @@
 layout: project
 title: Moquette
 year: 2013
+permalink: /projects/moquette
 ---
 
 An interactive fiction experience set on the London Underground.
