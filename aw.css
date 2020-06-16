@@ -8,7 +8,7 @@ body {
   }
 }
 
-div.post ul, div.post blockquote {
+div.content ul, div.content blockquote {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
@@ -44,7 +44,11 @@ span.date {
 
 div.date {
   font-size: 90%;
-  margin: 10px 0;
+  line-height: 20px;
+}
+
+div.post-header {
+  margin: 20px 0;
 }
 
 div.post {

@@ -1,0 +1,31 @@
+---
+layout: list
+title: Alex Warren
+---
+
+<div class="jumbotron index-jumbotron">
+    <h1 class="display-4">Alex Warren</h1>
+</div>
+
+<h2>Recent Posts</h2>
+
+<ul>
+{% for post in site.posts limit:5 %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
+
+<a href="/blog">More Posts...</a>
+
+<h2>Other Links</h2>
+
+<ul>
+<li><a href="https://twitter.com/alexwarren">Twitter: @alexwarren</a></li>
+<li><a href="https://github.com/alexwarren">GitHub: alexwarren</a></li>
+<li><a href="https://stackoverflow.com/users/31280/alex-warren">Stack Overflow profile</a></li>
+<li><a href="https://www.linkedin.com/in/alexwarren/">LinkedIn profile</a> and <a href="https://stackoverflow.com/cv/alexwarren">CV</a></li>
+</ul>
+
+You can email me at <a href="mailto:alex@alexwarren.uk">alex@alexwarren.uk</a>.

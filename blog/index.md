@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: list
 title: Blog
 redirect_from: "/writing/"
 ---

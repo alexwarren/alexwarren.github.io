@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: list
 title: Projects
 ---
 
@@ -13,8 +13,8 @@ title: Projects
             </div>
             <div class="card-body h-100">
                 <h5 class="card-title"><a href="quest">Quest</a></h5>
-                <p class="card-text">A text adventure game system for the web and Windows</p>
-                <p class="card-text">
+                <div class="card-text">A text adventure game system for the web and Windows</div>
+                <div class="card-text">
                     <span class="badge badge-success">Open source</span>
                     <span class="badge badge-primary">C#</span>
                     <span class="badge badge-primary">ASP.NET MVC</span>
@@ -22,7 +22,7 @@ title: Projects
                     <span class="badge badge-primary">WinForms</span>
                     <span class="badge badge-primary">WPF</span>
                     <span class="badge badge-primary">JQuery</span>
-                </p>
+                </div>
             </div>
         </div>
     </div>
