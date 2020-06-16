@@ -107,3 +107,11 @@ div.next {
   padding-inline-start: 0;
   margin-bottom: 20px;
 }
+
+h2 a {
+  color: inherit;
+}
+
+.more-posts {
+  margin: 20px 0;
+}

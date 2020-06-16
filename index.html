@@ -3,14 +3,20 @@ layout: list
 title: Alex Warren
 ---
 
-<h2>Recent Posts</h2>
-
-<ul>
 {% for post in site.posts limit:5 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-</ul>
 
-<a href="/blog">More Posts...</a>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+<div class="post-header">
+    <div class="date">
+    {{ post.date | date: "%-d %B %Y" }}
+    </div>
+</div>
+
+<div class="post content">
+    {{post.content}}
+</div>
+
+{% endfor %}
+
+<a class="btn btn-primary more-posts" href="/blog">More Posts...</a>
