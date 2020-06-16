@@ -1,12 +1,10 @@
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title
-collections:
-  talks:
-    output: true
-    permalink: /talks/:title
 title: Alex Warren
 author: Alex Warren
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-paginate
+paginate: 5

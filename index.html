@@ -3,7 +3,7 @@ layout: list
 title: Alex Warren
 ---
 
-{% for post in site.posts limit:5 %}
+{% for post in paginator.posts %}
 
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
@@ -17,6 +17,21 @@ title: Alex Warren
     {{post.content}}
 </div>
 
+<hr>
+
 {% endfor %}
 
-<a class="btn btn-primary more-posts" href="/blog">More Posts...</a>
+<ul class="pagination justify-content-center">
+    {% if paginator.previous_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a></li>
+    {% else %}
+    <li class="page-item disabled"><span class="page-link">Previous</span></li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next</a></li>
+    {% else %}
+    <li class="page-item disabled"><span class="page-link">Next</span></li>
+    {% endif %}
+</ul>
+
+<a class="btn btn-primary more-posts" href="/blog">All Posts</a>
