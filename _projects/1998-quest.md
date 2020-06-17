@@ -376,7 +376,7 @@ A full release history from Quest's `versions.txt`:
         it with braces, e.g.:
             msg <2 + 2 = {2+2}>	returns "2 + 2 = 4"
             msg <In 5 years, you will be {% raw %}{%age% + 5}{% endraw %}>
-        Use {{ and }} if you actually want to print a brace character.
+        Use {% raw %}{{ and }}{% endraw %} if you actually want to print a brace character.
         - Added STDVERBS.LIB, which adds default responses to a number of
         common commands.
         - Quest's parser will now accept abbreviated object names, e.g. you
