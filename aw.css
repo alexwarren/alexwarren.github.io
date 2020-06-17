@@ -13,12 +13,15 @@ blockquote {
 code,
 pre {
   background: #f5f7f9;
-  border-bottom: 1px solid #d8dee9;
+}
+
+code,
+pre {
+  background: #f5f7f9;
 }
 
 code {
   padding: 2px 4px;
-  vertical-align: text-bottom;
 }
 
 pre {
