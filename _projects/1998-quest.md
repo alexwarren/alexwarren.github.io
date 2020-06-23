@@ -4,6 +4,7 @@ title: Quest (versions 1 to 4)
 startyear: 1998
 endyear: 2010
 permalink: /projects/quest-versions-1-to-4
+logo: quest.png
 ---
 
 History of Quest:

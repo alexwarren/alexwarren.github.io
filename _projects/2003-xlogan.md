@@ -4,6 +4,7 @@ title: Xlogan
 startyear: 2003
 endyear: 2010
 permalink: /projects/xlogan
+logo: xlogan.png
 ---
 
 ![](/images/projects/screenshots/xlogan1.png)

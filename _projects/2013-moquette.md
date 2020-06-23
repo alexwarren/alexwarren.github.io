@@ -4,6 +4,7 @@ title: Moquette
 year: 2013
 permalink: /projects/moquette
 tag: Moquette
+logo: moquette.jpg
 ---
 
 An interactive fiction experience set on the London Underground.

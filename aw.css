@@ -129,3 +129,13 @@ h2 a {
 iframe {
   max-width: 100%;
 }
+
+.project-logo {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.project-logo img {
+  max-height: 100px;
+  max-width: 80%;
+}
