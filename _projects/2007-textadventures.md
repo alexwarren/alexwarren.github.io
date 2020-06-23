@@ -5,8 +5,14 @@ startyear: 2007
 endyear: 2013
 permalink: /projects/textadventures-v1
 logo: textadventures.png
+techtags:
+    - PHP
+    - MySQL
+    - JavaScript
+    - WordPress
+description: A place to play, share and review text adventure games
 ---
 
-A site where users can create, download, share, review and comment on text adventure games.
+A site where users can download, share, review and comment on text adventure games.
 
 [textadventures.co.uk](http://textadventures.co.uk)

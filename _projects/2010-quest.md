@@ -6,13 +6,12 @@ endyear: 2017
 permalink: /projects/quest
 description: A text adventure game system for the web and Windows
 techtags:
-    - Open source
     - C#
     - ASP.NET MVC
     - JavaScript
     - WinForms
     - WPF
-    - JQuery
+    - jQuery
 logo: quest.png
 ---
 

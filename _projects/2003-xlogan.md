@@ -5,6 +5,9 @@ startyear: 2003
 endyear: 2010
 permalink: /projects/xlogan
 logo: xlogan.png
+techtags:
+        - VB6
+description: A website log file analyser
 ---
 
 ![](/images/projects/screenshots/xlogan1.png)

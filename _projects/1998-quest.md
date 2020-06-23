@@ -5,6 +5,9 @@ startyear: 1998
 endyear: 2010
 permalink: /projects/quest-versions-1-to-4
 logo: quest.png
+techtags:
+    - VB6
+description: A text adventure game system for Windows
 ---
 
 History of Quest:

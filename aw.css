@@ -139,3 +139,12 @@ iframe {
   max-height: 100px;
   max-width: 80%;
 }
+
+.project-tags {
+  line-height: 200%;
+}
+
+.project-date {
+  font-size: 80%;
+  padding-bottom: 14px;
+}
