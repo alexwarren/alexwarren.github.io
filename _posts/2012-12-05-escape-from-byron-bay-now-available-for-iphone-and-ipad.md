@@ -5,6 +5,7 @@ title: >
 permalink: /2012/12/05/escape-from-byron-bay-now-available-for-iphone-and-ipad/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/12/05/escape-from-byron-bay-now-available-for-iphone-and-ipad/
+tags: [Quest Apps]
 ---
 The text adventure game <a href="http://www.textadventures.co.uk/review/450/">Escape From Byron Bay</a> is now on the App Store.
 

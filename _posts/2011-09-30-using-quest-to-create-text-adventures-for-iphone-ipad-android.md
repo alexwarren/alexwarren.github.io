@@ -5,6 +5,7 @@ title: >
 permalink: /2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/09/30/using-quest-to-create-text-adventures-for-iphone-ipad-android/
+tags: [Quest Apps]
 ---
 You can already use Quest to create text adventure games for desktop PCs and web browsers. But the big area of growth for games (and indeed software of all types) in recent years has been smartphones, and I'm pleased to report that I am making good progress in bringing Quest games to the iPhone.
 

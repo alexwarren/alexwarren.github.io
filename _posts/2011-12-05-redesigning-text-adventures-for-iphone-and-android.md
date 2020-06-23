@@ -4,6 +4,7 @@ title: Redesigning text adventures for iPhone and Android
 permalink: /2011/12/05/redesigning-text-adventures-for-iphone-and-android/
 source: gamasutra
 sourceUrl: http://www.gamasutra.com/blogs/AlexWarren/20111205/90742/Redesigning_text_adventures_for_iPhone_and_Android.php
+tags: [Quest Apps]
 ---
 
 <p>"The Things That Go Bump In The Night" is the first text adventure game specifically designed for smartphones, and is now available in both the <a href="http://itunes.apple.com/us/app/the-things-that-go-bump-in/id483544547?ls=1&mt=8">App Store</a> for iOS and the <a href="https://market.android.com/details?id=com.axeuk.android.bump">Android Market</a>.<br />

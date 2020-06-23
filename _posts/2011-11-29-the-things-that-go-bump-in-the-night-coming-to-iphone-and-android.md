@@ -5,6 +5,7 @@ title: >
 permalink: /2011/11/29/the-things-that-go-bump-in-the-night-coming-to-iphone-and-android/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/11/29/the-things-that-go-bump-in-the-night-coming-to-iphone-and-android/
+tags: [Quest Apps]
 ---
 The first Quest-powered smartphone app will be released soon. It is an updated version of Tim Hamilton's <a href="http://www.textadventures.co.uk/review/346/">The Things That Go Bump In The Night</a>, currently one of the top-rated games on <a title="Home" href="http://www.textadventures.co.uk/">textadventures.co.uk</a>, and will be available for both iPhone/iPod Touch and Android devices.
 
