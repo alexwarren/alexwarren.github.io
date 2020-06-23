@@ -125,3 +125,7 @@ h2 a {
 .more-posts {
   margin: 20px 0;
 }
+
+iframe {
+  max-width: 100%;
+}
