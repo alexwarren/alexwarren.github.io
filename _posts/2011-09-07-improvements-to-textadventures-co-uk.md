@@ -5,6 +5,7 @@ title: >
 permalink: /2011/09/07/improvements-to-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/09/07/improvements-to-textadventures-co-uk/
+tag: [textadventures.co.uk v1]
 ---
 As well as making Quest a great system to create text adventure games, I want to make <a href="http://www.textadventures.co.uk/">textadventures.co.uk</a> a great place to host them. It started out as the very basic "Quest Games Archive" many years ago, and has had various improvements since then - "play online" support and the addition of categories, for example.
 
@@ -36,8 +37,8 @@ You can also now specify a language. This isn't really used anywhere at the mome
 
 This is just the beginning of improving the site - there are a few more things on my list still to come:
 <ul>
-	<li><span class="Apple-style-span" style="line-height:19px;">an area on the site for libraries</span></li>
-	<li><span class="Apple-style-span" style="line-height:19px;">support for "cover art"</span></li>
-	<li><span class="Apple-style-span" style="line-height:19px;">private games</span></li>
+	<li>an area on the site for libraries</li>
+	<li>support for "cover art"</li>
+	<li>private games</li>
 </ul>
-<div><span class="Apple-style-span" style="line-height:19px;">I'm grateful for any feedback! Any suggestions for making the site better are more than welcome.</span></div>
+I'm grateful for any feedback! Any suggestions for making the site better are more than welcome.

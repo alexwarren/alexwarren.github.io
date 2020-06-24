@@ -5,6 +5,7 @@ title: >
 permalink: /2011/04/28/new-quest-and-textadventures-co-uk-websites/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/04/28/new-quest-and-textadventures-co-uk-websites/
+tag: [textadventures.co.uk v1]
 ---
 I have reworked the <a href="http://www.textadventures.co.uk/">textadventures.co.uk</a> website - it still works in much the same way as before, but it's now got a fresh new look. Please take a look and let me know what you think, and if anything's broken!
 

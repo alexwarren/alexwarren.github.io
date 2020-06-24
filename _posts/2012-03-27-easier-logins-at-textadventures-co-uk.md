@@ -5,6 +5,7 @@ title: >
 permalink: /2012/03/27/easier-logins-at-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/27/easier-logins-at-textadventures-co-uk/
+tag: [textadventures.co.uk v1]
 ---
 You can now <a title="Log in" href="http://www.textadventures.co.uk/log-in/">log in to textadventures.co.uk</a> using your Facebook account, and there's also (finally) a "Remember me" option if you're logging in to the site directly.
 
