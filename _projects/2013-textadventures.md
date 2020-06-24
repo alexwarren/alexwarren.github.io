@@ -16,6 +16,7 @@ techtags:
     - SQL Server
     - Entity Framework
 description: A place to play, create, share and review text adventure games
+tag: textadventures.co.uk
 ---
 
 A site where users can create, download, share, review and comment on text adventure games.

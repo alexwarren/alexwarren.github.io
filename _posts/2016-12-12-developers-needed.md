@@ -5,6 +5,7 @@ title: >
 permalink: /2016/12/12/developers-needed/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2016/12/12/developers-needed/
+tag: textadventures.co.uk
 ---
 This is a follow up to <a href="/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/">Looking for a new owner for textadventures.co.uk and Quest</a>.
 

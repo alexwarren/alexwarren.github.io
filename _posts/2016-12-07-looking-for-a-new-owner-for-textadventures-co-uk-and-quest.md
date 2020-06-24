@@ -5,6 +5,7 @@ title: >
 permalink: /2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2016/12/07/looking-for-a-new-owner-for-textadventures-co-uk-and-quest/
+tag: textadventures.co.uk
 ---
 I have been developing <a href="https://github.com/textadventures/quest">Quest</a> and <a href="http://textadventures.co.uk/">textadventures.co.uk</a> for a long time. It started off as a summer coding project when I was a teenager and wanted to send stupid text adventure games to a friend. Over the last couple of decades it has turned into something far bigger than I could have imagined.
 

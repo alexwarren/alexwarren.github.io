@@ -5,6 +5,7 @@ title: >
 permalink: /2014/04/10/how-am-i-doing-the-quest-and-textadventures-co-uk-annual-review-201314/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2014/04/10/how-am-i-doing-the-quest-and-textadventures-co-uk-annual-review-201314/
+tag: textadventures.co.uk
 ---
 I've done an "annual review" at around this time of year for the last few years, so it feels like a good idea to do it again, one last time. For reference:
 <ul>

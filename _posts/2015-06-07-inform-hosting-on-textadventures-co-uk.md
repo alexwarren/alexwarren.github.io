@@ -5,6 +5,7 @@ title: >
 permalink: /2015/06/07/inform-hosting-on-textadventures-co-uk/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2015/06/07/inform-hosting-on-textadventures-co-uk/
+tag: textadventures.co.uk
 ---
 You can now upload games created with <a href="http://inform7.com/">Inform</a> directly to textadventures.co.uk.
 
