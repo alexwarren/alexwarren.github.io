@@ -5,6 +5,7 @@ title: >
 permalink: /2013/02/28/quest-5-4-beta-is-out-now/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/28/quest-5-4-beta-is-out-now/
+tag: [Quest 5]
 ---
 Quest 5.4 is now in beta. You can download the Windows version from the <a href="http://www.textadventures.co.uk/quest/download/">Quest download page</a>. <del>The web version will be ready within the next few days</del>. <strong>Update 5th March</strong>: Quest 5.4 is also now live <a href="http://www.textadventures.co.uk/create/">on the web version too</a>!
 

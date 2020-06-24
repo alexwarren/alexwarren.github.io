@@ -5,6 +5,7 @@ title: >
 permalink: /2011/10/13/quest-5-0-1-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/10/13/quest-5-0-1-released/
+tag: [Quest 5]
 ---
 The first bug-fix release of Quest 5 is now available - <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download Quest 5.0.1 here</a>.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2006/11/15/autosave-in-qdk-40/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/15/autosave-in-qdk-40/
+tag: [Quest v4]
 ---
 QDK 4.0 includes a new feature called AutoSave, which will automatically create a backup copies of your game.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/02/25/quest-5-4-script-editor-showing-you-teh-codez/
+tag: [Quest 5]
 ---
 Scripts are everywhere in Quest. Want to play a sound when the user looks at an object? Choose "Run script" and then you can. Want to let the player pick up an object only if they are already carrying another? Choose "Run script" and you can.
 

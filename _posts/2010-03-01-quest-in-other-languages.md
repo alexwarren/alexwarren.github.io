@@ -5,6 +5,7 @@ title: >
 permalink: /2010/03/01/quest-in-other-languages/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/03/01/quest-in-other-languages/
+tag: [Quest 5]
 ---
 Quest 4.1 supports languages other than English by creating an LDF file.
 

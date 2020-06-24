@@ -5,6 +5,7 @@ title: >
 permalink: /2011/05/10/quest-4-1-5-is-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/05/10/quest-4-1-5-is-now-available/
+tag: [Quest v4]
 ---
 Quest 4.1.5 is now available.
 

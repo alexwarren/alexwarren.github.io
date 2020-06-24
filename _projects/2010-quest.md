@@ -13,6 +13,7 @@ techtags:
     - WPF
     - jQuery
 logo: quest.png
+tag: Quest 5
 ---
 
 Quest is an open-source engine and editor for text adventure games, available as a web app and also as a Windows desktop app.

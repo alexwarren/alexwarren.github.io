@@ -5,6 +5,7 @@ title: >
 permalink: /2006/10/28/quest-40-beta-testers-wanted/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/10/28/quest-40-beta-testers-wanted/
+tag: [Quest v4]
 ---
 I am planning to release the first beta of Quest 4.0 in the next week or so.If you would like to help beta test the new version, please email me at <a href="mailto:alex@axeuk.com">alex@axeuk.com</a> asking to sign up as a beta tester.
 

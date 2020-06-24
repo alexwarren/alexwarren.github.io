@@ -5,6 +5,7 @@ title: >
 permalink: /2012/05/12/quest-5-2-is-out-now/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/05/12/quest-5-2-is-out-now/
+tag: [Quest 5]
 ---
 Quest 5.2 has now been released, and you can grab it from the <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download page</a> or <a title="Create a text adventure game" href="http://www.textadventures.co.uk/create/">use it online</a>.
 

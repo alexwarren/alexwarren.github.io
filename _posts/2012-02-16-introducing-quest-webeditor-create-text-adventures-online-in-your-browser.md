@@ -5,6 +5,7 @@ title: >
 permalink: /2012/02/16/introducing-quest-webeditor-create-text-adventures-online-in-your-browser/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/02/16/introducing-quest-webeditor-create-text-adventures-online-in-your-browser/
+tag: [Quest 5]
 ---
 I was hoping to announce the world's very first online text adventure maker - but, dammit! <a href="http://playfic.com/" target="_blank">Playfic</a> got there first, by a matter of days. So, what I am announcing today may be the world's second-ever online text adventure maker, but it is also rather different to Playfic as you will see.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2006/11/28/containers/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/28/containers/
+tag: [Quest v4]
 ---
 Quest 4.0 Beta 2 has just been released, and this adds support for containers and surfaces. These are objects that you can put other objects in, or on top of. You can use these to implement things like bags, boxes, tables and shelves in your game.
 

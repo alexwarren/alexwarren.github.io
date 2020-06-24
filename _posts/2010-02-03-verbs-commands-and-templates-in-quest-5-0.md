@@ -5,6 +5,7 @@ title: >
 permalink: /2010/02/03/verbs-commands-and-templates-in-quest-5-0/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/02/03/verbs-commands-and-templates-in-quest-5-0/
+tag: [Quest 5]
 ---
 <b>Note: this information is now out of date. Please see <a href="http://quest5.net/index.php?title=Verbs,_commands_and_templates">the updated article on the Quest 5 wiki</a></b>
 

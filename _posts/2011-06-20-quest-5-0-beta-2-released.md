@@ -5,6 +5,7 @@ title: >
 permalink: /2011/06/20/quest-5-0-beta-2-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/06/20/quest-5-0-beta-2-released/
+tag: [Quest 5]
 ---
 It's been another busy month of Quest development, and I've just released Beta 2.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2012/06/24/quest-in-italiano/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/06/24/quest-in-italiano/
+tag: [Quest 5]
 ---
 Thanks to Francesco Cordella and Luca Salvicchi, you can now create Quest games in <strong>Italian</strong>.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2010/02/01/the-quest-5-0-aslx-game-file/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/02/01/the-quest-5-0-aslx-game-file/
+tag: [Quest 5]
 ---
 Quest 5.0 uses a new XML-based file format, and files have an .aslx extension.
 

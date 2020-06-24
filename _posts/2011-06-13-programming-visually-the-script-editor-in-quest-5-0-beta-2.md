@@ -5,6 +5,7 @@ title: >
 permalink: /2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/06/13/programming-visually-the-script-editor-in-quest-5-0-beta-2/
+tag: [Quest 5]
 ---
 I've often described Quest as allowing you to create text adventure games "without programming", but of course that's not strictly true. While you <em>could</em> create a game without using any scripts at all, you'd only be able to tap into very basic, default behaviour, so it would be quite a boring game.
 

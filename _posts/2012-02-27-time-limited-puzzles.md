@@ -5,6 +5,7 @@ title: >
 permalink: /2012/02/27/time-limited-puzzles/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/02/27/time-limited-puzzles/
+tag: [Quest 5]
 ---
 When I was at Perins School <a title="Text adventures in the classroom – Quest day at Perins School" href="/2012/02/24/text-adventures-in-the-classroom-quest-day-at-perins-school/">last week</a>, I was asked about puzzles with a time limit. For example, the player opens a cupboard, inside which is a hungry alien. How do you give the player 10 seconds to kill the alien, before the alien kills them instead?
 

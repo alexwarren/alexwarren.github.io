@@ -5,6 +5,7 @@ title: >
 permalink: /2007/01/18/quest-40-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2007/01/18/quest-40-released/
+tag: [Quest v4]
 ---
 Quest 4.0 has finally been released, after a few months of beta testing.
 

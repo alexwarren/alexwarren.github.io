@@ -5,6 +5,7 @@ title: >
 permalink: /2013/05/05/quest-5-4-1-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/05/quest-5-4-1-released/
+tag: [Quest 5]
 ---
 Quest 5.4.1 is now available. If you're using the <a href="http://textadventures.co.uk/create/">web version</a>, you're automatically up to date, and if you're using the desktop version you can <a href="http://textadventures.co.uk/quest/download/">download the update</a>.
 

@@ -5,6 +5,7 @@ title: >
 permalink: /2011/08/04/quest-5-0-release-candidate-1/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/08/04/quest-5-0-release-candidate-1/
+tag: [Quest 5]
 ---
 In the week since Beta 4 was released, 24 issues have been closed on the Issue Tracker, most of which have been relatively minor bugs. I have reached the magic zero mark again, so it's time for the first release candidate, which you can <a title="Download Quest" href="http://www.textadventures.co.uk/quest/download/">download now</a>.
 

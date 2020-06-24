@@ -5,6 +5,7 @@ title: >
 permalink: /2011/07/11/eliminating-guess-the-verb/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/07/11/eliminating-guess-the-verb/
+tag: [Quest 5]
 ---
 Two classic problems of text adventure games:
 <ol>

@@ -5,6 +5,7 @@ title: >
 permalink: /2013/05/07/how-am-i-doing-the-quest-annual-review-201213/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/05/07/how-am-i-doing-the-quest-annual-review-201213/
+tag: [Quest 5]
 ---
 In April 2012 I marked a year of working on Quest full-time by conducting my own "Annual Review" (<a href="/2012/04/03/a-year-of-full-time-questing-part-1/">Part 1</a>, <a href="/2012/04/04/a-year-of-full-time-questing-part-2-the-appraisal/">Part 2</a>). Well, er, 13 months have elapsed since then, which makes it the perfect time to do it all again.
 

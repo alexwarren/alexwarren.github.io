@@ -5,6 +5,7 @@ title: >
 permalink: /2012/03/14/quest-on-the-web-public-beta-preview/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/14/quest-on-the-web-public-beta-preview/
+tag: [Quest 5]
 ---
 The <a href="http://www.textadventures.co.uk/create/">web-based version of the Quest editor</a> is now available publicly for the first time. Many thanks to all those who tested it during the closed beta - your feedback has been really useful. Please keep it coming!
 

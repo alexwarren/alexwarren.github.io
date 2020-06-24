@@ -5,6 +5,7 @@ title: >
 permalink: /2006/11/06/more-advanced-ways-with-verbs/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2006/11/06/more-advanced-ways-with-verbs/
+tag: [Quest v4]
 ---
 I wrote the other day <a href="http://www.axeuk.com/blog/2006/11/02/verbs-an-easier-way-to-add-commands-in-quest-40/">about verbs</a>, and how they provide you with a much easier way of creating commands in Quest 4.0. I thought I would tell you a little bit more about how they work.
 

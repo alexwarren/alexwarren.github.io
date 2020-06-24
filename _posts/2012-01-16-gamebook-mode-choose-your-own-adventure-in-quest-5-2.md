@@ -5,6 +5,7 @@ title: >
 permalink: /2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/01/16/gamebook-mode-choose-your-own-adventure-in-quest-5-2/
+tag: [Quest 5]
 ---
 I've started work on Quest 5.2, aiming for a release in the Spring. One of the first new features I've implemented begins to take Quest away from "pure" text adventures to open up another type of interactive storytelling - <a href="http://en.wikipedia.org/wiki/Gamebook">gamebooks</a>, also known as Choose Your Own Adventure (CYOA).
 

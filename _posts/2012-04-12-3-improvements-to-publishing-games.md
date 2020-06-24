@@ -5,6 +5,7 @@ title: >
 permalink: /2012/04/12/3-improvements-to-publishing-games/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/04/12/3-improvements-to-publishing-games/
+tag: [textadventures.co.uk v1]
 ---
 I've just finished three improvements to how games are published on <a href="http://www.textadventures.co.uk/">textadventures.co.uk</a>:
 

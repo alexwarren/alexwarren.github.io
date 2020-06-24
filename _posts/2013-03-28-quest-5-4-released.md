@@ -5,6 +5,7 @@ title: >
 permalink: /2013/03/28/quest-5-4-released/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2013/03/28/quest-5-4-released/
+tag: [Quest 5]
 ---
 Quest 5.4 has now been released, and you can <a href="http://www.textadventures.co.uk/quest/download/">download it now</a> or <a href="http://www.textadventures.co.uk/create/">use it in your browser</a>.
 

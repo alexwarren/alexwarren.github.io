@@ -5,6 +5,7 @@ title: >
 permalink: /2012/03/17/add-quest-to-chrome/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2012/03/17/add-quest-to-chrome/
+tag: [Quest 5]
 ---
 If you use Google Chrome, you can now add the new web-based version of Quest into it as an app, via <a href="https://chrome.google.com/webstore/detail/ambgegofabbnggkihmboplgghoocjaka">this link</a>.
 

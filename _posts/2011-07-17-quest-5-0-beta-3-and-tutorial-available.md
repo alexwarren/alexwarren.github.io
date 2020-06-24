@@ -5,6 +5,7 @@ title: >
 permalink: /2011/07/17/quest-5-0-beta-3-and-tutorial-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/07/17/quest-5-0-beta-3-and-tutorial-available/
+tag: [Quest 5]
 ---
 Quest 5.0 Beta 3 is <a href="http://quest5.net/wiki/Downloads">now available for download</a>.
 

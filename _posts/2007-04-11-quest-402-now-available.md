@@ -5,6 +5,7 @@ title: >
 permalink: /2007/04/11/quest-402-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2007/04/11/quest-402-now-available/
+tag: [Quest v4]
 ---
 
 Quest 4.02 is now available.

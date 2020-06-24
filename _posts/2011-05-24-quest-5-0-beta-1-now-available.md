@@ -5,6 +5,7 @@ title: >
 permalink: /2011/05/24/quest-5-0-beta-1-now-available/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2011/05/24/quest-5-0-beta-1-now-available/
+tag: [Quest 5]
 ---
 Quest 5.0 has finally reached beta stage!
 

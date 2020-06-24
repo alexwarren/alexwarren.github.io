@@ -5,6 +5,7 @@ title: >
 permalink: /2010/10/18/quest-5-0-is-now-open-source/
 source: textadventures
 sourceUrl: http://blog.textadventures.co.uk/2010/10/18/quest-5-0-is-now-open-source/
+tag: [Quest 5]
 ---
 I believe Quest 5.0 has the potential to be a great system. I've put a lot of thought into the design and I think it's shaping up to be a far more powerful, robust and flexible system than its predecessor.
 
