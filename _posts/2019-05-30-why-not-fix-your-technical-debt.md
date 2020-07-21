@@ -4,6 +4,7 @@ title: Why Not Fix Your Technical Debt?
 slug: why-not-fix-your-technical-debt
 type: talk
 redirect_from: "/talks/why-not-fix-your-technical-debt"
+comments: true
 ---
 
 What is technical debt and why is it important? When should we fix it, and when is it not worth fixing? When it comes to a choice between "fixing up old code" or "delivering new features", it's often "fixing up old code" which loses - how can we fight back against that?

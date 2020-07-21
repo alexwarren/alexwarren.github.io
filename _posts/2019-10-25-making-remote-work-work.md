@@ -3,6 +3,7 @@ layout: post
 title: Making Remote Work Work
 type: talk
 redirect_from: "/talks/making-remote-work-work"
+comments: true
 ---
 
 Many companies think they’re already set up for successful remote working. They have all the tools and technology in place. And yet, many people think working from home is simply not as effective as being in the office. Why is that? By shifting our mindset to make office work look like remote work – “Remote First” – we can help everybody to be more productive, whether they work at home full-time, at the office full-time, or a mixture of both.

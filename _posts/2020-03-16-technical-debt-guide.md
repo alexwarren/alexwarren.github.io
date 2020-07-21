@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Technical Debt Guide
+comments: true
 ---
 
 A recurring theme throughout my career has been developers asking the question "why don't we get more time to fix technical debt?"

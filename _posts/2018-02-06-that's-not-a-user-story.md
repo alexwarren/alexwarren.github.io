@@ -1,6 +1,7 @@
 ---
 layout: post
 title: That's not a user story
+comments: true
 ---
 
 I saw a user story that looked like this:
