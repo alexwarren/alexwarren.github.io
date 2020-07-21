@@ -10,6 +10,11 @@ title: Alex Warren
 <div class="post-header">
     <div class="date">
     {{ post.date | date: "%-d %B %Y" }}
+
+    {% if post.comments %}
+    &middot;
+    <a href="{{ post.url }}#disqus_thread">Comments</a>
+    {% endif %}
     </div>
 </div>
 
@@ -35,3 +40,5 @@ title: Alex Warren
 </ul>
 
 <a class="btn btn-primary more-posts" href="/blog">All Posts</a>
+
+<script id="dsq-count-scr" src="//alexwarren.disqus.com/count.js" async></script>

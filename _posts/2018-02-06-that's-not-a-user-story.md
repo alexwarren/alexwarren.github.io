@@ -2,6 +2,8 @@
 layout: post
 title: That's not a user story
 comments: true
+slug: thats-not-a-user-story
+redirect_from: "/2018/02/06/that's-not-a-user-story"
 ---
 
 I saw a user story that looked like this:
