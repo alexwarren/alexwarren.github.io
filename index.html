@@ -13,7 +13,7 @@ title: Alex Warren
 
     {% if post.comments %}
     &middot;
-    <a href="{{ post.url }}#disqus_thread">Comments</a>
+    <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}">Comments</a>
     {% endif %}
     </div>
 </div>
